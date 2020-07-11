@@ -1,8 +1,6 @@
 ## Hi, I'm Matthew 👋
 
-### I'm a nerd.
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=matthewjdegarmo.matthewjdegarmo)
+### I'm a nerd. ![visitors](https://visitor-badge.glitch.me/badge?page_id=matthewjdegarmo.matthewjdegarmo)
 
 #### I love all things PowerShell!
 
