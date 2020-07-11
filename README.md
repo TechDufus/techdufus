@@ -8,11 +8,11 @@
 - 🔭 I write modules internally for my team, and am looking for ways to contribute to OpenSource PowerShell projects.
 - 🌱 Continuing to learn more about [PowerShell](https://github.com/powershell/powershell), [Git](https://git-scm.com/), [VSCode](https://github.com/microsoft/vscode), [C#](https://docs.microsoft.com/en-us/dotnet/csharp/), [GitHub](https://github.com), and anything that will help me contribute to the community.
 
-#### Tech
+#### Tech preferences
 
 | |                       |                                                           |
 |-|-----------------------|-----------------------------------------------------------|
-|🖥| **Operating System** | [Windows](https://www.microsoft.com/en-us/windows)        |
+|🖥| **Operating System** | [Windows](https://www.microsoft.com/en-us/windows) \ [Pop!\_OS](https://pop.system76.com/)|
 |📺| **Terminal**         | [Windows Terminal](https://github.com/microsoft/terminal) |
 |🐚| **Shell**            | [PowerShell](https://github.com/PowerShell)               |
 |📝| **Editor**           | [Visual Studio Code](https://github.com/Microsoft/vscode) |
