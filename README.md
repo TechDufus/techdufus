@@ -1,4 +1,18 @@
-### Hi there 👋
+## Hi, I'm Matthew 👋
+
+### I'm a nerd.
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=matthewjdegarmo.matthewjdegarmo)
+
+#### I love all things PowerShell!
+
+#### What am I up to?
+- 🔭 I write modules internally for my team, and am looking for ways to contribute to OpenSource PowerShell projects.
+- 🌱 Continuing to learn more about PowerShell, Git, VSCode, C#, GitHub, and anything that will help me contribute to the community.
+
+
+#### Where to find me?
+- 📫 If I have an account, my handle is `matthewjdegarmo`, so feel free to reach out anywhere you'd like.
 
 <!--
 **matthewjdegarmo/matthewjdegarmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
