@@ -10,9 +10,22 @@
 - 🔭 I write modules internally for my team, and am looking for ways to contribute to OpenSource PowerShell projects.
 - 🌱 Continuing to learn more about PowerShell, Git, VSCode, C#, GitHub, and anything that will help me contribute to the community.
 
+#### Tech
+
+| |                       |                                                           |
+|-|-----------------------|-----------------------------------------------------------|
+|🖥| **Operating System** | Windows                                                    |
+|📺| **Terminal**         | [Windows Terminal](https://github.com/microsoft/terminal) |
+|🐚| **Shell**            | [PowerShell](https://github.com/PowerShell)               |
+|📝| **Editor**           | [Visual Studio Code](https://github.com/Microsoft/vscode) |
+
+
 
 #### Where to find me?
 - 📫 If I have an account, my handle is `matthewjdegarmo`, so feel free to reach out anywhere you'd like.
+
+
+
 
 <!--
 **matthewjdegarmo/matthewjdegarmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
