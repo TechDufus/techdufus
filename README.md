@@ -6,24 +6,22 @@
 
 #### What am I up to?
 - 🔭 I write modules internally for my team, and am looking for ways to contribute to OpenSource PowerShell projects.
-- 🌱 Continuing to learn more about PowerShell, Git, VSCode, C#, GitHub, and anything that will help me contribute to the community.
+- 🌱 Continuing to learn more about [PowerShell](https://github.com/powershell/powershell), [Git](https://git-scm.com/), [VSCode](https://github.com/microsoft/vscode), [C#](https://docs.microsoft.com/en-us/dotnet/csharp/), [GitHub](https://github.com), and anything that will help me contribute to the community.
 
 #### Tech
 
 | |                       |                                                           |
 |-|-----------------------|-----------------------------------------------------------|
-|🖥| **Operating System** | Windows                                                    |
+|🖥| **Operating System** | [Windows](https://www.microsoft.com/en-us/windows)        |
 |📺| **Terminal**         | [Windows Terminal](https://github.com/microsoft/terminal) |
 |🐚| **Shell**            | [PowerShell](https://github.com/PowerShell)               |
 |📝| **Editor**           | [Visual Studio Code](https://github.com/Microsoft/vscode) |
 
 
 
-#### Where to find me?
-- 📫 If I have an account, my handle is `matthewjdegarmo`, so feel free to reach out anywhere you'd like.
-
-
-
+#### 📫 Where to find me?
+- [LinkedIn](https://linkedin.com/in/matthewjdegarmo)
+- [Twitter](https://twitter.com/matthewjdegarmo)
 
 <!--
 **matthewjdegarmo/matthewjdegarmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
