@@ -20,9 +20,13 @@
 
 
 #### 📫 Where to find me?
-- [LinkedIn](https://linkedin.com/in/matthewjdegarmo)
-- [Twitter](https://twitter.com/matthewjdegarmo)
+<span class="badge-LinkedIn">
+<a href="https://LinkedIn.com/in/matthewjdegarmo" title="Check me out on LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-Matthew%20DeGarmo%2C%20CISSP-blue" alt="LinkedIn Profile button" /></a>
+</span>
 
+ [![Twitter Follow](https://img.shields.io/twitter/follow/matthewjdegarmo.svg?style=social)](https://twitter.com/matthewjdegarmo) 
+
+#### Want to support?
 <span class="badge-buymeacoffee">
 <a href="https://www.buymeacoffee.com/matthewjdegarmo" title="Donate to this project using Buy Me A Coffee"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-Donate-green.svg" alt="Buy Me A Coffee donate button" /></a>
 </span>
