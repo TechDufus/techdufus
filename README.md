@@ -22,7 +22,7 @@
 #### 📫 Where to find me?
 
 <span class="badge-githubblog">
-<a href="https://matthewjdegarmo.github.io" title="Check out my Blog!"><img src="https://img.shields.io/badge/Blog-Check%20out%20my%20Blog!-blue" alt="Blog button" /></a>
+<a href="https://matthewjdegarmo.github.io" title="Check out my Blog!"><img src="https://img.shields.io/badge/Blog-Check%20out%20my%20Blog!-blue" alt="Blog button" target = "_blank"/></a>
 </span><br>
 
 <span class="badge-LinkedIn">
