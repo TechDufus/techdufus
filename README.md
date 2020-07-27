@@ -20,6 +20,11 @@
 
 
 #### 📫 Where to find me?
+
+<span class="badge-githubblog">
+<a href="https://matthewjdegarmo.github.io" title="Check out my Blog!"><img src="https://img.shields.io/badge/Blog-Check%20out%20my%20Blog!-blue" alt="Blog button" /></a>
+</span>
+
 <span class="badge-LinkedIn">
 <a href="https://LinkedIn.com/in/matthewjdegarmo" title="Check me out on LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-Matthew%20DeGarmo%2C%20CISSP-blue" alt="LinkedIn Profile button" /></a>
 </span>
