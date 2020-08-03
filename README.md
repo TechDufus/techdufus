@@ -2,7 +2,9 @@
 
 ### I'm a nerd. ![visitors](https://visitor-badge.glitch.me/badge?page_id=matthewjdegarmo.matthewjdegarmo)
 
-#### I love all things PowerShell!
+### I love all things PowerShell!
+
+---
 
 #### What am I up to?
 - 🔭 I write modules internally for my team, and am looking for ways to contribute to OpenSource PowerShell projects.
@@ -30,6 +32,10 @@
 </span>
 
  [![Twitter Follow](https://img.shields.io/twitter/follow/matthewjdegarmo.svg?style=social)](https://twitter.com/matthewjdegarmo) 
+ 
+ ### Latest Blog Posts
+ <!-- BLOG-POST-LIST:START -->
+ <!-- BLOG-POST-LIST:END -->
 
 #### ✨Want to support?✨
 <span class="badge-buymeacoffee">
