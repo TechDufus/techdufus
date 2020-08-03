@@ -45,6 +45,10 @@
 <a href="https://www.buymeacoffee.com/matthewjdegarmo" title="Donate to this project using Buy Me A Coffee"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-Donate-green.svg" alt="Buy Me A Coffee donate button" /></a>
 </span>
 
+---
+
+<img align="left" alt="matthewjdegarmo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=matthewjdegarmo&show_icons=true&count_private=true&theme=dark" />
+
 <!--
 **matthewjdegarmo/matthewjdegarmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
