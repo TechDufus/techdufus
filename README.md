@@ -35,7 +35,9 @@
  
  ### Latest Blog Posts
  <!-- BLOG-POST-LIST:START -->
- <!-- BLOG-POST-LIST:END -->
+- [How to organize your powershell functions into a module - Part 1](https://matthewjdegarmo.com/powershell/2020/07/28/making-a-module-part-1.html)
+- [Welcome to my blog!](https://matthewjdegarmo.com/personal/2020/07/26/welcome-post.html)
+<!-- BLOG-POST-LIST:END -->
 
 #### ✨Want to support?✨
 <span class="badge-buymeacoffee">
