@@ -36,7 +36,8 @@
  
  ### 👀 Latest Blog Posts
  <!-- BLOG-POST-LIST:START -->
-- [How to organize your powershell functions into a module - Part 1](https://matthewjdegarmo.com/powershell/2020/07/28/making-a-module-part-1.html)
+- [How to organize your powershell functions into a module - Part 2](https://matthewjdegarmo.com/powershell/2020/08/03/how-to-organize-your-powershell-functions-into-a-module-part-2.html)
+- [How to organize your powershell functions into a module - Part 1](https://matthewjdegarmo.com/powershell/2020/07/28/how-to-organize-your-powershell-functions-into-a-module-part-1.html)
 - [Welcome to my blog!](https://matthewjdegarmo.com/personal/2020/07/26/welcome-post.html)
 <!-- BLOG-POST-LIST:END -->
 
