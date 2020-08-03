@@ -3,7 +3,6 @@
 ### I'm a nerd. ![visitors](https://visitor-badge.glitch.me/badge?page_id=matthewjdegarmo.matthewjdegarmo)
 
 ### I love all things PowerShell!
-
 ---
 
 #### What am I up to?
@@ -32,6 +31,8 @@
 </span>
 
  [![Twitter Follow](https://img.shields.io/twitter/follow/matthewjdegarmo.svg?style=social)](https://twitter.com/matthewjdegarmo) 
+ 
+ ---
  
  ### 👀 Latest Blog Posts
  <!-- BLOG-POST-LIST:START -->
