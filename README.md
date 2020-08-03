@@ -33,7 +33,7 @@
 
  [![Twitter Follow](https://img.shields.io/twitter/follow/matthewjdegarmo.svg?style=social)](https://twitter.com/matthewjdegarmo) 
  
- ### Latest Blog Posts
+ ### 👀 Latest Blog Posts
  <!-- BLOG-POST-LIST:START -->
 - [How to organize your powershell functions into a module - Part 1](https://matthewjdegarmo.com/powershell/2020/07/28/making-a-module-part-1.html)
 - [Welcome to my blog!](https://matthewjdegarmo.com/personal/2020/07/26/welcome-post.html)
