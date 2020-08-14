@@ -17,6 +17,9 @@
 - 🔭 I write modules internally for my team, and am looking for ways to contribute to OpenSource PowerShell projects.
 - 🌱 Continuing to learn more about [PowerShell](https://github.com/powershell/powershell), [Git](https://git-scm.com/), [VSCode](https://github.com/microsoft/vscode), [C#](https://docs.microsoft.com/en-us/dotnet/csharp/), [GitHub](https://github.com), and anything that will help me contribute to the community.
 
+<img align="left" alt="matthewjdegarmo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=matthewjdegarmo&show_icons=true&count_private=true&theme=dark&include_all_commits=true" />
+
+<!--
 #### Tech preferences
 
 | |                       |                                                           |
@@ -25,7 +28,7 @@
 |📺| **Terminal**         | [Windows Terminal](https://github.com/microsoft/terminal) |
 |🐚| **Shell**            | [PowerShell](https://github.com/PowerShell)               |
 |📝| **Editor**           | [Visual Studio Code](https://github.com/Microsoft/vscode) |
-
+-->
  ---
  
  ### 👀 Latest Blog Posts
@@ -39,10 +42,6 @@
 <span class="badge-buymeacoffee">
 <a href="https://www.buymeacoffee.com/matthewjdegarmo" title="Donate to this project using Buy Me A Coffee"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-Donate-green.svg" alt="Buy Me A Coffee donate button" /></a>
 </span>
-
----
-
-<img align="left" alt="matthewjdegarmo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=matthewjdegarmo&show_icons=true&count_private=true&theme=dark&include_all_commits=true" />
 
 <!--
 **matthewjdegarmo/matthewjdegarmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
