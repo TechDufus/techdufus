@@ -3,6 +3,14 @@
 ### I'm a nerd. ![visitors](https://visitor-badge.glitch.me/badge?page_id=matthewjdegarmo.matthewjdegarmo)
 
 ### I love all things PowerShell!
+[<img align="center" height="40" src="https://img.icons8.com/color/144/000000/linkedin.png"/>](https://www.linkedin.com/in/matthewjdegarmo/)
+[<img align="center" height="40" src="https://img.icons8.com/fluent/144/000000/twitter.png"/>](https://twitter.com/matthewjdegarmo)
+[<img align="center" height="40" src="https://img.icons8.com/fluent/144/000000/instagram-new.png"/>](https://www.instagram.com/matthewjdegarmo/)
+[<img align="center" height="40" src="https://img.icons8.com/fluent/144/000000/facebook-new.png"/>](https://www.facebook.com/people/matthewjdegarmo)
+[<img align="center" height="40" src="https://img.icons8.com/cotton/100/000000/hot-coffee--v1.png"/>](https://buymeacoff.ee/matthewjdegarmo)
+[<img align="center" height="40" src="https://img.icons8.com/nolan/64/domain.png"/>](https://matthewjdegarmo.com)
+[<img align="center" height="40" src="https://img.icons8.com/doodle/48/000000/reddit--v1.png"/>](https://www.reddit.com/user/matthewjdegarmo)
+[<img align="center" height="40" src="https://img.icons8.com/dusk/64/000000/rss.png"/>](https://matthewjdegarmo.com/feed.xml)
 ---
 
 #### What am I up to?
@@ -18,20 +26,6 @@
 |🐚| **Shell**            | [PowerShell](https://github.com/PowerShell)               |
 |📝| **Editor**           | [Visual Studio Code](https://github.com/Microsoft/vscode) |
 
-
-
-#### 📫 Where to find me?
-
-<span class="badge-githubblog">
-<a href="https://matthewjdegarmo.github.io" title="Check out my Blog!"><img src="https://img.shields.io/badge/{%20matthewjdegarmo%20}-Check%20out%20my%20Blog!-blue" alt="Blog button" target = "_blank"/></a>
-</span><br>
-
-<span class="badge-LinkedIn">
-<a href="https://LinkedIn.com/in/matthewjdegarmo" title="Check me out on LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-Matthew%20DeGarmo%2C%20CISSP-blue" alt="LinkedIn Profile button" /></a>
-</span>
-
- [![Twitter Follow](https://img.shields.io/twitter/follow/matthewjdegarmo.svg?style=social)](https://twitter.com/matthewjdegarmo) 
- 
  ---
  
  ### 👀 Latest Blog Posts
