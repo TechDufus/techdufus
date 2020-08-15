@@ -1,7 +1,7 @@
 ## Hi, I'm Matthew 👋
 
 ### I'm a nerd. <p align="center"> 
-  Visitor count<br>
+  **Visitors**<br>
   <img src="https://profile-counter.glitch.me/matthewjdegarmo/count.svg" />
 </p>
 
