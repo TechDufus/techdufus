@@ -1,11 +1,10 @@
-## Hi, I'm Matthew 👋
-
-### I'm a nerd. <p align="center"> 
-  **Visitors**<br>
+## Hi, I'm Matthew 👋 
+<p align="center"> 
+  Visitors<br>
   <img src="https://profile-counter.glitch.me/matthewjdegarmo/count.svg" />
 </p>
 
-### I love all things PowerShell!
+### I'm a nerd, and I love all things PowerShell!
 [<img align="center" height="40" src="https://img.icons8.com/color/144/000000/linkedin.png"/>](https://www.linkedin.com/in/matthewjdegarmo/)
 [<img align="center" height="40" src="https://img.icons8.com/fluent/144/000000/twitter.png"/>](https://twitter.com/matthewjdegarmo)
 [<img align="center" height="40" src="https://img.icons8.com/fluent/144/000000/instagram-new.png"/>](https://www.instagram.com/matthewjdegarmo/)
