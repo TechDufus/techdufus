@@ -16,6 +16,9 @@ jobs:
     steps:
     # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
     - uses: actions/checkout@v2
+      env: 
+        GH_USER: ${{ secrets.GH_USER }}
+        GH_EMAIL: ${{ secrets.GH_EMAIL }}
 
     - name: Get current PSGallery downloads
       shell: pwsh
