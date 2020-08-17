@@ -48,6 +48,7 @@ if ($PSGalleryDownloads -gt $ProfileDownloads) {
   git config --local user.email 'matthewjdegarmo@gmail.com'
   git config --local user.name 'Matthew J. DeGarmo'
   git commit -m "Updating PSGallery Downloads badge from $ProfileDownloads to $PSGalleryDownloads" -a
-  git push
-  exit 0
+  try {
+    git push --quiet
+  } catch {}
 }
