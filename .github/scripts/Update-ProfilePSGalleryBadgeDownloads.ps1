@@ -45,8 +45,8 @@ if ($PSGalleryDownloads -gt $ProfileDownloads) {
   $OriginalREADME_CONTENT = Get-Content $Readme_path
   $NewREADME_CONTENT = $OriginalREADME_CONTENT -replace '-\d+-',"-$PSGalleryDownloads`-"
   Set-Content -Path $Readme_path -Value $NewREADME_CONTENT
-  git config --local user.email $env:GH_EMAIL
-  git config --local user.name $env:GH_USER
+  git config --local user.email ${{ secrets.GH_EMAIL }}
+  git config --local user.name ${{ secrets.GH_USER }}
   git commit -m "Updating PSGallery Downloads badge from $ProfileDownloads to $PSGalleryDownloads" -a
   git push
   exit 0
