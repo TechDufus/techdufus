@@ -42,7 +42,7 @@ if ($PSGalleryDownloads -gt $ProfileDownloads) {
   ## NEED TO UPDATE LINK IN README
   Write-Output "Updating Git Profile README.ME badge."
   $Readme_path = [System.IO.Path]::Combine($GITHUB_WORKSPACE,'Readme.md')
-  $OriginalREADME_CONTENT = Get-Content $Raedme_path
+  $OriginalREADME_CONTENT = Get-Content $Readme_path
   $NewREADME_CONTENT = $OriginalREADME_CONTENT -replace '-\d+-',"-$PSGalleryDownloads`-"
   Set-Content -Path $Readme_path -Value $NewREADME_CONTENT
   git config --local user.email "matthewjdegarmo@gmail.com"
