@@ -60,9 +60,10 @@ if ($PSGalleryDownloads -gt $ProfileDownloads) {
     $FormatedDownloadsNum = [String]::Format('{0:N0}', $PSGalleryDownloads)
     $Readme_path = [System.IO.Path]::Combine($GITHUB_WORKSPACE, 'Readme.md')
     $OriginalREADME_CONTENT = Get-Content $Readme_path
-    $NewREADME_CONTENT = $OriginalREADME_CONTENT -replace '-\d+-', "-$FormatedDownloadsNum`-"
+    $NewREADME_CONTENT = $OriginalREADME_CONTENT -replace '-\d+-', "-~$FormatedDownloadsNum`-"
     Set-Content -Path $Readme_path -Value $NewREADME_CONTENT
     git config --local user.name 'Matthew J. DeGarmo'
+    git config --local user.email 'matthewjdegarmo@gmail.com'
     git commit -m "Updating PSGallery Downloads badge from $ProfileDownloads to $PSGalleryDownloads" -a
     try {
         git push --quiet
