@@ -5,28 +5,43 @@ function Get-PSGalleryDownloads() {
         [System.String[]] $PackageName
     )
     begin {
-        $TotalDownloads = 0
-        $ReturnObject = @{}
+
     }
     Process {
         try {
+            $TotalDownloads = 0
+            $ReturnObject = @{
+                Total = $TotalDownloads
+            }
             $PackageName | ForEach-Object {
+                $PackageDownloads = $null
                 Write-Verbose "PackageName: $_"
                 $URL = "https://img.shields.io/powershellgallery/dt/$_.json"
-                $PackageDownloads = ((Invoke-WebRequest $Url) | ConvertFrom-JSON).Value
+                Write-Verbose $URL
+                $PackageDownloads = (((Invoke-WebRequest $Url) | ConvertFrom-JSON).Value)
                 Write-Verbose "$_ downloads: $PackageDownloads"
-                $TotalDownloads = $TotalDownloads + $PackageDownloads
+                switch($PackageDownloads) {
+                    { $_ -match 'k' } {
+                        $PackageDownloadsInt = "$($PackageDownloads.ToString().SubString(0,$PackageDownloads.ToString().Length-1)),000"
+                        $TotalDownloads = $TotalDownloads + $PackageDownloadsInt
+                    } { $_ -match 'm' } {
+                        $PackageDownloadsInt = "$($PackageDownloads.ToString().SubString(0,$PackageDownloads.ToString().Length-1)),000,000"
+                        $TotalDownloads = $TotalDownloads + $PackageDownloadsInt
+                    } DEFAULT {
+                        $TotalDownloads = $TotalDownloads + $PackageDownloads
+                    }
+                }
+
                 Write-Verbose "CurrentTotal: $TotalDownloads"
-                $ReturnObject += @{$_ = $PackageDownloads }
+                $ReturnObject["$_"] = $PackageDownloads
             }
+            $ReturnObject['Total'] = $TotalDownloads
+            $ReturnObject
         }
         catch {
         }
     }
-    end {
-        $ReturnObject += @{Total = $TotalDownloads }
-        [pscustomobject]$ReturnObject
-    }
+    end {}
 }
 
 function Get-CurrentProfileDownloadsValue() {
