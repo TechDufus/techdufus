@@ -45,11 +45,11 @@ function Get-PSGalleryDownloads() {
 }
 
 function Get-CurrentProfileDownloadsValue() {
-    ((Invoke-WebRequest "https://raw.githubusercontent.com/matthewjdegarmo/matthewjdegarmo/master/README.md").Content | Select-String -pattern "-\d+-").matches.value -replace '-'
+    (((Invoke-WebRequest "https://raw.githubusercontent.com/matthewjdegarmo/matthewjdegarmo/master/README.md").Content | Select-String -pattern "-~\d+-").matches.value -replace '-') -replace '~'
 }
 
 $PSGalleryDownloads = (Get-PSGalleryDownloads -PackageName 'HelpDesk', 'AdminToolkit').Total
-$ProfileDownloads = Get-CurrentPRofileDownloadsValue
+$ProfileDownloads = Get-CurrentProfileDownloadsValue
 Write-Output "Current PSGallery Downloads : $PSGalleryDownloads"
 Write-Output "Current Profile Downloads   : $ProfileDownloads"
 
@@ -60,7 +60,7 @@ if ($PSGalleryDownloads -gt $ProfileDownloads) {
     $FormatedDownloadsNum = [String]::Format('{0:N0}', $PSGalleryDownloads)
     $Readme_path = [System.IO.Path]::Combine($GITHUB_WORKSPACE, 'Readme.md')
     $OriginalREADME_CONTENT = Get-Content $Readme_path
-    $NewREADME_CONTENT = $OriginalREADME_CONTENT -replace '-\d+-', "-~$FormatedDownloadsNum`-"
+    $NewREADME_CONTENT = $OriginalREADME_CONTENT -replace '-~\d+-', "-~$FormatedDownloadsNum`-"
     Set-Content -Path $Readme_path -Value $NewREADME_CONTENT
     git config --local user.name 'Matthew J. DeGarmo'
     git config --local user.email 'matthewjdegarmo@gmail.com'
