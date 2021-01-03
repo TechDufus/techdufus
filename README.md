@@ -7,6 +7,7 @@
 ### I'm a nerd, and I love all things PowerShell! [![TotalPSGalleryDownloads](https://img.shields.io/badge/Total%20PSGallery%20Downloads-~267-green)](https://www.powershellgallery.com/profiles/matthewjdegarmo)
 [<img align="center" height="40" src="https://img.icons8.com/color/144/000000/linkedin.png"/>](https://www.linkedin.com/in/matthewjdegarmo/)
 [<img align="center" height="40" src="https://img.icons8.com/fluent/144/000000/twitter.png"/>](https://twitter.com/matthewjdegarmo)
+[<img align="center" height="40" src="https://img.icons8.com/color/144/000000/twitch.png"/>](https://www.twitch.tv/matthewjdegarmo/about/)
 [<img align="center" height="40" src="https://img.icons8.com/fluent/144/000000/instagram-new.png"/>](https://www.instagram.com/matthewjdegarmo/)
 [<img align="center" height="40" src="https://img.icons8.com/fluent/144/000000/facebook-new.png"/>](https://www.facebook.com/matthewjdegarmo)
 [<img align="center" height="40" src="https://img.icons8.com/cotton/100/000000/hot-coffee--v1.png"/>](https://buymeacoff.ee/matthewjdegarmo)
