@@ -19,7 +19,7 @@
 #### What am I up to?
 - 🎥 I Live-Stream PowerShell projects and other Open Source projects that I work on. Feel free to follow me on [Twitch](https://www.twitch.tv/matthewjdegarmo/about/)!
 - 🔭 I write PowerShell modules internally for my team, and am looking for ways to contribute to Open Source projects.
-- 🌱 Continuing to learn more about [PowerShell](https://github.com/powershell/powershell), [Git](https://git-scm.com/), [VSCode](https://github.com/microsoft/vscode), [C#](https://docs.microsoft.com/en-us/dotnet/csharp/), [GitHub](https://github.com), [Azure Pipelines](https://docs.microsoft.com/en-us/azure/devops/pipelines) and anything that will help me contribute to the community.
+- 🌱 Continuing to learn more about [PowerShell](https://github.com/powershell/powershell), [Git](https://git-scm.com/), [VSCode](https://github.com/microsoft/vscode), [C#](https://docs.microsoft.com/en-us/dotnet/csharp/), [GitHub](https://github.com), [Azure Pipelines](https://docs.microsoft.com/en-us/azure/devops/pipelines), [Python](https://www.python.org/), and anything that will help me contribute to the community.
 ---
 
 <img align="center" alt="matthewjdegarmo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=matthewjdegarmo&show_icons=true&count_private=true&theme=dark&include_all_commits=true&line_height=21&cache_seconds=1800"/><img align="center" alt="matthewjdegarmo's Github Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matthewjdegarmo&layout=compact&theme=dark"/>
