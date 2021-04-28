@@ -1,3 +1,0 @@
-# Sponsors on GitHub
-
-@matthewjdegarmo
