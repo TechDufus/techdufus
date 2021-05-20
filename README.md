@@ -36,5 +36,5 @@
 - [How to organize your powershell functions into a module - Part 2](https://matthewjdegarmo.com/powershell/2020/08/03/how-to-organize-your-powershell-functions-into-a-module-part-2.html)
 <!-- BLOG-POST-LIST:END -->
 
-'<!-- SPONSORS-LIST:START -->'
-'<!-- SPONSORS-LIST:END -->'
+<!-- SPONSORS-LIST:START -->
+<!-- SPONSORS-LIST:END -->
