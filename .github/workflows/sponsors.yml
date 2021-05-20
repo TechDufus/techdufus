@@ -1,7 +1,8 @@
 name: Update Sponsors
 on:
   push:
-    path: "./SPONSORS.yaml"
+    paths: 
+      - "./SPONSORS.yaml"
 
 jobs:
   update-sponsors-section:
