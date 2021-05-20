@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: matthewjdegarmo/Sponsors@latest
+      - uses: matthewjdegarmo/Sponsors@0.0.1-beta
         with:
           sponsors_file: ./SPONSORS.yaml
           readme_file: ./README.MD
