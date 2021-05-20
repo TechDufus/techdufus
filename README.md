@@ -37,4 +37,20 @@
 <!-- BLOG-POST-LIST:END -->
 
 <!-- SPONSORS-LIST:START -->
+# Thanks to all of my Sponsors!
+
+## GitHub Sponsors
+
+[<img src="https://github.com/matthewjdegarmo.png" alt="matthewjdegarmo" width="145"/>](https://github.com/matthewjdegarmo)
+[<img src="https://github.com/brrees01.png" alt="brrees01" width="145"/>](https://github.com/brrees01)
+[<img src="https://github.com/ctmcisco.png" alt="ctmcisco" width="145"/>](https://github.com/ctmcisco)
+[<img src="https://github.com/EdwardHanlon.png" alt="EdwardHanlon" width="145"/>](https://github.com/EdwardHanlon)
+[<img src="https://github.com/packersking.png" alt="packersking" width="145"/>](https://github.com/packersking)
+
+## Twitch Sponsors
+
+[![Twitch](https://img.shields.io/badge/matthewjdegarmo-black?logo=twitch)](https://twitch.tv/matthewjdegarmo)
+[![Twitch](https://img.shields.io/badge/brettmillerit-black?logo=twitch)](https://twitch.tv/brettmillerit)
+[![Twitch](https://img.shields.io/badge/ghostyjungle-black?logo=twitch)](https://twitch.tv/ghostyjungle)
+
 <!-- SPONSORS-LIST:END -->
