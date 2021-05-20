@@ -1,0 +1,15 @@
+name: Update Sponsors
+on:
+  push:
+    path: "./SPONSORS.yaml"
+
+jobs:
+  update-sponsors-section:
+    name: Update this repo's README's sponsors.
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: matthewjdegarmo/Sponsors@latest
+        with:
+          sponsors_file: ./SPONSORS.yaml
+          readme_file: ./README.MD
