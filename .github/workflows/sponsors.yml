@@ -13,4 +13,4 @@ jobs:
       - uses: matthewjdegarmo/Sponsors@main
         with:
           sponsors_file: ./SPONSORS.yaml
-          readme_file: ./README.MD
+          readme_file: ./README.md
