@@ -29,9 +29,9 @@
  
  ### 👀 Latest Blog Posts
  <!-- BLOG-POST-LIST:START -->
+- [Testing Terraform IaC with Pester - Unit Tests](https://matthewjdegarmo.com/powershell/2021/05/31/testing-teraform-iac-with-pester-unit-tests.html)
 - [How to Import a Locally Defined Function into a Remote PowerShell Session](https://matthewjdegarmo.com/powershell/2021/03/31/how-to-import-a-locally-defined-function-into-a-remote-powershell-session.html)
 - [Use PowerShell to Detect Running OS](https://matthewjdegarmo.com/powershell/2021/03/30/use-powershell-to-detect-running-os.html)
 - [How to securely store credentials locally using PowerShell. NO PLAIN TEXT.](https://matthewjdegarmo.com/powershell/2020/11/20/how-to-securely-store-credentials-locally-using-powershell-no-plain-text.html)
 - [PowerShell Functions: The Basics of Creating PowerShell Functions](https://matthewjdegarmo.com/powershell/2020/08/16/powershell-functions-the-basics-of-creating-powershell-functions.html)
-- [How to organize your powershell functions into a module - Part 2](https://matthewjdegarmo.com/powershell/2020/08/03/how-to-organize-your-powershell-functions-into-a-module-part-2.html)
 <!-- BLOG-POST-LIST:END -->
