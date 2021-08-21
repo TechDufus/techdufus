@@ -22,7 +22,8 @@
 - 🌱 Continuing to learn more about [PowerShell](https://github.com/powershell/powershell), [Terraform](https://www.terraform.io/), [Git](https://git-scm.com/), [VSCode](https://github.com/microsoft/vscode), [C#](https://docs.microsoft.com/en-us/dotnet/csharp/), [GitHub](https://github.com), [Azure Pipelines](https://docs.microsoft.com/en-us/azure/devops/pipelines), [Python](https://www.python.org/), and anything that will help me contribute to the community.
 ---
 
-<img align="center" alt="matthewjdegarmo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=matthewjdegarmo&show_icons=true&count_private=true&theme=dark&include_all_commits=true&line_height=21&cache_seconds=1800"/><img align="center" alt="matthewjdegarmo's Github Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matthewjdegarmo&layout=compact&theme=dark"/>
+<img align="center" alt="matthewjdegarmo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=matthewjdegarmo&show_icons=true&count_private=true&theme=dark&include_all_commits=true&line_height=21&cache_seconds=1800"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=matthewjdegarmo&theme=dark" alt="GitHub Streak" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=matthewjdegarmo&theme=dark" style="max-width:100%;">
 
 
  
