@@ -45,7 +45,7 @@ function Get-PSGalleryDownloads() {
 }
 
 function Get-CurrentProfileDownloadsValue() {
-    (((Invoke-WebRequest "https://raw.githubusercontent.com/matthewjdegarmo/matthewjdegarmo/master/README.md").Content | Select-String -pattern "-~\d+-").matches.value -replace '-') -replace '~'
+    (((Invoke-WebRequest "https://raw.githubusercontent.com/matthewjdegarmo/matthewjdegarmo/master/README.md").Content | Select-String -pattern "-~(\d+|\d{1,3}(,\d{3})*)(\.\d+)?-").matches.value -replace '-') -replace '~'
 }
 
 $PSGalleryDownloads = (Get-PSGalleryDownloads -PackageName 'HelpDesk', 'AdminToolkit', 'PSChipotle').Total
