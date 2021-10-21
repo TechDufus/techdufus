@@ -64,7 +64,7 @@ if ($PSGalleryDownloads -gt $ProfileDownloads) {
     Set-Content -Path $Readme_path -Value $NewREADME_CONTENT
     git config --local user.name 'Matthew J. DeGarmo'
     git config --local user.email 'matthewjdegarmo@gmail.com'
-    git commit -m "Updating PSGallery Downloads badge from $ProfileDownloads to $FormattedDownloadsNum" -a
+    git commit -m "Updating PSGallery Downloads badge from $ProfileDownloads to $FormatedDownloadsNum" -a
     try {
         git push --quiet
     }
