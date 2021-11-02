@@ -4,7 +4,7 @@
   <img src="https://profile-counter.glitch.me/matthewjdegarmo/count.svg" />
 </p>
 
-### I'm a nerd, and I love all things PowerShell! [![TotalPSGalleryDownloads](https://img.shields.io/badge/Total%20PSGallery%20Downloads-~1,140-green)](https://www.powershellgallery.com/profiles/matthewjdegarmo)
+### I'm a nerd, and I love all things PowerShell! [![TotalPSGalleryDownloads](https://img.shields.io/badge/Total%20PSGallery%20Downloads-~1,142-green)](https://www.powershellgallery.com/profiles/matthewjdegarmo)
 [<img align="center" height="40" src="https://img.icons8.com/color/144/000000/linkedin.png"/>](https://www.linkedin.com/in/matthewjdegarmo/)
 [<img align="center" height="40" src="https://img.icons8.com/fluent/144/000000/twitter.png"/>](https://twitter.com/matthewjdegarmo)
 [<img align="center" height="40" src="https://img.icons8.com/color/144/000000/twitch.png"/>](https://www.twitch.tv/matthewjdegarmo/about/)
@@ -38,4 +38,10 @@
 <!-- BLOG-POST-LIST:END -->
 
 <!-- SPONSORS-LIST:START -->
+# Thanks to all of my Sponsors!
+
+## GitHub Sponsors
+
+[<img src="https://github.com/thefirstnoe1.png" alt="thefirstnoe1" width="145"/>](https://github.com/thefirstnoe1)
+
 <!-- SPONSORS-LIST:END -->
