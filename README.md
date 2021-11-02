@@ -38,4 +38,10 @@
 <!-- BLOG-POST-LIST:END -->
 
 <!-- SPONSORS-LIST:START -->
+# Thanks to all of my Sponsors!
+
+## GitHub Sponsors
+
+[<img src="https://github.com/thefirstnoe1.png" alt="thefirstnoe1" width="145"/>](https://github.com/thefirstnoe1)
+
 <!-- SPONSORS-LIST:END -->
