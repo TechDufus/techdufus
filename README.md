@@ -43,6 +43,5 @@
 ## GitHub Sponsors
 
 [<img src="https://github.com/thefirstnoe1.png" alt="thefirstnoe1" width="145"/>](https://github.com/thefirstnoe1)
-[<img src="https://github.com/matthewjdegarmo.png" alt="matthewjdegarmo" width="145"/>](https://github.com/matthewjdegarmo)
 
 <!-- SPONSORS-LIST:END -->
