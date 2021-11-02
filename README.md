@@ -36,3 +36,6 @@
 - [Use PowerShell to Detect Running OS](https://matthewjdegarmo.com/powershell/2021/03/30/use-powershell-to-detect-running-os.html)
 - [How to securely store credentials locally using PowerShell. NO PLAIN TEXT.](https://matthewjdegarmo.com/powershell/2020/11/20/how-to-securely-store-credentials-locally-using-powershell-no-plain-text.html)
 <!-- BLOG-POST-LIST:END -->
+
+<!-- SPONSORS-LIST:START -->
+<!-- SPONSORS-LIST:END -->
