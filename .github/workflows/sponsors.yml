@@ -2,7 +2,7 @@ name: Update Sponsors
 on:
   push:
     paths: 
-      - "SPONSORS.yaml"
+      - ".github/SPONSORS.yml"
 
 jobs:
   update-sponsors-section:
@@ -12,5 +12,5 @@ jobs:
       - uses: actions/checkout@v2
       - uses: matthewjdegarmo/Sponsors@main
         with:
-          sponsors_file: ./SPONSORS.yaml
+          sponsors_file: ./.github/SPONSORS.yml
           readme_file: ./README.md
