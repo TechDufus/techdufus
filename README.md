@@ -25,6 +25,11 @@
 <img align="center" alt="matthewjdegarmo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=matthewjdegarmo&show_icons=true&count_private=true&theme=dark&include_all_commits=true&line_height=21&cache_seconds=1800"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=matthewjdegarmo&theme=dark" alt="GitHub Streak" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=matthewjdegarmo&theme=dark" style="max-width:100%;">
 
+<details>
+  <summary><b>⚡ Recent Activity</b></summary>
+    <p>
+
+
 <!--START_SECTION:activity-->
 1. ❗️ Closed issue [#3](https://github.com/matthewjdegarmo/HelpDesk/issues/3) in [matthewjdegarmo/HelpDesk](https://github.com/matthewjdegarmo/HelpDesk)
 2. 🗣 Commented on [#3](https://github.com/matthewjdegarmo/HelpDesk/issues/3) in [matthewjdegarmo/HelpDesk](https://github.com/matthewjdegarmo/HelpDesk)
@@ -37,7 +42,8 @@
 9. 💪 Opened PR [#109](https://github.com/PoshCode/ModuleBuilder/pull/109) in [PoshCode/ModuleBuilder](https://github.com/PoshCode/ModuleBuilder)
 10. 🗣 Commented on [#131](https://github.com/RamblingCookieMonster/PSDepend/issues/131) in [RamblingCookieMonster/PSDepend](https://github.com/RamblingCookieMonster/PSDepend)
 <!--END_SECTION:activity-->
- 
+ </p>
+</details>
  
  ### 👀 Latest Blog Posts
  <!-- BLOG-POST-LIST:START -->
