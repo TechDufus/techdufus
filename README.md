@@ -5,7 +5,6 @@
 </p>
 
 ### I'm a nerd, and I love all things PowerShell! [![TotalPSGalleryDownloads](https://img.shields.io/badge/Total%20PSGallery%20Downloads-~1,479-green)](https://www.powershellgallery.com/profiles/matthewjdegarmo)
-<p align="center">
 [<img align="center" height="40" src="https://img.icons8.com/color/144/000000/linkedin.png"/>](https://www.linkedin.com/in/matthewjdegarmo/)
 [<img align="center" height="40" src="https://img.icons8.com/fluent/144/000000/twitter.png"/>](https://twitter.com/matthewjdegarmo)
 [<img align="center" height="40" src="https://img.icons8.com/color/144/000000/twitch.png"/>](https://www.twitch.tv/matthewjdegarmo/about/)
@@ -15,7 +14,6 @@
 [<img align="center" height="40" src="https://img.icons8.com/nolan/64/domain.png"/>](https://matthewjdegarmo.com)
 [<img align="center" height="40" src="https://img.icons8.com/doodle/48/000000/reddit--v1.png"/>](https://www.reddit.com/user/matthewjdegarmo)
 [<img align="center" height="40" src="https://img.icons8.com/dusk/64/000000/rss.png"/>](https://matthewjdegarmo.com/feed.xml)
-</p>
 ---
 
 #### What am I up to?
