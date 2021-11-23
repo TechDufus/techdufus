@@ -27,9 +27,9 @@
 <img align="center" alt="matthewjdegarmo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=matthewjdegarmo&show_icons=true&count_private=true&theme=dark&include_all_commits=true&line_height=21&cache_seconds=1800"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=matthewjdegarmo&theme=dark" alt="GitHub Streak" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=matthewjdegarmo&theme=dark" style="max-width:100%;">
 
-### ⚡ Recent GitHub Activity
 <details>
-<p>
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+    <p>
 <!--START_SECTION:activity-->
 1. ❗️ Closed issue [#3](https://github.com/matthewjdegarmo/HelpDesk/issues/3) in [matthewjdegarmo/HelpDesk](https://github.com/matthewjdegarmo/HelpDesk)
 2. 🗣 Commented on [#3](https://github.com/matthewjdegarmo/HelpDesk/issues/3) in [matthewjdegarmo/HelpDesk](https://github.com/matthewjdegarmo/HelpDesk)
@@ -45,7 +45,7 @@
  </p>
 </details>
  
-### 👀 Latest Blog Posts
+ ### 👀 Latest Blog Posts
  <!-- BLOG-POST-LIST:START -->
 - [Remove Overlapping IP Address Ranges from a List of CIDR IP Addresses](https://matthewjdegarmo.com/powershell/2021/06/14/remove-overlapping-ip-ranges-from-list-of-cidr-addresses.html)
 - [Testing Terraform IaC with Pester - Unit Tests](https://matthewjdegarmo.com/powershell/2021/05/31/testing-teraform-iac-with-pester-unit-tests.html)
