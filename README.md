@@ -56,6 +56,10 @@
 - [How to Import a Locally Defined Function into a Remote PowerShell Session](https://matthewjdegarmo.com/powershell/2021/03/31/how-to-import-a-locally-defined-function-into-a-remote-powershell-session.html)
 - [Use PowerShell to Detect Running OS](https://matthewjdegarmo.com/powershell/2021/03/30/use-powershell-to-detect-running-os.html)
 - [How to securely store credentials locally using PowerShell. NO PLAIN TEXT.](https://matthewjdegarmo.com/powershell/2020/11/20/how-to-securely-store-credentials-locally-using-powershell-no-plain-text.html)
+- [PowerShell Functions: The Basics of Creating PowerShell Functions](https://matthewjdegarmo.com/powershell/2020/08/16/powershell-functions-the-basics-of-creating-powershell-functions.html)
+- [How to organize your powershell functions into a module - Part 2](https://matthewjdegarmo.com/powershell/2020/08/03/how-to-organize-your-powershell-functions-into-a-module-part-2.html)
+- [How to organize your powershell functions into a module - Part 1](https://matthewjdegarmo.com/powershell/2020/07/28/how-to-organize-your-powershell-functions-into-a-module-part-1.html)
+- [Welcome to my blog!](https://matthewjdegarmo.com/personal/2020/07/26/welcome-post.html)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- SPONSORS-LIST:START -->
