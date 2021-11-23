@@ -30,7 +30,7 @@
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
     <p>
-    
+
 <!--START_SECTION:activity-->
 1. ❗️ Closed issue [#3](https://github.com/matthewjdegarmo/HelpDesk/issues/3) in [matthewjdegarmo/HelpDesk](https://github.com/matthewjdegarmo/HelpDesk)
 2. 🗣 Commented on [#3](https://github.com/matthewjdegarmo/HelpDesk/issues/3) in [matthewjdegarmo/HelpDesk](https://github.com/matthewjdegarmo/HelpDesk)
@@ -46,7 +46,10 @@
  </p>
 </details>
  
- ### 👀 Latest Blog Posts
+ <details>
+  <summary><b>👀 Latest Blog Posts</b></summary>
+    <p>
+    
  <!-- BLOG-POST-LIST:START -->
 - [Remove Overlapping IP Address Ranges from a List of CIDR IP Addresses](https://matthewjdegarmo.com/powershell/2021/06/14/remove-overlapping-ip-ranges-from-list-of-cidr-addresses.html)
 - [Testing Terraform IaC with Pester - Unit Tests](https://matthewjdegarmo.com/powershell/2021/05/31/testing-teraform-iac-with-pester-unit-tests.html)
