@@ -28,7 +28,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=matthewjdegarmo&theme=dark" alt="GitHub Streak" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=matthewjdegarmo&theme=dark" style="max-width:100%;">
 
 <details>
-  <summary><h3>⚡ Recent GitHub Activity</h3></summary>
+  <h3><summary>⚡ Recent GitHub Activity</summary></h3>
     <p>
 
 
