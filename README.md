@@ -30,6 +30,7 @@
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
     <p>
+    
 <!--START_SECTION:activity-->
 1. ❗️ Closed issue [#3](https://github.com/matthewjdegarmo/HelpDesk/issues/3) in [matthewjdegarmo/HelpDesk](https://github.com/matthewjdegarmo/HelpDesk)
 2. 🗣 Commented on [#3](https://github.com/matthewjdegarmo/HelpDesk/issues/3) in [matthewjdegarmo/HelpDesk](https://github.com/matthewjdegarmo/HelpDesk)
