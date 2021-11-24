@@ -20,6 +20,7 @@
 <p align="center">
 <img width="600" src="https://raw.githubusercontent.com/matthewjdegarmo/matthewjdegarmo/master/assets/github-snake.svg" />
 </p>
+
 #### What am I up to?
 - 🎥 I Live-Stream PowerShell projects and other Open Source projects that I work on. Feel free to follow or [subscribe](https://www.twitch.tv/products/techdufus) me on [Twitch](https://www.twitch.tv/TechDufus/about/)!
 - 🔭 I write PowerShell modules internally for my team, and am looking for ways to contribute to Open Source projects.
