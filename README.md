@@ -9,6 +9,7 @@
   <a href="https://www.powershellgallery.com/profiles/matthewjdegarmo"><img align="center" src="https://img.shields.io/badge/Total%20PSGallery%20Downloads-~1,479-green"/></a>
 </p>
 <p align="center">
+  <a href="https://www.twitch.tv/TechDufus/about/"><img align="center" height="40" src="https://img.icons8.com/color/144/000000/twitch.png"/></a>
   <a href="https://www.linkedin.com/in/matthewjdegarmo/"><img align="center" height="40" src="https://img.icons8.com/color/144/000000/linkedin.png"/></a>
   <a href="https://twitter.com/matthewjdegarmo"><img align="center" height="40" src="https://img.icons8.com/fluent/144/000000/twitter.png"/></a>
   <a href="https://www.instagram.com/matthewjdegarmo/"><img align="center" height="40" src="https://img.icons8.com/fluent/144/000000/instagram-new.png"/></a>
