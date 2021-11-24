@@ -22,9 +22,6 @@
 - 🌱 Continuing to learn more about [PowerShell](https://github.com/powershell/powershell), [Terraform](https://www.terraform.io/), [Git](https://git-scm.com/), [VSCode](https://github.com/microsoft/vscode), [C#](https://docs.microsoft.com/en-us/dotnet/csharp/), [GitHub](https://github.com), [Azure Pipelines](https://docs.microsoft.com/en-us/azure/devops/pipelines), [Python](https://www.python.org/), and anything that will help me contribute to the community.
 ---
 
-<img align="center" alt="matthewjdegarmo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=matthewjdegarmo&show_icons=true&count_private=true&theme=dark&include_all_commits=true&line_height=21&cache_seconds=1800"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=matthewjdegarmo&theme=dark" alt="GitHub Streak" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=matthewjdegarmo&theme=dark" style="max-width:100%;">
-
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
     <p>
@@ -43,7 +40,7 @@
 <!--END_SECTION:activity-->
  </p>
 </details>
- 
+
  <details>
   <summary><b>👀 Latest Blog Posts</b></summary>
     <p>
@@ -59,6 +56,11 @@
 - [How to organize your powershell functions into a module - Part 1](https://matthewjdegarmo.com/powershell/2020/07/28/how-to-organize-your-powershell-functions-into-a-module-part-1.html)
 - [Welcome to my blog!](https://matthewjdegarmo.com/personal/2020/07/26/welcome-post.html)
 <!-- BLOG-POST-LIST:END -->
+
+<img align="center" alt="matthewjdegarmo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=matthewjdegarmo&show_icons=true&count_private=true&theme=dark&include_all_commits=true&line_height=21&cache_seconds=1800"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=matthewjdegarmo&theme=dark" alt="GitHub Streak" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=matthewjdegarmo&theme=dark" style="max-width:100%;">
+
+
 
 <!-- SPONSORS-LIST:START -->
 # Thanks to all of my Sponsors!
