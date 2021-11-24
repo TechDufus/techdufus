@@ -1,4 +1,4 @@
-name: PSGallery Downloads Badge Update
+name: 🤳 PSGallery Downloads Badge Update
 #Run every hour.
 on:
   schedule:
