@@ -9,19 +9,14 @@
 
 <p align="center">
 <a href="https://www.twitch.tv/TechDufus/about/"><img align="center" height="40" src="https://img.icons8.com/color/144/000000/twitch.png"/></a>
-<a href="https://www.twitch.tv/TechDufus/about/"><img align="center" height="40" src="https://img.icons8.com/color/144/000000/twitch.png"/></a>
-<a href="https://www.twitch.tv/TechDufus/about/"><img align="center" height="40" src="https://img.icons8.com/color/144/000000/twitch.png"/></a>
-<a href="https://www.twitch.tv/TechDufus/about/"><img align="center" height="40" src="https://img.icons8.com/color/144/000000/twitch.png"/></a>
+<a href="https://www.linkedin.com/in/matthewjdegarmo/"><img align="center" height="40" src="https://img.icons8.com/color/144/000000/linkedin.png"/></a>
+<a href="https://twitter.com/matthewjdegarmo"><img align="center" height="40" src="https://img.icons8.com/fluent/144/000000/twitter.png"/></a>
+<a href="https://www.instagram.com/matthewjdegarmo/"><img align="center" height="40" src="https://img.icons8.com/fluent/144/000000/instagram-new.png"/></a>
+<a href="https://www.facebook.com/matthewjdegarmo"><img align="center" height="40" src="ttps://img.icons8.com/fluent/144/000000/facebook-new.png"/></a>
+<a href="https://matthewjdegarmo.com"><img align="center" height="40" src="https://img.icons8.com/nolan/64/domain.png"/></a>
+<a href="https://www.reddit.com/user/matthewjdegarmo"><img align="center" height="40" src="https://img.icons8.com/doodle/48/000000/reddit--v1.png"/></a>
+<a href="https://matthewjdegarmo.com/feed.xml"><img align="center" height="40" src="https://img.icons8.com/dusk/64/000000/rss.png"/></a>
 </p>
-
-[<img align="center" height="40" src="https://img.icons8.com/color/144/000000/twitch.png"/>](https://www.twitch.tv/TechDufus/about/)
-[<img align="center" height="40" src="https://img.icons8.com/color/144/000000/linkedin.png"/>](https://www.linkedin.com/in/matthewjdegarmo/)
-[<img align="center" height="40" src="https://img.icons8.com/fluent/144/000000/twitter.png"/>](https://twitter.com/matthewjdegarmo)
-[<img align="center" height="40" src="https://img.icons8.com/fluent/144/000000/instagram-new.png"/>](https://www.instagram.com/matthewjdegarmo/)
-[<img align="center" height="40" src="https://img.icons8.com/fluent/144/000000/facebook-new.png"/>](https://www.facebook.com/matthewjdegarmo)
-[<img align="center" height="40" src="https://img.icons8.com/nolan/64/domain.png"/>](https://matthewjdegarmo.com)
-[<img align="center" height="40" src="https://img.icons8.com/doodle/48/000000/reddit--v1.png"/>](https://www.reddit.com/user/matthewjdegarmo)
-[<img align="center" height="40" src="https://img.icons8.com/dusk/64/000000/rss.png"/>](https://matthewjdegarmo.com/feed.xml)
 ---
 <p align="center">
 <img width="600" src="https://raw.githubusercontent.com/matthewjdegarmo/matthewjdegarmo/master/assets/github-snake.svg" />
