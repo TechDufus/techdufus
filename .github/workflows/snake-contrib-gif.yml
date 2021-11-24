@@ -1,0 +1,25 @@
+name: 🐍 Generate Snake Contribution GIF
+on:
+  workflow_dispatch: # Manual dispatch
+  schedule:
+    - cron: '0 1 * * 0' # At 01:00 on Sunday.
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v2
+      - name: Generate Snake
+        uses: Platane/snk@master
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          gif_out_path: assets/github-snake.gif
+          svg_out_path: assets/github-snake.svg          
+      # Commit the changes
+      - name: Commit files
+        run: |
+          git config user.email "${{ secrets.GH_EMAIL }}"
+          git config user.name "${{ secrets.GH_USER }}"
+          git add -A
+          git commit -m ":snake: Updates Snake Contribution Animation"
+          git push
