@@ -17,7 +17,7 @@
 [<img align="center" height="40" src="https://img.icons8.com/doodle/48/000000/reddit--v1.png"/>](https://www.reddit.com/user/matthewjdegarmo)
 [<img align="center" height="40" src="https://img.icons8.com/dusk/64/000000/rss.png"/>](https://matthewjdegarmo.com/feed.xml)
 <p align="center">
-<img width="600" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" />
+<img width="600" src="https://raw.githubusercontent.com/matthewjdegarmo/matthewjdegarmo/master/assets/github-snake.svg" />
 </p>
 ---
 
