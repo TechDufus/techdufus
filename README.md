@@ -56,10 +56,11 @@
 - [How to organize your powershell functions into a module - Part 1](https://matthewjdegarmo.com/powershell/2020/07/28/how-to-organize-your-powershell-functions-into-a-module-part-1.html)
 - [Welcome to my blog!](https://matthewjdegarmo.com/personal/2020/07/26/welcome-post.html)
 <!-- BLOG-POST-LIST:END -->
+ </p>
+</details>
 
 <img align="center" alt="matthewjdegarmo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=matthewjdegarmo&show_icons=true&count_private=true&theme=dark&include_all_commits=true&line_height=21&cache_seconds=1800"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=matthewjdegarmo&theme=dark" alt="GitHub Streak" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=matthewjdegarmo&theme=dark" style="max-width:100%;">
-
 
 
 <!-- SPONSORS-LIST:START -->
