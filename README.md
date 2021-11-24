@@ -7,7 +7,12 @@
 ### I'm a nerd, and I love all things PowerShell!
 [![TotalPSGalleryDownloads](https://img.shields.io/badge/Total%20PSGallery%20Downloads-~1,479-green)](https://www.powershellgallery.com/profiles/matthewjdegarmo)
 
+<p aligh="center">
 <a href="https://www.twitch.tv/TechDufus/about/"><img align="center" height="40" src="https://img.icons8.com/color/144/000000/twitch.png"/></a>
+<a href="https://www.twitch.tv/TechDufus/about/"><img align="center" height="40" src="https://img.icons8.com/color/144/000000/twitch.png"/></a>
+<a href="https://www.twitch.tv/TechDufus/about/"><img align="center" height="40" src="https://img.icons8.com/color/144/000000/twitch.png"/></a>
+<a href="https://www.twitch.tv/TechDufus/about/"><img align="center" height="40" src="https://img.icons8.com/color/144/000000/twitch.png"/></a>
+</p>
 
 [<img align="center" height="40" src="https://img.icons8.com/color/144/000000/twitch.png"/>](https://www.twitch.tv/TechDufus/about/)
 [<img align="center" height="40" src="https://img.icons8.com/color/144/000000/linkedin.png"/>](https://www.linkedin.com/in/matthewjdegarmo/)
