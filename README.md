@@ -33,12 +33,12 @@
     <p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/matthewjdegarmo/matthewjdegarmo.github.io/pull/11) in [matthewjdegarmo/matthewjdegarmo.github.io](https://github.com/matthewjdegarmo/matthewjdegarmo.github.io)
-2. 💪 Opened PR [#11](https://github.com/matthewjdegarmo/matthewjdegarmo.github.io/pull/11) in [matthewjdegarmo/matthewjdegarmo.github.io](https://github.com/matthewjdegarmo/matthewjdegarmo.github.io)
-3. ❗️ Closed issue [#3](https://github.com/matthewjdegarmo/HelpDesk/issues/3) in [matthewjdegarmo/HelpDesk](https://github.com/matthewjdegarmo/HelpDesk)
-4. 🗣 Commented on [#3](https://github.com/matthewjdegarmo/HelpDesk/issues/3) in [matthewjdegarmo/HelpDesk](https://github.com/matthewjdegarmo/HelpDesk)
-5. ❗️ Closed issue [#2](https://github.com/matthewjdegarmo/PSIISHelper/issues/2) in [matthewjdegarmo/PSIISHelper](https://github.com/matthewjdegarmo/PSIISHelper)
-6. 🗣 Commented on [#2](https://github.com/matthewjdegarmo/PSIISHelper/issues/2) in [matthewjdegarmo/PSIISHelper](https://github.com/matthewjdegarmo/PSIISHelper)
+1. 🎉 Merged PR [#12](https://github.com/matthewjdegarmo/matthewjdegarmo.github.io/pull/12) in [matthewjdegarmo/matthewjdegarmo.github.io](https://github.com/matthewjdegarmo/matthewjdegarmo.github.io)
+2. 💪 Opened PR [#12](https://github.com/matthewjdegarmo/matthewjdegarmo.github.io/pull/12) in [matthewjdegarmo/matthewjdegarmo.github.io](https://github.com/matthewjdegarmo/matthewjdegarmo.github.io)
+3. 🎉 Merged PR [#11](https://github.com/matthewjdegarmo/matthewjdegarmo.github.io/pull/11) in [matthewjdegarmo/matthewjdegarmo.github.io](https://github.com/matthewjdegarmo/matthewjdegarmo.github.io)
+4. 💪 Opened PR [#11](https://github.com/matthewjdegarmo/matthewjdegarmo.github.io/pull/11) in [matthewjdegarmo/matthewjdegarmo.github.io](https://github.com/matthewjdegarmo/matthewjdegarmo.github.io)
+5. ❗️ Closed issue [#3](https://github.com/matthewjdegarmo/HelpDesk/issues/3) in [matthewjdegarmo/HelpDesk](https://github.com/matthewjdegarmo/HelpDesk)
+6. 🗣 Commented on [#3](https://github.com/matthewjdegarmo/HelpDesk/issues/3) in [matthewjdegarmo/HelpDesk](https://github.com/matthewjdegarmo/HelpDesk)
 7. 💪 Opened PR [#1](https://github.com/matthewjdegarmo/PSIISHelper/pull/1) in [matthewjdegarmo/PSIISHelper](https://github.com/matthewjdegarmo/PSIISHelper)
 8. 🗣 Commented on [#109](https://github.com/PoshCode/ModuleBuilder/issues/109) in [PoshCode/ModuleBuilder](https://github.com/PoshCode/ModuleBuilder)
 9. 💪 Opened PR [#109](https://github.com/PoshCode/ModuleBuilder/pull/109) in [PoshCode/ModuleBuilder](https://github.com/PoshCode/ModuleBuilder)
