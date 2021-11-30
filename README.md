@@ -70,7 +70,8 @@
   <summary><b>👨‍💻 Stats</b></summary>
   <p align="center">
     <a>
-      <img align="center" src="https://gist.github.com/matthewjdegarmo/1eaef21799d1d62623cbfb229769d1c0#file-github-metrics-svg"/>
+      <!-- <img align="center" src="https://gist.github.com/matthewjdegarmo/1eaef21799d1d62623cbfb229769d1c0#file-github-metrics-svg"/> -->
+      <script src="https://gist.github.com/matthewjdegarmo/1eaef21799d1d62623cbfb229769d1c0.js"></script>
     </a>
   </p>
 </details>
