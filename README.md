@@ -70,7 +70,7 @@
   <summary><b>👨‍💻 Stats</b></summary>
   <p align="center">
     <a>
-      <img align="center" src="https://gist.github.com/matthewjdegarmo/1eaef21799d1d62623cbfb229769d1c0"/>
+      <img align="center" src="https://gist.github.com/matthewjdegarmo/1eaef21799d1d62623cbfb229769d1c0#file-github-metrics-svg"/>
     </a>
   </p>
 </details>
