@@ -21,6 +21,9 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: America/Chicago
           filename: 'assets/github-metrics.*'
+          committer_message: "Generated new metrics for Profile: ${filename}"
+          committer_gist: "GitHub-Profile-Metrics.svg"
+          output_action: "gist"
           plugin_followup: yes
           plugin_followup_sections: repositories
           plugin_gists: yes
