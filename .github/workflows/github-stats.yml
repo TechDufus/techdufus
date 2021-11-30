@@ -20,7 +20,6 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: America/Chicago
-          filename: 'assets/github-metrics.*'
           committer_message: "Generated new metrics for Profile: ${filename}"
           committer_gist: "1eaef21799d1d62623cbfb229769d1c0"
           output_action: "gist"
