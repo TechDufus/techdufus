@@ -20,6 +20,7 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: America/Chicago
+          filename: 'assets/github-metrics.*'
           plugin_followup: yes
           plugin_followup_sections: repositories
           plugin_gists: yes
@@ -30,10 +31,6 @@ jobs:
           plugin_people_limit: 24
           plugin_people_size: 28
           plugin_people_types: followers, following
-          plugin_skyline: yes
-          plugin_skyline_frames: 60
-          plugin_skyline_quality: 0.5
-          plugin_skyline_year: current-year
           plugin_sponsors: yes
           plugin_sponsors_sections: goal, about
           plugin_traffic: yes
