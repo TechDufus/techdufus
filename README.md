@@ -70,8 +70,8 @@
   <summary><b>👨‍💻 Stats</b></summary>
   <p align="center">
     <a>
-      <!-- <img align="center" src="https://gist.github.com/matthewjdegarmo/1eaef21799d1d62623cbfb229769d1c0#file-github-metrics-svg"/> -->
-      <script src="https://gist.github.com/matthewjdegarmo/1eaef21799d1d62623cbfb229769d1c0.js"></script>
+      <img align="center" src="https://raw.githubusercontent.com/gist/matthewjdegarmo/1eaef21799d1d62623cbfb229769d1c0/raw/90df006727b4e5c56dff313d8a04d5d0d87cf42a/github-metrics.svg"/>
+      <!-- <script src="https://gist.github.com/matthewjdegarmo/1eaef21799d1d62623cbfb229769d1c0.js"></script> -->
     </a>
   </p>
 </details>
