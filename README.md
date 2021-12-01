@@ -52,6 +52,7 @@
     <p>
     
  <!-- BLOG-POST-LIST:START -->
+- [Playing With Dates In Powershell](https://matthewjdegarmo.com/2021/12/01/playing-with-dates-in-powershell.html)
 - [Introducing the BlogQueue GitHub Action](https://matthewjdegarmo.com/powershell/2021/11/23/introducing-the-blogqueue-github-action.html)
 - [Remove Overlapping IP Address Ranges from a List of CIDR IP Addresses](https://matthewjdegarmo.com/powershell/2021/06/14/remove-overlapping-ip-ranges-from-list-of-cidr-addresses.html)
 - [Testing Terraform IaC with Pester - Unit Tests](https://matthewjdegarmo.com/powershell/2021/05/31/testing-teraform-iac-with-pester-unit-tests.html)
@@ -61,7 +62,6 @@
 - [PowerShell Functions: The Basics of Creating PowerShell Functions](https://matthewjdegarmo.com/powershell/2020/08/16/powershell-functions-the-basics-of-creating-powershell-functions.html)
 - [How to organize your powershell functions into a module - Part 2](https://matthewjdegarmo.com/powershell/2020/08/03/how-to-organize-your-powershell-functions-into-a-module-part-2.html)
 - [How to organize your powershell functions into a module - Part 1](https://matthewjdegarmo.com/powershell/2020/07/28/how-to-organize-your-powershell-functions-into-a-module-part-1.html)
-- [Welcome to my blog!](https://matthewjdegarmo.com/personal/2020/07/26/welcome-post.html)
 <!-- BLOG-POST-LIST:END -->
   </p>
 </details>
