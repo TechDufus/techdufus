@@ -52,7 +52,7 @@
     <p>
     
  <!-- BLOG-POST-LIST:START -->
-- [Playing With Dates In Powershell](https://matthewjdegarmo.com/2021/12/01/playing-with-dates-in-powershell.html)
+- [Playing With Dates in PowerShell](https://matthewjdegarmo.com/powershell/2021/12/01/playing-with-dates-in-powershell.html)
 - [Introducing the BlogQueue GitHub Action](https://matthewjdegarmo.com/powershell/2021/11/23/introducing-the-blogqueue-github-action.html)
 - [Remove Overlapping IP Address Ranges from a List of CIDR IP Addresses](https://matthewjdegarmo.com/powershell/2021/06/14/remove-overlapping-ip-ranges-from-list-of-cidr-addresses.html)
 - [Testing Terraform IaC with Pester - Unit Tests](https://matthewjdegarmo.com/powershell/2021/05/31/testing-teraform-iac-with-pester-unit-tests.html)
