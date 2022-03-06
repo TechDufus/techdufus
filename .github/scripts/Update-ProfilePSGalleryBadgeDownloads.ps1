@@ -22,10 +22,10 @@ function Get-PSGalleryDownloads() {
                 Write-Verbose "$_ downloads: $PackageDownloads"
                 switch($PackageDownloads) {
                     { $_ -match 'k' } {
-                        $PackageDownloadsInt = "$($PackageDownloads.ToString().SubString(0,$PackageDownloads.ToString().Length-1)),000"
+                        $PackageDownloadsInt = [math]::Round([float]$PackageDownloads.Split('k')[0] * 1000)
                         $TotalDownloads = $TotalDownloads + $PackageDownloadsInt
                     } { $_ -match 'm' } {
-                        $PackageDownloadsInt = "$($PackageDownloads.ToString().SubString(0,$PackageDownloads.ToString().Length-1)),000,000"
+                        $PackageDownloadsInt = [math]::Round([float]$PackageDownloads.Split('k')[0] * 1000000)
                         $TotalDownloads = $TotalDownloads + $PackageDownloadsInt
                     } DEFAULT {
                         $TotalDownloads = $TotalDownloads + $PackageDownloads
