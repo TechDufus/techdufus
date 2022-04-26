@@ -52,6 +52,7 @@
     <p>
     
  <!-- BLOG-POST-LIST:START -->
+- [Creating a Progress Indicator for your PowerShell Processes](https://matthewjdegarmo.com/powershell/2022/04/26/creating-a-progress-indicator-for-your-powershell-processes.html)
 - [Using $PSStyle to Spice up your Output](https://matthewjdegarmo.com/powershell/2022/04/22/using-psstyle-to-spice-up-your-output.html)
 - [Playing With Dates in PowerShell](https://matthewjdegarmo.com/powershell/2021/12/01/playing-with-dates-in-powershell.html)
 - [Introducing the BlogQueue GitHub Action](https://matthewjdegarmo.com/powershell/2021/11/23/introducing-the-blogqueue-github-action.html)
@@ -61,7 +62,6 @@
 - [Use PowerShell to Detect Running OS](https://matthewjdegarmo.com/powershell/2021/03/30/use-powershell-to-detect-running-os.html)
 - [How to securely store credentials locally using PowerShell. NO PLAIN TEXT.](https://matthewjdegarmo.com/powershell/2020/11/20/how-to-securely-store-credentials-locally-using-powershell-no-plain-text.html)
 - [PowerShell Functions: The Basics of Creating PowerShell Functions](https://matthewjdegarmo.com/powershell/2020/08/16/powershell-functions-the-basics-of-creating-powershell-functions.html)
-- [How to organize your powershell functions into a module - Part 2](https://matthewjdegarmo.com/powershell/2020/08/03/how-to-organize-your-powershell-functions-into-a-module-part-2.html)
 <!-- BLOG-POST-LIST:END -->
   </p>
 </details>
