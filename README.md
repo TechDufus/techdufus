@@ -33,16 +33,16 @@
     <p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#109](https://github.com/walkxhub/dashboard-icons/issues/109) in [walkxhub/dashboard-icons](https://github.com/walkxhub/dashboard-icons)
+1. ❗️ Opened issue [#706](https://github.com/Lissy93/dashy/issues/706) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
 2. 🗣 Commented on [#109](https://github.com/walkxhub/dashboard-icons/issues/109) in [walkxhub/dashboard-icons](https://github.com/walkxhub/dashboard-icons)
-3. 💪 Opened PR [#109](https://github.com/walkxhub/dashboard-icons/pull/109) in [walkxhub/dashboard-icons](https://github.com/walkxhub/dashboard-icons)
-4. ❌ Closed PR [#16](https://github.com/RunOnFlux/fluxnode-multitool/pull/16) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
-5. 🗣 Commented on [#16](https://github.com/RunOnFlux/fluxnode-multitool/issues/16) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
-6. 🎉 Merged PR [#1](https://github.com/matthewjdegarmo/fluxnode-multitool/pull/1) in [matthewjdegarmo/fluxnode-multitool](https://github.com/matthewjdegarmo/fluxnode-multitool)
-7. 💪 Opened PR [#1](https://github.com/matthewjdegarmo/fluxnode-multitool/pull/1) in [matthewjdegarmo/fluxnode-multitool](https://github.com/matthewjdegarmo/fluxnode-multitool)
-8. 🗣 Commented on [#16](https://github.com/RunOnFlux/fluxnode-multitool/issues/16) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
-9. 💪 Opened PR [#16](https://github.com/RunOnFlux/fluxnode-multitool/pull/16) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
-10. 💪 Opened PR [#15](https://github.com/RunOnFlux/fluxnode-multitool/pull/15) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
+3. 🗣 Commented on [#109](https://github.com/walkxhub/dashboard-icons/issues/109) in [walkxhub/dashboard-icons](https://github.com/walkxhub/dashboard-icons)
+4. 💪 Opened PR [#109](https://github.com/walkxhub/dashboard-icons/pull/109) in [walkxhub/dashboard-icons](https://github.com/walkxhub/dashboard-icons)
+5. ❌ Closed PR [#16](https://github.com/RunOnFlux/fluxnode-multitool/pull/16) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
+6. 🗣 Commented on [#16](https://github.com/RunOnFlux/fluxnode-multitool/issues/16) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
+7. 🎉 Merged PR [#1](https://github.com/matthewjdegarmo/fluxnode-multitool/pull/1) in [matthewjdegarmo/fluxnode-multitool](https://github.com/matthewjdegarmo/fluxnode-multitool)
+8. 💪 Opened PR [#1](https://github.com/matthewjdegarmo/fluxnode-multitool/pull/1) in [matthewjdegarmo/fluxnode-multitool](https://github.com/matthewjdegarmo/fluxnode-multitool)
+9. 🗣 Commented on [#16](https://github.com/RunOnFlux/fluxnode-multitool/issues/16) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
+10. 💪 Opened PR [#16](https://github.com/RunOnFlux/fluxnode-multitool/pull/16) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
 <!--END_SECTION:activity-->
   </p>
 </details>
