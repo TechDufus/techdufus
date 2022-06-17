@@ -70,7 +70,7 @@
   <summary><b>👨‍💻 Stats</b></summary>
   <p align="center">
     <a>
-      <img align="center" src="https://raw.githubusercontent.com/gist/matthewjdegarmo/1eaef21799d1d62623cbfb229769d1c0/raw/90df006727b4e5c56dff313d8a04d5d0d87cf42a/github-metrics.svg"/>
+      <img align="center" src="https://raw.githubusercontent.com/gist/matthewjdegarmo/1eaef21799d1d62623cbfb229769d1c0/raw/480f726c6eeb06526f6dd030d2ae92a69ad41c54/github-metrics.svg"/>
     </a>
   </p>
 </details>
