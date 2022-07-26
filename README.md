@@ -33,16 +33,16 @@
     <p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#15](https://github.com/RunOnFlux/fluxnode-multitool/issues/15) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
-2. 🗣 Commented on [#15](https://github.com/RunOnFlux/fluxnode-multitool/issues/15) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
-3. ❗️ Opened issue [#768](https://github.com/Lissy93/dashy/issues/768) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+1. ❌ Closed PR [#2](https://github.com/matthewjdegarmo/fluxnode-multitool/pull/2) in [matthewjdegarmo/fluxnode-multitool](https://github.com/matthewjdegarmo/fluxnode-multitool)
+2. 💪 Opened PR [#2](https://github.com/matthewjdegarmo/fluxnode-multitool/pull/2) in [matthewjdegarmo/fluxnode-multitool](https://github.com/matthewjdegarmo/fluxnode-multitool)
+3. 🗣 Commented on [#15](https://github.com/RunOnFlux/fluxnode-multitool/issues/15) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
 4. 🗣 Commented on [#15](https://github.com/RunOnFlux/fluxnode-multitool/issues/15) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
-5. ❗️ Opened issue [#569](https://github.com/Telmate/terraform-provider-proxmox/issues/569) in [Telmate/terraform-provider-proxmox](https://github.com/Telmate/terraform-provider-proxmox)
+5. ❗️ Opened issue [#768](https://github.com/Lissy93/dashy/issues/768) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
 6. 🗣 Commented on [#15](https://github.com/RunOnFlux/fluxnode-multitool/issues/15) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
-7. 🗣 Commented on [#720](https://github.com/Lissy93/dashy/issues/720) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-8. ❗️ Closed issue [#720](https://github.com/Lissy93/dashy/issues/720) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+7. ❗️ Opened issue [#569](https://github.com/Telmate/terraform-provider-proxmox/issues/569) in [Telmate/terraform-provider-proxmox](https://github.com/Telmate/terraform-provider-proxmox)
+8. 🗣 Commented on [#15](https://github.com/RunOnFlux/fluxnode-multitool/issues/15) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
 9. 🗣 Commented on [#720](https://github.com/Lissy93/dashy/issues/720) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-10. ❗️ Opened issue [#720](https://github.com/Lissy93/dashy/issues/720) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+10. ❗️ Closed issue [#720](https://github.com/Lissy93/dashy/issues/720) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
 <!--END_SECTION:activity-->
   </p>
 </details>
