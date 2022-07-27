@@ -23,8 +23,8 @@
 </p>
 
 #### What am I up to?
-- 🎥 I Live-Stream PowerShell projects and other Open Source projects that I work on. Feel free to follow or [subscribe](https://www.twitch.tv/products/techdufus) me on [Twitch](https://www.twitch.tv/TechDufus/about/)!
-- 🔭 Currently on a full-stack team, getting to script all the things!
+- 🎥 I Live-Stream Tech and Open Source projects that I work on. Feel free to follow or [subscribe](https://www.twitch.tv/products/techdufus) me on [Twitch](https://www.twitch.tv/TechDufus/about/)!
+- 🔭 Currently on a full-stack team at [Lumen](https://github.com/CenturyLinkCloud), and the Infrastructure & Security team at [RunOnFlux](https://github.com/RunOnFlux) getting to script all the things!
 - 🌱 Continuing to learn more about [PowerShell](https://github.com/powershell/powershell), [Terraform](https://www.terraform.io/), [Git](https://git-scm.com/), [VSCode](https://github.com/microsoft/vscode), [C#](https://docs.microsoft.com/en-us/dotnet/csharp/), [GitHub](https://github.com), [Azure Pipelines](https://docs.microsoft.com/en-us/azure/devops/pipelines), [Python](https://www.python.org/), and anything that will help me contribute to the community.
 ---
 
