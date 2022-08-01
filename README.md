@@ -33,11 +33,11 @@
     <p>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2](https://github.com/matthewjdegarmo/fluxnode-multitool/pull/2) in [matthewjdegarmo/fluxnode-multitool](https://github.com/matthewjdegarmo/fluxnode-multitool)
-2. 💪 Opened PR [#2](https://github.com/matthewjdegarmo/fluxnode-multitool/pull/2) in [matthewjdegarmo/fluxnode-multitool](https://github.com/matthewjdegarmo/fluxnode-multitool)
-3. 🗣 Commented on [#15](https://github.com/RunOnFlux/fluxnode-multitool/issues/15) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
-4. 🗣 Commented on [#15](https://github.com/RunOnFlux/fluxnode-multitool/issues/15) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
-5. ❗️ Opened issue [#768](https://github.com/Lissy93/dashy/issues/768) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+1. 🎉 Merged PR [#18](https://github.com/RunOnFlux/fluxnode-multitool/pull/18) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
+2. 💪 Opened PR [#18](https://github.com/RunOnFlux/fluxnode-multitool/pull/18) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
+3. ❌ Closed PR [#2](https://github.com/matthewjdegarmo/fluxnode-multitool/pull/2) in [matthewjdegarmo/fluxnode-multitool](https://github.com/matthewjdegarmo/fluxnode-multitool)
+4. 💪 Opened PR [#2](https://github.com/matthewjdegarmo/fluxnode-multitool/pull/2) in [matthewjdegarmo/fluxnode-multitool](https://github.com/matthewjdegarmo/fluxnode-multitool)
+5. 🗣 Commented on [#15](https://github.com/RunOnFlux/fluxnode-multitool/issues/15) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
 6. 🗣 Commented on [#15](https://github.com/RunOnFlux/fluxnode-multitool/issues/15) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
 7. ❗️ Opened issue [#569](https://github.com/Telmate/terraform-provider-proxmox/issues/569) in [Telmate/terraform-provider-proxmox](https://github.com/Telmate/terraform-provider-proxmox)
 8. 🗣 Commented on [#15](https://github.com/RunOnFlux/fluxnode-multitool/issues/15) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
