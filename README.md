@@ -33,15 +33,15 @@
     <p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#21](https://github.com/RunOnFlux/fluxnode-multitool/issues/21) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
+1. ❗️ Opened issue [#22](https://github.com/RunOnFlux/fluxnode-multitool/issues/22) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
 2. 🗣 Commented on [#21](https://github.com/RunOnFlux/fluxnode-multitool/issues/21) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
-3. 💪 Opened PR [#21](https://github.com/RunOnFlux/fluxnode-multitool/pull/21) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
-4. 🎉 Merged PR [#18](https://github.com/RunOnFlux/fluxnode-multitool/pull/18) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
-5. 💪 Opened PR [#18](https://github.com/RunOnFlux/fluxnode-multitool/pull/18) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
-6. ❌ Closed PR [#2](https://github.com/matthewjdegarmo/fluxnode-multitool/pull/2) in [matthewjdegarmo/fluxnode-multitool](https://github.com/matthewjdegarmo/fluxnode-multitool)
-7. 💪 Opened PR [#2](https://github.com/matthewjdegarmo/fluxnode-multitool/pull/2) in [matthewjdegarmo/fluxnode-multitool](https://github.com/matthewjdegarmo/fluxnode-multitool)
-8. 🗣 Commented on [#15](https://github.com/RunOnFlux/fluxnode-multitool/issues/15) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
-9. 🗣 Commented on [#720](https://github.com/Lissy93/dashy/issues/720) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+3. 🗣 Commented on [#21](https://github.com/RunOnFlux/fluxnode-multitool/issues/21) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
+4. 💪 Opened PR [#21](https://github.com/RunOnFlux/fluxnode-multitool/pull/21) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
+5. 🎉 Merged PR [#18](https://github.com/RunOnFlux/fluxnode-multitool/pull/18) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
+6. 💪 Opened PR [#18](https://github.com/RunOnFlux/fluxnode-multitool/pull/18) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
+7. ❌ Closed PR [#2](https://github.com/matthewjdegarmo/fluxnode-multitool/pull/2) in [matthewjdegarmo/fluxnode-multitool](https://github.com/matthewjdegarmo/fluxnode-multitool)
+8. 💪 Opened PR [#2](https://github.com/matthewjdegarmo/fluxnode-multitool/pull/2) in [matthewjdegarmo/fluxnode-multitool](https://github.com/matthewjdegarmo/fluxnode-multitool)
+9. 🗣 Commented on [#15](https://github.com/RunOnFlux/fluxnode-multitool/issues/15) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
 10. ❗️ Closed issue [#720](https://github.com/Lissy93/dashy/issues/720) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
 <!--END_SECTION:activity-->
   </p>
