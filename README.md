@@ -33,16 +33,16 @@
     <p>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#25](https://github.com/RunOnFlux/fluxnode-multitool/pull/25) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
-2. 🎉 Merged PR [#24](https://github.com/RunOnFlux/fluxnode-multitool/pull/24) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
-3. 💪 Opened PR [#24](https://github.com/RunOnFlux/fluxnode-multitool/pull/24) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
-4. 💪 Opened PR [#23](https://github.com/RunOnFlux/fluxnode-multitool/pull/23) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
-5. 🗣 Commented on [#173](https://github.com/ava-labs/ecosystem-projects/issues/173) in [ava-labs/ecosystem-projects](https://github.com/ava-labs/ecosystem-projects)
-6. 💪 Opened PR [#173](https://github.com/ava-labs/ecosystem-projects/pull/173) in [ava-labs/ecosystem-projects](https://github.com/ava-labs/ecosystem-projects)
-7. ❗️ Opened issue [#22](https://github.com/RunOnFlux/fluxnode-multitool/issues/22) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
-8. 🗣 Commented on [#21](https://github.com/RunOnFlux/fluxnode-multitool/issues/21) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
-9. 🗣 Commented on [#21](https://github.com/RunOnFlux/fluxnode-multitool/issues/21) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
-10. 💪 Opened PR [#21](https://github.com/RunOnFlux/fluxnode-multitool/pull/21) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
+1. ❗️ Closed issue [#22](https://github.com/RunOnFlux/fluxnode-multitool/issues/22) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
+2. 🗣 Commented on [#22](https://github.com/RunOnFlux/fluxnode-multitool/issues/22) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
+3. 💪 Opened PR [#25](https://github.com/RunOnFlux/fluxnode-multitool/pull/25) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
+4. 🎉 Merged PR [#24](https://github.com/RunOnFlux/fluxnode-multitool/pull/24) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
+5. 💪 Opened PR [#24](https://github.com/RunOnFlux/fluxnode-multitool/pull/24) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
+6. 💪 Opened PR [#23](https://github.com/RunOnFlux/fluxnode-multitool/pull/23) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
+7. 🗣 Commented on [#173](https://github.com/ava-labs/ecosystem-projects/issues/173) in [ava-labs/ecosystem-projects](https://github.com/ava-labs/ecosystem-projects)
+8. 💪 Opened PR [#173](https://github.com/ava-labs/ecosystem-projects/pull/173) in [ava-labs/ecosystem-projects](https://github.com/ava-labs/ecosystem-projects)
+9. ❗️ Opened issue [#22](https://github.com/RunOnFlux/fluxnode-multitool/issues/22) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
+10. 🗣 Commented on [#21](https://github.com/RunOnFlux/fluxnode-multitool/issues/21) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
 <!--END_SECTION:activity-->
   </p>
 </details>
