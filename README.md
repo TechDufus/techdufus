@@ -33,16 +33,16 @@
     <p>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#732](https://github.com/RunOnFlux/flux/pull/732) in [RunOnFlux/flux](https://github.com/RunOnFlux/flux)
-2. ❗️ Opened issue [#921](https://github.com/Lissy93/dashy/issues/921) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-3. 🗣 Commented on [#36](https://github.com/RunOnFlux/fluxnode-multitool/issues/36) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
-4. ❗️ Closed issue [#27](https://github.com/RunOnFlux/fluxnode-multitool/issues/27) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
-5. 🗣 Commented on [#27](https://github.com/RunOnFlux/fluxnode-multitool/issues/27) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
-6. 💪 Opened PR [#697](https://github.com/RunOnFlux/flux/pull/697) in [RunOnFlux/flux](https://github.com/RunOnFlux/flux)
-7. 💪 Opened PR [#691](https://github.com/RunOnFlux/flux/pull/691) in [RunOnFlux/flux](https://github.com/RunOnFlux/flux)
-8. 💪 Opened PR [#690](https://github.com/RunOnFlux/flux/pull/690) in [RunOnFlux/flux](https://github.com/RunOnFlux/flux)
-9. 💪 Opened PR [#689](https://github.com/RunOnFlux/flux/pull/689) in [RunOnFlux/flux](https://github.com/RunOnFlux/flux)
-10. 💪 Opened PR [#687](https://github.com/RunOnFlux/flux/pull/687) in [RunOnFlux/flux](https://github.com/RunOnFlux/flux)
+1. 🗣 Commented on [#921](https://github.com/Lissy93/dashy/issues/921) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+2. 💪 Opened PR [#732](https://github.com/RunOnFlux/flux/pull/732) in [RunOnFlux/flux](https://github.com/RunOnFlux/flux)
+3. ❗️ Opened issue [#921](https://github.com/Lissy93/dashy/issues/921) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+4. 🗣 Commented on [#36](https://github.com/RunOnFlux/fluxnode-multitool/issues/36) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
+5. ❗️ Closed issue [#27](https://github.com/RunOnFlux/fluxnode-multitool/issues/27) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
+6. 🗣 Commented on [#27](https://github.com/RunOnFlux/fluxnode-multitool/issues/27) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
+7. 💪 Opened PR [#697](https://github.com/RunOnFlux/flux/pull/697) in [RunOnFlux/flux](https://github.com/RunOnFlux/flux)
+8. 💪 Opened PR [#691](https://github.com/RunOnFlux/flux/pull/691) in [RunOnFlux/flux](https://github.com/RunOnFlux/flux)
+9. 💪 Opened PR [#690](https://github.com/RunOnFlux/flux/pull/690) in [RunOnFlux/flux](https://github.com/RunOnFlux/flux)
+10. 💪 Opened PR [#689](https://github.com/RunOnFlux/flux/pull/689) in [RunOnFlux/flux](https://github.com/RunOnFlux/flux)
 <!--END_SECTION:activity-->
   </p>
 </details>
