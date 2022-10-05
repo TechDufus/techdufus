@@ -33,16 +33,16 @@
     <p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#60](https://github.com/crispgm/nvim-go/issues/60) in [crispgm/nvim-go](https://github.com/crispgm/nvim-go)
-2. ❗️ Closed issue [#57](https://github.com/RunOnFlux/fluxnode-multitool/issues/57) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
-3. 🗣 Commented on [#57](https://github.com/RunOnFlux/fluxnode-multitool/issues/57) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
+1. 🗣 Commented on [#60](https://github.com/crispgm/nvim-go/issues/60) in [crispgm/nvim-go](https://github.com/crispgm/nvim-go)
+2. ❗️ Opened issue [#60](https://github.com/crispgm/nvim-go/issues/60) in [crispgm/nvim-go](https://github.com/crispgm/nvim-go)
+3. ❗️ Closed issue [#57](https://github.com/RunOnFlux/fluxnode-multitool/issues/57) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
 4. 🗣 Commented on [#57](https://github.com/RunOnFlux/fluxnode-multitool/issues/57) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
-5. 🗣 Commented on [#921](https://github.com/Lissy93/dashy/issues/921) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-6. 💪 Opened PR [#732](https://github.com/RunOnFlux/flux/pull/732) in [RunOnFlux/flux](https://github.com/RunOnFlux/flux)
-7. ❗️ Opened issue [#921](https://github.com/Lissy93/dashy/issues/921) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-8. 🗣 Commented on [#36](https://github.com/RunOnFlux/fluxnode-multitool/issues/36) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
-9. ❗️ Closed issue [#27](https://github.com/RunOnFlux/fluxnode-multitool/issues/27) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
-10. 🗣 Commented on [#27](https://github.com/RunOnFlux/fluxnode-multitool/issues/27) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
+5. 🗣 Commented on [#57](https://github.com/RunOnFlux/fluxnode-multitool/issues/57) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
+6. 🗣 Commented on [#921](https://github.com/Lissy93/dashy/issues/921) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+7. 💪 Opened PR [#732](https://github.com/RunOnFlux/flux/pull/732) in [RunOnFlux/flux](https://github.com/RunOnFlux/flux)
+8. ❗️ Opened issue [#921](https://github.com/Lissy93/dashy/issues/921) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+9. 🗣 Commented on [#36](https://github.com/RunOnFlux/fluxnode-multitool/issues/36) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
+10. ❗️ Closed issue [#27](https://github.com/RunOnFlux/fluxnode-multitool/issues/27) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
 <!--END_SECTION:activity-->
   </p>
 </details>
