@@ -30,16 +30,16 @@
     <p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#418](https://github.com/bash-lsp/bash-language-server/issues/418) in [bash-lsp/bash-language-server](https://github.com/bash-lsp/bash-language-server)
-2. 🗣 Commented on [#60](https://github.com/crispgm/nvim-go/issues/60) in [crispgm/nvim-go](https://github.com/crispgm/nvim-go)
-3. ❗️ Opened issue [#60](https://github.com/crispgm/nvim-go/issues/60) in [crispgm/nvim-go](https://github.com/crispgm/nvim-go)
-4. ❗️ Closed issue [#57](https://github.com/RunOnFlux/fluxnode-multitool/issues/57) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
-5. 🗣 Commented on [#57](https://github.com/RunOnFlux/fluxnode-multitool/issues/57) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
-6. 🗣 Commented on [#57](https://github.com/RunOnFlux/fluxnode-multitool/issues/57) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
-7. 🗣 Commented on [#921](https://github.com/Lissy93/dashy/issues/921) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-8. 💪 Opened PR [#732](https://github.com/RunOnFlux/flux/pull/732) in [RunOnFlux/flux](https://github.com/RunOnFlux/flux)
-9. ❗️ Opened issue [#921](https://github.com/Lissy93/dashy/issues/921) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
-10. 🗣 Commented on [#36](https://github.com/RunOnFlux/fluxnode-multitool/issues/36) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
+1. 🎉 Merged PR [#2](https://github.com/TechDufus/home.io/pull/2) in [TechDufus/home.io](https://github.com/TechDufus/home.io)
+2. 💪 Opened PR [#2](https://github.com/TechDufus/home.io/pull/2) in [TechDufus/home.io](https://github.com/TechDufus/home.io)
+3. 🗣 Commented on [#418](https://github.com/bash-lsp/bash-language-server/issues/418) in [bash-lsp/bash-language-server](https://github.com/bash-lsp/bash-language-server)
+4. 🗣 Commented on [#60](https://github.com/crispgm/nvim-go/issues/60) in [crispgm/nvim-go](https://github.com/crispgm/nvim-go)
+5. ❗️ Opened issue [#60](https://github.com/crispgm/nvim-go/issues/60) in [crispgm/nvim-go](https://github.com/crispgm/nvim-go)
+6. ❗️ Closed issue [#57](https://github.com/RunOnFlux/fluxnode-multitool/issues/57) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
+7. 🗣 Commented on [#57](https://github.com/RunOnFlux/fluxnode-multitool/issues/57) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
+8. 🗣 Commented on [#57](https://github.com/RunOnFlux/fluxnode-multitool/issues/57) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
+9. 🗣 Commented on [#921](https://github.com/Lissy93/dashy/issues/921) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+10. 💪 Opened PR [#732](https://github.com/RunOnFlux/flux/pull/732) in [RunOnFlux/flux](https://github.com/RunOnFlux/flux)
 <!--END_SECTION:activity-->
   </p>
 </details>
