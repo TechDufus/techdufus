@@ -30,16 +30,16 @@
     <p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#60](https://github.com/crispgm/nvim-go/issues/60) in [crispgm/nvim-go](https://github.com/crispgm/nvim-go)
-2. 💪 Opened PR [#8](https://github.com/JKTUNING/Flux-Node-Tools/pull/8) in [JKTUNING/Flux-Node-Tools](https://github.com/JKTUNING/Flux-Node-Tools)
-3. 💪 Opened PR [#7](https://github.com/JKTUNING/Flux-Node-Tools/pull/7) in [JKTUNING/Flux-Node-Tools](https://github.com/JKTUNING/Flux-Node-Tools)
-4. 🗣 Commented on [#101](https://github.com/Qortal/qortal/issues/101) in [Qortal/qortal](https://github.com/Qortal/qortal)
-5. 💪 Opened PR [#101](https://github.com/Qortal/qortal/pull/101) in [Qortal/qortal](https://github.com/Qortal/qortal)
-6. 🎉 Merged PR [#2](https://github.com/TechDufus/home.io/pull/2) in [TechDufus/home.io](https://github.com/TechDufus/home.io)
-7. 💪 Opened PR [#2](https://github.com/TechDufus/home.io/pull/2) in [TechDufus/home.io](https://github.com/TechDufus/home.io)
-8. 🗣 Commented on [#418](https://github.com/bash-lsp/bash-language-server/issues/418) in [bash-lsp/bash-language-server](https://github.com/bash-lsp/bash-language-server)
-9. 🗣 Commented on [#60](https://github.com/crispgm/nvim-go/issues/60) in [crispgm/nvim-go](https://github.com/crispgm/nvim-go)
-10. ❗️ Opened issue [#60](https://github.com/crispgm/nvim-go/issues/60) in [crispgm/nvim-go](https://github.com/crispgm/nvim-go)
+1. 🗣 Commented on [#71](https://github.com/RunOnFlux/fluxnode-multitool/issues/71) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
+2. ❗️ Closed issue [#60](https://github.com/crispgm/nvim-go/issues/60) in [crispgm/nvim-go](https://github.com/crispgm/nvim-go)
+3. 💪 Opened PR [#8](https://github.com/JKTUNING/Flux-Node-Tools/pull/8) in [JKTUNING/Flux-Node-Tools](https://github.com/JKTUNING/Flux-Node-Tools)
+4. 💪 Opened PR [#7](https://github.com/JKTUNING/Flux-Node-Tools/pull/7) in [JKTUNING/Flux-Node-Tools](https://github.com/JKTUNING/Flux-Node-Tools)
+5. 🗣 Commented on [#101](https://github.com/Qortal/qortal/issues/101) in [Qortal/qortal](https://github.com/Qortal/qortal)
+6. 💪 Opened PR [#101](https://github.com/Qortal/qortal/pull/101) in [Qortal/qortal](https://github.com/Qortal/qortal)
+7. 🎉 Merged PR [#2](https://github.com/TechDufus/home.io/pull/2) in [TechDufus/home.io](https://github.com/TechDufus/home.io)
+8. 💪 Opened PR [#2](https://github.com/TechDufus/home.io/pull/2) in [TechDufus/home.io](https://github.com/TechDufus/home.io)
+9. 🗣 Commented on [#418](https://github.com/bash-lsp/bash-language-server/issues/418) in [bash-lsp/bash-language-server](https://github.com/bash-lsp/bash-language-server)
+10. 🗣 Commented on [#60](https://github.com/crispgm/nvim-go/issues/60) in [crispgm/nvim-go](https://github.com/crispgm/nvim-go)
 <!--END_SECTION:activity-->
   </p>
 </details>
