@@ -30,16 +30,16 @@
     <p>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#57](https://github.com/VonHeikemen/lsp-zero.nvim/issues/57) in [VonHeikemen/lsp-zero.nvim](https://github.com/VonHeikemen/lsp-zero.nvim)
-2. ❗️ Closed issue [#28](https://github.com/RunOnFlux/fluxnode-multitool/issues/28) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
-3. 🗣 Commented on [#28](https://github.com/RunOnFlux/fluxnode-multitool/issues/28) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
-4. 🗣 Commented on [#71](https://github.com/RunOnFlux/fluxnode-multitool/issues/71) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
-5. ❗️ Closed issue [#60](https://github.com/crispgm/nvim-go/issues/60) in [crispgm/nvim-go](https://github.com/crispgm/nvim-go)
-6. 💪 Opened PR [#8](https://github.com/JKTUNING/Flux-Node-Tools/pull/8) in [JKTUNING/Flux-Node-Tools](https://github.com/JKTUNING/Flux-Node-Tools)
-7. 💪 Opened PR [#7](https://github.com/JKTUNING/Flux-Node-Tools/pull/7) in [JKTUNING/Flux-Node-Tools](https://github.com/JKTUNING/Flux-Node-Tools)
-8. 🗣 Commented on [#101](https://github.com/Qortal/qortal/issues/101) in [Qortal/qortal](https://github.com/Qortal/qortal)
-9. 💪 Opened PR [#101](https://github.com/Qortal/qortal/pull/101) in [Qortal/qortal](https://github.com/Qortal/qortal)
-10. 🎉 Merged PR [#2](https://github.com/TechDufus/home.io/pull/2) in [TechDufus/home.io](https://github.com/TechDufus/home.io)
+1. 🗣 Commented on [#57](https://github.com/VonHeikemen/lsp-zero.nvim/issues/57) in [VonHeikemen/lsp-zero.nvim](https://github.com/VonHeikemen/lsp-zero.nvim)
+2. ❗️ Opened issue [#57](https://github.com/VonHeikemen/lsp-zero.nvim/issues/57) in [VonHeikemen/lsp-zero.nvim](https://github.com/VonHeikemen/lsp-zero.nvim)
+3. ❗️ Closed issue [#28](https://github.com/RunOnFlux/fluxnode-multitool/issues/28) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
+4. 🗣 Commented on [#28](https://github.com/RunOnFlux/fluxnode-multitool/issues/28) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
+5. 🗣 Commented on [#71](https://github.com/RunOnFlux/fluxnode-multitool/issues/71) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
+6. ❗️ Closed issue [#60](https://github.com/crispgm/nvim-go/issues/60) in [crispgm/nvim-go](https://github.com/crispgm/nvim-go)
+7. 💪 Opened PR [#8](https://github.com/JKTUNING/Flux-Node-Tools/pull/8) in [JKTUNING/Flux-Node-Tools](https://github.com/JKTUNING/Flux-Node-Tools)
+8. 💪 Opened PR [#7](https://github.com/JKTUNING/Flux-Node-Tools/pull/7) in [JKTUNING/Flux-Node-Tools](https://github.com/JKTUNING/Flux-Node-Tools)
+9. 🗣 Commented on [#101](https://github.com/Qortal/qortal/issues/101) in [Qortal/qortal](https://github.com/Qortal/qortal)
+10. 💪 Opened PR [#101](https://github.com/Qortal/qortal/pull/101) in [Qortal/qortal](https://github.com/Qortal/qortal)
 <!--END_SECTION:activity-->
   </p>
 </details>
