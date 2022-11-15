@@ -30,16 +30,16 @@
     <p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/TechDufus/.dotfiles/pull/11) in [TechDufus/.dotfiles](https://github.com/TechDufus/.dotfiles)
-2. 💪 Opened PR [#11](https://github.com/TechDufus/.dotfiles/pull/11) in [TechDufus/.dotfiles](https://github.com/TechDufus/.dotfiles)
-3. 🗣 Commented on [#1](https://github.com/shoukoo/commentary.nvim/issues/1) in [shoukoo/commentary.nvim](https://github.com/shoukoo/commentary.nvim)
-4. 🗣 Commented on [#569](https://github.com/Telmate/terraform-provider-proxmox/issues/569) in [Telmate/terraform-provider-proxmox](https://github.com/Telmate/terraform-provider-proxmox)
-5. ❗️ Opened issue [#12](https://github.com/JKTUNING/Flux-Node-Tools/issues/12) in [JKTUNING/Flux-Node-Tools](https://github.com/JKTUNING/Flux-Node-Tools)
-6. ❗️ Opened issue [#1](https://github.com/shoukoo/commentary.nvim/issues/1) in [shoukoo/commentary.nvim](https://github.com/shoukoo/commentary.nvim)
-7. 🗣 Commented on [#2414](https://github.com/vercel/turbo/issues/2414) in [vercel/turbo](https://github.com/vercel/turbo)
-8. 🗣 Commented on [#57](https://github.com/VonHeikemen/lsp-zero.nvim/issues/57) in [VonHeikemen/lsp-zero.nvim](https://github.com/VonHeikemen/lsp-zero.nvim)
-9. ❗️ Opened issue [#57](https://github.com/VonHeikemen/lsp-zero.nvim/issues/57) in [VonHeikemen/lsp-zero.nvim](https://github.com/VonHeikemen/lsp-zero.nvim)
-10. ❗️ Closed issue [#28](https://github.com/RunOnFlux/fluxnode-multitool/issues/28) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
+1. 🗣 Commented on [#65](https://github.com/RunOnFlux/fluxnode-multitool/issues/65) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
+2. ❗️ Closed issue [#77](https://github.com/RunOnFlux/fluxnode-multitool/issues/77) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
+3. 🗣 Commented on [#77](https://github.com/RunOnFlux/fluxnode-multitool/issues/77) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
+4. 🎉 Merged PR [#76](https://github.com/RunOnFlux/fluxnode-multitool/pull/76) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
+5. 🎉 Merged PR [#11](https://github.com/TechDufus/.dotfiles/pull/11) in [TechDufus/.dotfiles](https://github.com/TechDufus/.dotfiles)
+6. 💪 Opened PR [#11](https://github.com/TechDufus/.dotfiles/pull/11) in [TechDufus/.dotfiles](https://github.com/TechDufus/.dotfiles)
+7. 🗣 Commented on [#1](https://github.com/shoukoo/commentary.nvim/issues/1) in [shoukoo/commentary.nvim](https://github.com/shoukoo/commentary.nvim)
+8. 🗣 Commented on [#569](https://github.com/Telmate/terraform-provider-proxmox/issues/569) in [Telmate/terraform-provider-proxmox](https://github.com/Telmate/terraform-provider-proxmox)
+9. ❗️ Opened issue [#12](https://github.com/JKTUNING/Flux-Node-Tools/issues/12) in [JKTUNING/Flux-Node-Tools](https://github.com/JKTUNING/Flux-Node-Tools)
+10. ❗️ Opened issue [#1](https://github.com/shoukoo/commentary.nvim/issues/1) in [shoukoo/commentary.nvim](https://github.com/shoukoo/commentary.nvim)
 <!--END_SECTION:activity-->
   </p>
 </details>
