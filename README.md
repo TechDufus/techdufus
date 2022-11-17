@@ -30,16 +30,16 @@
     <p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#79](https://github.com/RunOnFlux/fluxnode-multitool/pull/79) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
-2. ❗️ Closed issue [#71](https://github.com/RunOnFlux/fluxnode-multitool/issues/71) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
-3. 🗣 Commented on [#71](https://github.com/RunOnFlux/fluxnode-multitool/issues/71) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
-4. ❗️ Reopened issue [#71](https://github.com/RunOnFlux/fluxnode-multitool/issues/71) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
+1. 🗣 Commented on [#49](https://github.com/RunOnFlux/fluxnode-multitool/issues/49) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
+2. ❗️ Closed issue [#49](https://github.com/RunOnFlux/fluxnode-multitool/issues/49) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
+3. 🎉 Merged PR [#79](https://github.com/RunOnFlux/fluxnode-multitool/pull/79) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
+4. ❗️ Closed issue [#71](https://github.com/RunOnFlux/fluxnode-multitool/issues/71) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
 5. 🗣 Commented on [#71](https://github.com/RunOnFlux/fluxnode-multitool/issues/71) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
-6. 🗣 Commented on [#78](https://github.com/RunOnFlux/fluxnode-multitool/issues/78) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
-7. 💪 Opened PR [#78](https://github.com/RunOnFlux/fluxnode-multitool/pull/78) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
-8. 🗣 Commented on [#65](https://github.com/RunOnFlux/fluxnode-multitool/issues/65) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
-9. ❗️ Closed issue [#77](https://github.com/RunOnFlux/fluxnode-multitool/issues/77) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
-10. 🗣 Commented on [#77](https://github.com/RunOnFlux/fluxnode-multitool/issues/77) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
+6. ❗️ Reopened issue [#71](https://github.com/RunOnFlux/fluxnode-multitool/issues/71) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
+7. 🗣 Commented on [#71](https://github.com/RunOnFlux/fluxnode-multitool/issues/71) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
+8. 🗣 Commented on [#78](https://github.com/RunOnFlux/fluxnode-multitool/issues/78) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
+9. 💪 Opened PR [#78](https://github.com/RunOnFlux/fluxnode-multitool/pull/78) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
+10. 🗣 Commented on [#65](https://github.com/RunOnFlux/fluxnode-multitool/issues/65) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
 <!--END_SECTION:activity-->
   </p>
 </details>
