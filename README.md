@@ -7,8 +7,8 @@
 <h3 align="center"> I'm a nerd, and I love all things Tech!</h3>
 <p align="center">
   <a href="https://www.powershellgallery.com/profiles/matthewjdegarmo"><img align="center" src="https://img.shields.io/badge/Total%20PSGallery%20Downloads-~3,360-green"/></a>
-  [![Discord](https://img.shields.io/discord/905178979844116520.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/5M4hjfyRBj)
 </p>
+[![Discord](https://img.shields.io/discord/905178979844116520.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/5M4hjfyRBj)
 <p align="center">
   <a href="https://www.twitch.tv/TechDufus/about/"><img align="center" height="40" src="https://img.icons8.com/color/144/000000/twitch.png"/></a>
   <a href="https://twitter.com/techdufus"><img align="center" height="40" src="https://img.icons8.com/fluent/144/000000/twitter.png"/></a>
