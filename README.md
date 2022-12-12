@@ -31,9 +31,9 @@
     <p>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#380](https://github.com/ohmybash/oh-my-bash/pull/380) in [ohmybash/oh-my-bash](https://github.com/ohmybash/oh-my-bash)
-2. ❗️ Opened issue [#379](https://github.com/ohmybash/oh-my-bash/issues/379) in [ohmybash/oh-my-bash](https://github.com/ohmybash/oh-my-bash)
-3. ❗️ Closed issue [#1](https://github.com/Trerot/AdventOfCode2020-1/issues/1) in [Trerot/AdventOfCode2020-1](https://github.com/Trerot/AdventOfCode2020-1)
+1. 🗣 Commented on [#380](https://github.com/ohmybash/oh-my-bash/issues/380) in [ohmybash/oh-my-bash](https://github.com/ohmybash/oh-my-bash)
+2. 💪 Opened PR [#380](https://github.com/ohmybash/oh-my-bash/pull/380) in [ohmybash/oh-my-bash](https://github.com/ohmybash/oh-my-bash)
+3. ❗️ Opened issue [#379](https://github.com/ohmybash/oh-my-bash/issues/379) in [ohmybash/oh-my-bash](https://github.com/ohmybash/oh-my-bash)
 4. 🗣 Commented on [#5](https://github.com/RunOnFlux/fluxnode-multitool/issues/5) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
 5. ❌ Closed PR [#5](https://github.com/RunOnFlux/fluxnode-multitool/pull/5) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
 6. 🗣 Commented on [#10](https://github.com/RunOnFlux/fluxnode-multitool/issues/10) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
