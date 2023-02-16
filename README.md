@@ -31,13 +31,13 @@
     <p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#96](https://github.com/RunOnFlux/fluxnode-multitool/issues/96) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
-2. 🗣 Commented on [#90](https://github.com/RunOnFlux/fluxnode-multitool/issues/90) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
-3. 🎉 Merged PR [#90](https://github.com/RunOnFlux/fluxnode-multitool/pull/90) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
-4. 🗣 Commented on [#380](https://github.com/ohmybash/oh-my-bash/issues/380) in [ohmybash/oh-my-bash](https://github.com/ohmybash/oh-my-bash)
-5. 💪 Opened PR [#380](https://github.com/ohmybash/oh-my-bash/pull/380) in [ohmybash/oh-my-bash](https://github.com/ohmybash/oh-my-bash)
-6. ❗️ Opened issue [#379](https://github.com/ohmybash/oh-my-bash/issues/379) in [ohmybash/oh-my-bash](https://github.com/ohmybash/oh-my-bash)
-7. ❌ Closed PR [#7](https://github.com/RunOnFlux/fluxnode-multitool/pull/7) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
+1. 💪 Opened PR [#39](https://github.com/uloco/bluloco.nvim/pull/39) in [uloco/bluloco.nvim](https://github.com/uloco/bluloco.nvim)
+2. 🗣 Commented on [#96](https://github.com/RunOnFlux/fluxnode-multitool/issues/96) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
+3. 🗣 Commented on [#90](https://github.com/RunOnFlux/fluxnode-multitool/issues/90) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
+4. 🎉 Merged PR [#90](https://github.com/RunOnFlux/fluxnode-multitool/pull/90) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
+5. 🗣 Commented on [#380](https://github.com/ohmybash/oh-my-bash/issues/380) in [ohmybash/oh-my-bash](https://github.com/ohmybash/oh-my-bash)
+6. 💪 Opened PR [#380](https://github.com/ohmybash/oh-my-bash/pull/380) in [ohmybash/oh-my-bash](https://github.com/ohmybash/oh-my-bash)
+7. ❗️ Opened issue [#379](https://github.com/ohmybash/oh-my-bash/issues/379) in [ohmybash/oh-my-bash](https://github.com/ohmybash/oh-my-bash)
 8. 🗣 Commented on [#7](https://github.com/RunOnFlux/fluxnode-multitool/issues/7) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
 9. 🗣 Commented on [#49](https://github.com/RunOnFlux/fluxnode-multitool/issues/49) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
 10. ❗️ Closed issue [#49](https://github.com/RunOnFlux/fluxnode-multitool/issues/49) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
