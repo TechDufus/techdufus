@@ -31,16 +31,16 @@
     <p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/stillmatic/chat/issues/3) in [stillmatic/chat](https://github.com/stillmatic/chat)
-2. 💪 Opened PR [#3](https://github.com/stillmatic/chat/pull/3) in [stillmatic/chat](https://github.com/stillmatic/chat)
-3. 🎉 Merged PR [#10](https://github.com/TechDufus/dotfiles/pull/10) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-4. 💪 Opened PR [#10](https://github.com/TechDufus/dotfiles/pull/10) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-5. 🎉 Merged PR [#9](https://github.com/TechDufus/dotfiles/pull/9) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-6. 💪 Opened PR [#9](https://github.com/TechDufus/dotfiles/pull/9) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-7. 🎉 Merged PR [#8](https://github.com/TechDufus/dotfiles/pull/8) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-8. 💪 Opened PR [#8](https://github.com/TechDufus/dotfiles/pull/8) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-9. 🎉 Merged PR [#7](https://github.com/TechDufus/dotfiles/pull/7) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-10. 💪 Opened PR [#7](https://github.com/TechDufus/dotfiles/pull/7) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+1. 🗣 Commented on [#2](https://github.com/stillmatic/chat/issues/2) in [stillmatic/chat](https://github.com/stillmatic/chat)
+2. 🗣 Commented on [#3](https://github.com/stillmatic/chat/issues/3) in [stillmatic/chat](https://github.com/stillmatic/chat)
+3. 💪 Opened PR [#3](https://github.com/stillmatic/chat/pull/3) in [stillmatic/chat](https://github.com/stillmatic/chat)
+4. 🎉 Merged PR [#10](https://github.com/TechDufus/dotfiles/pull/10) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+5. 💪 Opened PR [#10](https://github.com/TechDufus/dotfiles/pull/10) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+6. 🎉 Merged PR [#9](https://github.com/TechDufus/dotfiles/pull/9) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+7. 💪 Opened PR [#9](https://github.com/TechDufus/dotfiles/pull/9) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+8. 🎉 Merged PR [#8](https://github.com/TechDufus/dotfiles/pull/8) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+9. 💪 Opened PR [#8](https://github.com/TechDufus/dotfiles/pull/8) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+10. 🎉 Merged PR [#7](https://github.com/TechDufus/dotfiles/pull/7) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
 <!--END_SECTION:activity-->
   </p>
 </details>
