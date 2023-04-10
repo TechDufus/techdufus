@@ -13,5 +13,5 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://matthewjdegarmo.com/feed.xml"
+          feed_list: "https://techdufus.com/feed.xml"
           max_post_count: 15
