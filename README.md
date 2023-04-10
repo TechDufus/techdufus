@@ -21,7 +21,7 @@
 </p>
 
 #### What am I up to?
-- 🎥 I Live-Stream Tech and Open Source projects that I work on. Feel free to follow or [subscribe](https://www.twitch.tv/products/techdufus) me on [Twitch](https://www.twitch.tv/TechDufus/about/)!
+- 🎥 I Live-Stream Tech and Open Source projects that I work on over at [Twitch](https://www.twitch.tv/TechDufus/about/)!
 - 🔭 Currently on a full-stack team at [Lumen](https://github.com/CenturyLinkCloud), and the Infrastructure & Security team at [RunOnFlux](https://github.com/RunOnFlux) getting to script all the things!
 - 🌱 Continuing to learn more about [PowerShell](https://github.com/powershell/powershell), [Terraform](https://www.terraform.io/), [Git](https://git-scm.com/), [NeoVim](https://neovim.io/), [GoLang](https://go.dev/), [GitHub](https://github.com), [Kubernetes](https://kubernetes.io/), [Helm](https://helm.sh/), [Ansible](https://ansible.com), and anything that will help me contribute to the community.
 ---
