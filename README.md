@@ -50,16 +50,16 @@
     <p>
     
  <!-- BLOG-POST-LIST:START -->
-- [Creating a Progress Indicator for your PowerShell Processes](https://techdufus.com/powershell/2022/04/26/creating-a-progress-indicator-for-your-powershell-processes.html)
-- [Using $PSStyle to Spice up your Output](https://techdufus.com/powershell/2022/04/22/using-psstyle-to-spice-up-your-output.html)
-- [Playing With Dates in PowerShell](https://techdufus.com/powershell/2021/12/01/playing-with-dates-in-powershell.html)
-- [Introducing the BlogQueue GitHub Action](https://techdufus.com/powershell/2021/11/23/introducing-the-blogqueue-github-action.html)
-- [Remove Overlapping IP Address Ranges from a List of CIDR IP Addresses](https://techdufus.com/powershell/2021/06/14/remove-overlapping-ip-ranges-from-list-of-cidr-addresses.html)
-- [Testing Terraform IaC with Pester - Unit Tests](https://techdufus.com/powershell/2021/05/31/testing-teraform-iac-with-pester-unit-tests.html)
-- [How to Import a Locally Defined Function into a Remote PowerShell Session](https://techdufus.com/powershell/2021/03/31/how-to-import-a-locally-defined-function-into-a-remote-powershell-session.html)
-- [Use PowerShell to Detect Running OS](https://techdufus.com/powershell/2021/03/30/use-powershell-to-detect-running-os.html)
-- [How to securely store credentials locally using PowerShell. NO PLAIN TEXT.](https://techdufus.com/powershell/2020/11/20/how-to-securely-store-credentials-locally-using-powershell-no-plain-text.html)
-- [PowerShell Functions: The Basics of Creating PowerShell Functions](https://techdufus.com/powershell/2020/08/16/powershell-functions-the-basics-of-creating-powershell-functions.html)
+- [Introduction to GoLang Structs](https://TechDufus.com/go/2022/12/07/intrnduction-to-go-structs.html)
+- [What is GoLang?](https://TechDufus.com/go/2022/12/06/what-is-golang.html)
+- [Creating a Progress Indicator for your PowerShell Processes](https://TechDufus.com/powershell/2022/04/26/creating-a-progress-indicator-for-your-powershell-processes.html)
+- [Using $PSStyle to Spice up your Output](https://TechDufus.com/powershell/2022/04/22/using-psstyle-to-spice-up-your-output.html)
+- [Playing With Dates in PowerShell](https://TechDufus.com/powershell/2021/12/01/playing-with-dates-in-powershell.html)
+- [Introducing the BlogQueue GitHub Action](https://TechDufus.com/powershell/2021/11/23/introducing-the-blogqueue-github-action.html)
+- [Remove Overlapping IP Address Ranges from a List of CIDR IP Addresses](https://TechDufus.com/powershell/2021/06/14/remove-overlapping-ip-ranges-from-list-of-cidr-addresses.html)
+- [Testing Terraform IaC with Pester - Unit Tests](https://TechDufus.com/powershell/2021/05/31/testing-teraform-iac-with-pester-unit-tests.html)
+- [How to Import a Locally Defined Function into a Remote PowerShell Session](https://TechDufus.com/powershell/2021/03/31/how-to-import-a-locally-defined-function-into-a-remote-powershell-session.html)
+- [Use PowerShell to Detect Running OS](https://TechDufus.com/powershell/2021/03/30/use-powershell-to-detect-running-os.html)
 <!-- BLOG-POST-LIST:END -->
   </p>
 </details>
