@@ -68,7 +68,7 @@
   <summary><b>👨‍💻 Stats</b></summary>
   <p align="center">
     <a>
-      <img align="center" src="https://raw.githubusercontent.com/gist/techdufus/1eaef21799d1d62623cbfb229769d1c0/raw/480f726c6eeb06526f6dd030d2ae92a69ad41c54/github-metrics.svg"/>
+      <img align="center" src="https://gist.githubusercontent.com/TechDufus/1eaef21799d1d62623cbfb229769d1c0/raw/2221cb18be61658dee5f24439946dcaae8dbd023/github-metrics.svg"/>
     </a>
   </p>
 </details>
