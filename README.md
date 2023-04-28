@@ -31,16 +31,16 @@
     <p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/stillmatic/chat/issues/2) in [stillmatic/chat](https://github.com/stillmatic/chat)
-2. ❗️ Closed issue [#4](https://github.com/Wytamma/write-the/issues/4) in [Wytamma/write-the](https://github.com/Wytamma/write-the)
-3. 🎉 Merged PR [#28](https://github.com/TechDufus/dotfiles/pull/28) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-4. 💪 Opened PR [#28](https://github.com/TechDufus/dotfiles/pull/28) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-5. 🗣 Commented on [#3](https://github.com/stillmatic/chat/issues/3) in [stillmatic/chat](https://github.com/stillmatic/chat)
-6. 🗣 Commented on [#15477](https://github.com/etcd-io/etcd/issues/15477) in [etcd-io/etcd](https://github.com/etcd-io/etcd)
-7. 🎉 Merged PR [#27](https://github.com/TechDufus/dotfiles/pull/27) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-8. 💪 Opened PR [#27](https://github.com/TechDufus/dotfiles/pull/27) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-9. ❗️ Opened issue [#4](https://github.com/Wytamma/write-the/issues/4) in [Wytamma/write-the](https://github.com/Wytamma/write-the)
-10. 🎉 Merged PR [#26](https://github.com/TechDufus/dotfiles/pull/26) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+1. 💪 Opened PR [#27](https://github.com/powershelllive/TwitchStreamNotifcations/pull/27) in [powershelllive/TwitchStreamNotifcations](https://github.com/powershelllive/TwitchStreamNotifcations)
+2. 🗣 Commented on [#2](https://github.com/stillmatic/chat/issues/2) in [stillmatic/chat](https://github.com/stillmatic/chat)
+3. ❗️ Closed issue [#4](https://github.com/Wytamma/write-the/issues/4) in [Wytamma/write-the](https://github.com/Wytamma/write-the)
+4. 🎉 Merged PR [#28](https://github.com/TechDufus/dotfiles/pull/28) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+5. 💪 Opened PR [#28](https://github.com/TechDufus/dotfiles/pull/28) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+6. 🗣 Commented on [#3](https://github.com/stillmatic/chat/issues/3) in [stillmatic/chat](https://github.com/stillmatic/chat)
+7. 🗣 Commented on [#15477](https://github.com/etcd-io/etcd/issues/15477) in [etcd-io/etcd](https://github.com/etcd-io/etcd)
+8. 🎉 Merged PR [#27](https://github.com/TechDufus/dotfiles/pull/27) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+9. 💪 Opened PR [#27](https://github.com/TechDufus/dotfiles/pull/27) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+10. ❗️ Opened issue [#4](https://github.com/Wytamma/write-the/issues/4) in [Wytamma/write-the](https://github.com/Wytamma/write-the)
 <!--END_SECTION:activity-->
   </p>
 </details>
