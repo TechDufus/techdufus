@@ -31,16 +31,16 @@
     <p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#36](https://github.com/TechDufus/dotfiles/pull/36) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-2. 💪 Opened PR [#36](https://github.com/TechDufus/dotfiles/pull/36) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-3. 🗣 Commented on [#763](https://github.com/Telmate/terraform-provider-proxmox/issues/763) in [Telmate/terraform-provider-proxmox](https://github.com/Telmate/terraform-provider-proxmox)
-4. 🗣 Commented on [#762](https://github.com/Telmate/terraform-provider-proxmox/issues/762) in [Telmate/terraform-provider-proxmox](https://github.com/Telmate/terraform-provider-proxmox)
-5. 🎉 Merged PR [#35](https://github.com/TechDufus/dotfiles/pull/35) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-6. 💪 Opened PR [#35](https://github.com/TechDufus/dotfiles/pull/35) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-7. ❗️ Opened issue [#763](https://github.com/Telmate/terraform-provider-proxmox/issues/763) in [Telmate/terraform-provider-proxmox](https://github.com/Telmate/terraform-provider-proxmox)
-8. 🎉 Merged PR [#34](https://github.com/TechDufus/dotfiles/pull/34) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-9. 💪 Opened PR [#34](https://github.com/TechDufus/dotfiles/pull/34) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-10. 🎉 Merged PR [#33](https://github.com/TechDufus/dotfiles/pull/33) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+1. 🎉 Merged PR [#37](https://github.com/TechDufus/dotfiles/pull/37) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+2. 💪 Opened PR [#37](https://github.com/TechDufus/dotfiles/pull/37) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+3. 🎉 Merged PR [#36](https://github.com/TechDufus/dotfiles/pull/36) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+4. 💪 Opened PR [#36](https://github.com/TechDufus/dotfiles/pull/36) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+5. 🗣 Commented on [#763](https://github.com/Telmate/terraform-provider-proxmox/issues/763) in [Telmate/terraform-provider-proxmox](https://github.com/Telmate/terraform-provider-proxmox)
+6. 🗣 Commented on [#762](https://github.com/Telmate/terraform-provider-proxmox/issues/762) in [Telmate/terraform-provider-proxmox](https://github.com/Telmate/terraform-provider-proxmox)
+7. 🎉 Merged PR [#35](https://github.com/TechDufus/dotfiles/pull/35) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+8. 💪 Opened PR [#35](https://github.com/TechDufus/dotfiles/pull/35) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+9. ❗️ Opened issue [#763](https://github.com/Telmate/terraform-provider-proxmox/issues/763) in [Telmate/terraform-provider-proxmox](https://github.com/Telmate/terraform-provider-proxmox)
+10. 🎉 Merged PR [#34](https://github.com/TechDufus/dotfiles/pull/34) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
 <!--END_SECTION:activity-->
   </p>
 </details>
