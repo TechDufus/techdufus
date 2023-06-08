@@ -31,16 +31,16 @@
     <p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/Duffney/duffney.io/issues/4) in [Duffney/duffney.io](https://github.com/Duffney/duffney.io)
+1. 🗣 Commented on [#47](https://github.com/catppuccin/tmux/issues/47) in [catppuccin/tmux](https://github.com/catppuccin/tmux)
 2. 🗣 Commented on [#4](https://github.com/Duffney/duffney.io/issues/4) in [Duffney/duffney.io](https://github.com/Duffney/duffney.io)
-3. 🎉 Merged PR [#45](https://github.com/TechDufus/dotfiles/pull/45) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-4. 💪 Opened PR [#45](https://github.com/TechDufus/dotfiles/pull/45) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-5. 🎉 Merged PR [#44](https://github.com/TechDufus/dotfiles/pull/44) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-6. 💪 Opened PR [#44](https://github.com/TechDufus/dotfiles/pull/44) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-7. 🎉 Merged PR [#43](https://github.com/TechDufus/dotfiles/pull/43) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-8. 💪 Opened PR [#43](https://github.com/TechDufus/dotfiles/pull/43) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-9. 🗣 Commented on [#130](https://github.com/RunOnFlux/fluxnode-multitool/issues/130) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
-10. 🎉 Merged PR [#42](https://github.com/TechDufus/dotfiles/pull/42) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+3. 🗣 Commented on [#4](https://github.com/Duffney/duffney.io/issues/4) in [Duffney/duffney.io](https://github.com/Duffney/duffney.io)
+4. 🎉 Merged PR [#45](https://github.com/TechDufus/dotfiles/pull/45) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+5. 💪 Opened PR [#45](https://github.com/TechDufus/dotfiles/pull/45) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+6. 🎉 Merged PR [#44](https://github.com/TechDufus/dotfiles/pull/44) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+7. 💪 Opened PR [#44](https://github.com/TechDufus/dotfiles/pull/44) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+8. 🎉 Merged PR [#43](https://github.com/TechDufus/dotfiles/pull/43) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+9. 💪 Opened PR [#43](https://github.com/TechDufus/dotfiles/pull/43) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+10. 🗣 Commented on [#130](https://github.com/RunOnFlux/fluxnode-multitool/issues/130) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
 <!--END_SECTION:activity-->
   </p>
 </details>
