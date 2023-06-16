@@ -31,16 +31,16 @@
     <p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#47](https://github.com/catppuccin/tmux/issues/47) in [catppuccin/tmux](https://github.com/catppuccin/tmux)
-2. 🗣 Commented on [#47](https://github.com/catppuccin/tmux/issues/47) in [catppuccin/tmux](https://github.com/catppuccin/tmux)
-3. 🗣 Commented on [#4](https://github.com/Duffney/duffney.io/issues/4) in [Duffney/duffney.io](https://github.com/Duffney/duffney.io)
-4. 🗣 Commented on [#4](https://github.com/Duffney/duffney.io/issues/4) in [Duffney/duffney.io](https://github.com/Duffney/duffney.io)
-5. 🎉 Merged PR [#45](https://github.com/TechDufus/dotfiles/pull/45) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-6. 💪 Opened PR [#45](https://github.com/TechDufus/dotfiles/pull/45) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-7. 🎉 Merged PR [#44](https://github.com/TechDufus/dotfiles/pull/44) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-8. 💪 Opened PR [#44](https://github.com/TechDufus/dotfiles/pull/44) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-9. 🎉 Merged PR [#43](https://github.com/TechDufus/dotfiles/pull/43) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-10. 💪 Opened PR [#43](https://github.com/TechDufus/dotfiles/pull/43) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+1. 🎉 Merged PR [#46](https://github.com/TechDufus/dotfiles/pull/46) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+2. 💪 Opened PR [#46](https://github.com/TechDufus/dotfiles/pull/46) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+3. 🗣 Commented on [#47](https://github.com/catppuccin/tmux/issues/47) in [catppuccin/tmux](https://github.com/catppuccin/tmux)
+4. 🗣 Commented on [#47](https://github.com/catppuccin/tmux/issues/47) in [catppuccin/tmux](https://github.com/catppuccin/tmux)
+5. 🗣 Commented on [#4](https://github.com/Duffney/duffney.io/issues/4) in [Duffney/duffney.io](https://github.com/Duffney/duffney.io)
+6. 🗣 Commented on [#4](https://github.com/Duffney/duffney.io/issues/4) in [Duffney/duffney.io](https://github.com/Duffney/duffney.io)
+7. 🎉 Merged PR [#45](https://github.com/TechDufus/dotfiles/pull/45) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+8. 💪 Opened PR [#45](https://github.com/TechDufus/dotfiles/pull/45) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+9. 🎉 Merged PR [#44](https://github.com/TechDufus/dotfiles/pull/44) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+10. 💪 Opened PR [#44](https://github.com/TechDufus/dotfiles/pull/44) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
 <!--END_SECTION:activity-->
   </p>
 </details>
