@@ -31,16 +31,16 @@
     <p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#54](https://github.com/TechDufus/FluxNodeInstall/pull/54) in [TechDufus/FluxNodeInstall](https://github.com/TechDufus/FluxNodeInstall)
-2. 🎉 Merged PR [#52](https://github.com/TechDufus/dotfiles/pull/52) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-3. 💪 Opened PR [#52](https://github.com/TechDufus/dotfiles/pull/52) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-4. 🎉 Merged PR [#51](https://github.com/TechDufus/dotfiles/pull/51) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-5. 💪 Opened PR [#51](https://github.com/TechDufus/dotfiles/pull/51) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-6. 🔒 Closed issue [#77](https://github.com/zbirenbaum/copilot-cmp/issues/77) in [zbirenbaum/copilot-cmp](https://github.com/zbirenbaum/copilot-cmp)
-7. 🗣 Commented on [#77](https://github.com/zbirenbaum/copilot-cmp/issues/77) in [zbirenbaum/copilot-cmp](https://github.com/zbirenbaum/copilot-cmp)
-8. 🗣 Commented on [#77](https://github.com/zbirenbaum/copilot-cmp/issues/77) in [zbirenbaum/copilot-cmp](https://github.com/zbirenbaum/copilot-cmp)
-9. 🗣 Commented on [#569](https://github.com/Telmate/terraform-provider-proxmox/issues/569) in [Telmate/terraform-provider-proxmox](https://github.com/Telmate/terraform-provider-proxmox)
-10. ❗ Opened issue [#77](https://github.com/zbirenbaum/copilot-cmp/issues/77) in [zbirenbaum/copilot-cmp](https://github.com/zbirenbaum/copilot-cmp)
+1. 🎉 Merged PR [#55](https://github.com/TechDufus/FluxNodeInstall/pull/55) in [TechDufus/FluxNodeInstall](https://github.com/TechDufus/FluxNodeInstall)
+2. 💪 Opened PR [#55](https://github.com/TechDufus/FluxNodeInstall/pull/55) in [TechDufus/FluxNodeInstall](https://github.com/TechDufus/FluxNodeInstall)
+3. 🎉 Merged PR [#54](https://github.com/TechDufus/FluxNodeInstall/pull/54) in [TechDufus/FluxNodeInstall](https://github.com/TechDufus/FluxNodeInstall)
+4. 🎉 Merged PR [#52](https://github.com/TechDufus/dotfiles/pull/52) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+5. 💪 Opened PR [#52](https://github.com/TechDufus/dotfiles/pull/52) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+6. 🎉 Merged PR [#51](https://github.com/TechDufus/dotfiles/pull/51) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+7. 💪 Opened PR [#51](https://github.com/TechDufus/dotfiles/pull/51) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+8. 🔒 Closed issue [#77](https://github.com/zbirenbaum/copilot-cmp/issues/77) in [zbirenbaum/copilot-cmp](https://github.com/zbirenbaum/copilot-cmp)
+9. 🗣 Commented on [#77](https://github.com/zbirenbaum/copilot-cmp/issues/77) in [zbirenbaum/copilot-cmp](https://github.com/zbirenbaum/copilot-cmp)
+10. 🗣 Commented on [#77](https://github.com/zbirenbaum/copilot-cmp/issues/77) in [zbirenbaum/copilot-cmp](https://github.com/zbirenbaum/copilot-cmp)
 <!--END_SECTION:activity-->
   </p>
 </details>
