@@ -31,16 +31,16 @@
     <p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#56](https://github.com/TechDufus/FluxNodeInstall/pull/56) in [TechDufus/FluxNodeInstall](https://github.com/TechDufus/FluxNodeInstall)
-2. 🎉 Merged PR [#55](https://github.com/TechDufus/FluxNodeInstall/pull/55) in [TechDufus/FluxNodeInstall](https://github.com/TechDufus/FluxNodeInstall)
-3. 💪 Opened PR [#55](https://github.com/TechDufus/FluxNodeInstall/pull/55) in [TechDufus/FluxNodeInstall](https://github.com/TechDufus/FluxNodeInstall)
-4. 🎉 Merged PR [#54](https://github.com/TechDufus/FluxNodeInstall/pull/54) in [TechDufus/FluxNodeInstall](https://github.com/TechDufus/FluxNodeInstall)
-5. 🎉 Merged PR [#52](https://github.com/TechDufus/dotfiles/pull/52) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-6. 💪 Opened PR [#52](https://github.com/TechDufus/dotfiles/pull/52) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-7. 🎉 Merged PR [#51](https://github.com/TechDufus/dotfiles/pull/51) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-8. 💪 Opened PR [#51](https://github.com/TechDufus/dotfiles/pull/51) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-9. 🔒 Closed issue [#77](https://github.com/zbirenbaum/copilot-cmp/issues/77) in [zbirenbaum/copilot-cmp](https://github.com/zbirenbaum/copilot-cmp)
-10. 🗣 Commented on [#77](https://github.com/zbirenbaum/copilot-cmp/issues/77) in [zbirenbaum/copilot-cmp](https://github.com/zbirenbaum/copilot-cmp)
+1. 🎉 Merged PR [#57](https://github.com/TechDufus/FluxNodeInstall/pull/57) in [TechDufus/FluxNodeInstall](https://github.com/TechDufus/FluxNodeInstall)
+2. 🎉 Merged PR [#56](https://github.com/TechDufus/FluxNodeInstall/pull/56) in [TechDufus/FluxNodeInstall](https://github.com/TechDufus/FluxNodeInstall)
+3. 🎉 Merged PR [#55](https://github.com/TechDufus/FluxNodeInstall/pull/55) in [TechDufus/FluxNodeInstall](https://github.com/TechDufus/FluxNodeInstall)
+4. 💪 Opened PR [#55](https://github.com/TechDufus/FluxNodeInstall/pull/55) in [TechDufus/FluxNodeInstall](https://github.com/TechDufus/FluxNodeInstall)
+5. 🎉 Merged PR [#54](https://github.com/TechDufus/FluxNodeInstall/pull/54) in [TechDufus/FluxNodeInstall](https://github.com/TechDufus/FluxNodeInstall)
+6. 🎉 Merged PR [#52](https://github.com/TechDufus/dotfiles/pull/52) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+7. 💪 Opened PR [#52](https://github.com/TechDufus/dotfiles/pull/52) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+8. 🎉 Merged PR [#51](https://github.com/TechDufus/dotfiles/pull/51) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+9. 💪 Opened PR [#51](https://github.com/TechDufus/dotfiles/pull/51) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+10. 🔒 Closed issue [#77](https://github.com/zbirenbaum/copilot-cmp/issues/77) in [zbirenbaum/copilot-cmp](https://github.com/zbirenbaum/copilot-cmp)
 <!--END_SECTION:activity-->
   </p>
 </details>
