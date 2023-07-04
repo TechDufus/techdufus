@@ -1,4 +1,4 @@
-## Hi, I'm The TechDufus! 👋 
+## Hi, I'm The TechDufus! 👋
 <p align="center">
   Visitors<br>
   <img src="https://profile-counter.glitch.me/techdufus/count.svg" />
@@ -22,7 +22,7 @@
 
 #### What am I up to?
 - 🎥 I Live-Stream Tech and Open Source projects that I work on over at [Twitch](https://www.twitch.tv/TechDufus/about/)!
-- 🔭 Currently on a full-stack team at [Lumen](https://github.com/CenturyLinkCloud), and the Infrastructure & Security team at [RunOnFlux](https://github.com/RunOnFlux) getting to script all the things!
+- 🔭 Currently on the Platform Engineering team at [Lumen](https://github.com/CenturyLinkCloud) as a Sr. Lead Engineer, and the Infrastructure & Security team at [RunOnFlux](https://github.com/RunOnFlux) getting to script all the things!
 - 🌱 Continuing to learn more about [PowerShell](https://github.com/powershell/powershell), [Terraform](https://www.terraform.io/), [Git](https://git-scm.com/), [NeoVim](https://neovim.io/), [GoLang](https://go.dev/), [GitHub](https://github.com), [Kubernetes](https://kubernetes.io/), [Helm](https://helm.sh/), [Ansible](https://ansible.com), and anything that will help me contribute to the community.
 ---
 
@@ -48,7 +48,7 @@
  <details>
   <summary><b>👀 Latest Blog Posts</b></summary>
     <p>
-    
+
  <!-- BLOG-POST-LIST:START -->
 - [Introduction to GoLang Structs](https://TechDufus.com/go/2022/12/07/intrnduction-to-go-structs.html)
 - [What is GoLang?](https://TechDufus.com/go/2022/12/06/what-is-golang.html)
