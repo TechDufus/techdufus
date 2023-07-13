@@ -31,16 +31,16 @@
     <p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#56](https://github.com/TechDufus/dotfiles/pull/56) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-2. 💪 Opened PR [#56](https://github.com/TechDufus/dotfiles/pull/56) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-3. 🎉 Merged PR [#55](https://github.com/TechDufus/dotfiles/pull/55) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-4. 💪 Opened PR [#55](https://github.com/TechDufus/dotfiles/pull/55) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-5. 🎉 Merged PR [#54](https://github.com/TechDufus/dotfiles/pull/54) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-6. 💪 Opened PR [#54](https://github.com/TechDufus/dotfiles/pull/54) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-7. 🔒 Closed issue [#81179](https://github.com/ansible/ansible/issues/81179) in [ansible/ansible](https://github.com/ansible/ansible)
-8. 🗣 Commented on [#81179](https://github.com/ansible/ansible/issues/81179#issuecomment-1622414305) in [ansible/ansible](https://github.com/ansible/ansible)
-9. 🎉 Merged PR [#53](https://github.com/TechDufus/dotfiles/pull/53) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-10. 💪 Opened PR [#53](https://github.com/TechDufus/dotfiles/pull/53) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+1. 🎉 Merged PR [#57](https://github.com/TechDufus/dotfiles/pull/57) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+2. 💪 Opened PR [#57](https://github.com/TechDufus/dotfiles/pull/57) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+3. 🎉 Merged PR [#56](https://github.com/TechDufus/dotfiles/pull/56) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+4. 💪 Opened PR [#56](https://github.com/TechDufus/dotfiles/pull/56) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+5. 🎉 Merged PR [#55](https://github.com/TechDufus/dotfiles/pull/55) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+6. 💪 Opened PR [#55](https://github.com/TechDufus/dotfiles/pull/55) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+7. 🎉 Merged PR [#54](https://github.com/TechDufus/dotfiles/pull/54) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+8. 💪 Opened PR [#54](https://github.com/TechDufus/dotfiles/pull/54) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+9. 🔒 Closed issue [#81179](https://github.com/ansible/ansible/issues/81179) in [ansible/ansible](https://github.com/ansible/ansible)
+10. 🗣 Commented on [#81179](https://github.com/ansible/ansible/issues/81179#issuecomment-1622414305) in [ansible/ansible](https://github.com/ansible/ansible)
 <!--END_SECTION:activity-->
   </p>
 </details>
