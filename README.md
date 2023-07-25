@@ -80,10 +80,4 @@
 [![image](https://user-images.githubusercontent.com/46715299/183515709-7060c11f-528a-4f6a-939f-f460dd6ee28e.png)](https://twitch.tv/techdufus)
 
 <!-- SPONSORS-LIST:START -->
-# Thanks to all of my Sponsors!
-
-## GitHub Sponsors
-
-[<img src="https://github.com/thefirstnoe1.png" alt="thefirstnoe1" width="145"/>](https://github.com/thefirstnoe1)
-
 <!-- SPONSORS-LIST:END -->
