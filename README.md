@@ -50,7 +50,7 @@
     <p>
 
  <!-- BLOG-POST-LIST:START -->
-- [I Make Excuses | Eating Well](https://TechDufus.com/personal/2023/09/13/i-make-excuses.html)
+- [I Make Excuses - Eating Well](https://TechDufus.com/personal/2023/09/13/i-make-excuses.html)
 - [Introduction to GoLang Structs](https://TechDufus.com/go/2022/12/07/intrnduction-to-go-structs.html)
 - [What is GoLang?](https://TechDufus.com/go/2022/12/06/what-is-golang.html)
 - [Creating a Progress Indicator for your PowerShell Processes](https://TechDufus.com/powershell/2022/04/26/creating-a-progress-indicator-for-your-powershell-processes.html)
