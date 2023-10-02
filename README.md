@@ -31,16 +31,16 @@
     <p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#60](https://github.com/TechDufus/dotfiles/pull/60) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-2. 💪 Opened PR [#60](https://github.com/TechDufus/dotfiles/pull/60) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-3. ❗ Opened issue [#59](https://github.com/TechDufus/FluxNodeInstall/issues/59) in [TechDufus/FluxNodeInstall](https://github.com/TechDufus/FluxNodeInstall)
-4. 🎉 Merged PR [#59](https://github.com/TechDufus/dotfiles/pull/59) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-5. 💪 Opened PR [#59](https://github.com/TechDufus/dotfiles/pull/59) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-6. ❗ Opened issue [#2](https://github.com/filNaj/tree-setter/issues/2) in [filNaj/tree-setter](https://github.com/filNaj/tree-setter)
-7. 🎉 Merged PR [#27](https://github.com/TechDufus/AdminToolkit/pull/27) in [TechDufus/AdminToolkit](https://github.com/TechDufus/AdminToolkit)
-8. 🎉 Merged PR [#58](https://github.com/TechDufus/dotfiles/pull/58) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-9. 💪 Opened PR [#58](https://github.com/TechDufus/dotfiles/pull/58) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-10. 🎉 Merged PR [#57](https://github.com/TechDufus/dotfiles/pull/57) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+1. ❗ Opened issue [#61](https://github.com/TechDufus/FluxNodeInstall/issues/61) in [TechDufus/FluxNodeInstall](https://github.com/TechDufus/FluxNodeInstall)
+2. 🎉 Merged PR [#60](https://github.com/TechDufus/dotfiles/pull/60) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+3. 💪 Opened PR [#60](https://github.com/TechDufus/dotfiles/pull/60) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+4. ❗ Opened issue [#59](https://github.com/TechDufus/FluxNodeInstall/issues/59) in [TechDufus/FluxNodeInstall](https://github.com/TechDufus/FluxNodeInstall)
+5. 🎉 Merged PR [#59](https://github.com/TechDufus/dotfiles/pull/59) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+6. 💪 Opened PR [#59](https://github.com/TechDufus/dotfiles/pull/59) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+7. ❗ Opened issue [#2](https://github.com/filNaj/tree-setter/issues/2) in [filNaj/tree-setter](https://github.com/filNaj/tree-setter)
+8. 🎉 Merged PR [#27](https://github.com/TechDufus/AdminToolkit/pull/27) in [TechDufus/AdminToolkit](https://github.com/TechDufus/AdminToolkit)
+9. 🎉 Merged PR [#58](https://github.com/TechDufus/dotfiles/pull/58) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+10. 💪 Opened PR [#58](https://github.com/TechDufus/dotfiles/pull/58) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
 <!--END_SECTION:activity-->
   </p>
 </details>
