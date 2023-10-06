@@ -31,16 +31,16 @@
     <p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#61](https://github.com/TechDufus/dotfiles/pull/61) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-2. 💪 Opened PR [#61](https://github.com/TechDufus/dotfiles/pull/61) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-3. ❗ Opened issue [#350](https://github.com/TheR1D/shell_gpt/issues/350) in [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt)
-4. ❗ Opened issue [#61](https://github.com/TechDufus/FluxNodeInstall/issues/61) in [TechDufus/FluxNodeInstall](https://github.com/TechDufus/FluxNodeInstall)
-5. 🎉 Merged PR [#60](https://github.com/TechDufus/dotfiles/pull/60) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-6. 💪 Opened PR [#60](https://github.com/TechDufus/dotfiles/pull/60) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-7. ❗ Opened issue [#59](https://github.com/TechDufus/FluxNodeInstall/issues/59) in [TechDufus/FluxNodeInstall](https://github.com/TechDufus/FluxNodeInstall)
-8. 🎉 Merged PR [#59](https://github.com/TechDufus/dotfiles/pull/59) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-9. 💪 Opened PR [#59](https://github.com/TechDufus/dotfiles/pull/59) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-10. ❗ Opened issue [#2](https://github.com/filNaj/tree-setter/issues/2) in [filNaj/tree-setter](https://github.com/filNaj/tree-setter)
+1. 🗣 Commented on [#62](https://github.com/TechDufus/FluxNodeInstall/issues/62#issuecomment-1749838143) in [TechDufus/FluxNodeInstall](https://github.com/TechDufus/FluxNodeInstall)
+2. ❗ Opened issue [#62](https://github.com/TechDufus/FluxNodeInstall/issues/62) in [TechDufus/FluxNodeInstall](https://github.com/TechDufus/FluxNodeInstall)
+3. 🎉 Merged PR [#61](https://github.com/TechDufus/dotfiles/pull/61) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+4. 💪 Opened PR [#61](https://github.com/TechDufus/dotfiles/pull/61) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+5. ❗ Opened issue [#350](https://github.com/TheR1D/shell_gpt/issues/350) in [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt)
+6. ❗ Opened issue [#61](https://github.com/TechDufus/FluxNodeInstall/issues/61) in [TechDufus/FluxNodeInstall](https://github.com/TechDufus/FluxNodeInstall)
+7. 🎉 Merged PR [#60](https://github.com/TechDufus/dotfiles/pull/60) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+8. 💪 Opened PR [#60](https://github.com/TechDufus/dotfiles/pull/60) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+9. ❗ Opened issue [#59](https://github.com/TechDufus/FluxNodeInstall/issues/59) in [TechDufus/FluxNodeInstall](https://github.com/TechDufus/FluxNodeInstall)
+10. 🎉 Merged PR [#59](https://github.com/TechDufus/dotfiles/pull/59) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
 <!--END_SECTION:activity-->
   </p>
 </details>
