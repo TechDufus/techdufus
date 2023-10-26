@@ -31,16 +31,16 @@
     <p>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#350](https://github.com/TheR1D/shell_gpt/issues/350) in [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt)
-2. 🗣 Commented on [#350](https://github.com/TheR1D/shell_gpt/issues/350#issuecomment-1759654651) in [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt)
-3. 🗣 Commented on [#763](https://github.com/Telmate/terraform-provider-proxmox/issues/763#issuecomment-1758806423) in [Telmate/terraform-provider-proxmox](https://github.com/Telmate/terraform-provider-proxmox)
-4. 🔒 Closed issue [#59](https://github.com/TechDufus/FluxNodeInstall/issues/59) in [TechDufus/FluxNodeInstall](https://github.com/TechDufus/FluxNodeInstall)
-5. 🗣 Commented on [#62](https://github.com/TechDufus/FluxNodeInstall/issues/62#issuecomment-1750644369) in [TechDufus/FluxNodeInstall](https://github.com/TechDufus/FluxNodeInstall)
-6. 🗣 Commented on [#62](https://github.com/TechDufus/FluxNodeInstall/issues/62#issuecomment-1749918530) in [TechDufus/FluxNodeInstall](https://github.com/TechDufus/FluxNodeInstall)
-7. 🗣 Commented on [#62](https://github.com/TechDufus/FluxNodeInstall/issues/62#issuecomment-1749838143) in [TechDufus/FluxNodeInstall](https://github.com/TechDufus/FluxNodeInstall)
-8. ❗ Opened issue [#62](https://github.com/TechDufus/FluxNodeInstall/issues/62) in [TechDufus/FluxNodeInstall](https://github.com/TechDufus/FluxNodeInstall)
-9. 🎉 Merged PR [#61](https://github.com/TechDufus/dotfiles/pull/61) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-10. 💪 Opened PR [#61](https://github.com/TechDufus/dotfiles/pull/61) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+1. ❗ Opened issue [#63](https://github.com/TechDufus/FluxNodeInstall/issues/63) in [TechDufus/FluxNodeInstall](https://github.com/TechDufus/FluxNodeInstall)
+2. 🔒 Closed issue [#350](https://github.com/TheR1D/shell_gpt/issues/350) in [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt)
+3. 🗣 Commented on [#350](https://github.com/TheR1D/shell_gpt/issues/350#issuecomment-1759654651) in [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt)
+4. 🗣 Commented on [#763](https://github.com/Telmate/terraform-provider-proxmox/issues/763#issuecomment-1758806423) in [Telmate/terraform-provider-proxmox](https://github.com/Telmate/terraform-provider-proxmox)
+5. 🔒 Closed issue [#59](https://github.com/TechDufus/FluxNodeInstall/issues/59) in [TechDufus/FluxNodeInstall](https://github.com/TechDufus/FluxNodeInstall)
+6. 🗣 Commented on [#62](https://github.com/TechDufus/FluxNodeInstall/issues/62#issuecomment-1750644369) in [TechDufus/FluxNodeInstall](https://github.com/TechDufus/FluxNodeInstall)
+7. 🗣 Commented on [#62](https://github.com/TechDufus/FluxNodeInstall/issues/62#issuecomment-1749918530) in [TechDufus/FluxNodeInstall](https://github.com/TechDufus/FluxNodeInstall)
+8. 🗣 Commented on [#62](https://github.com/TechDufus/FluxNodeInstall/issues/62#issuecomment-1749838143) in [TechDufus/FluxNodeInstall](https://github.com/TechDufus/FluxNodeInstall)
+9. ❗ Opened issue [#62](https://github.com/TechDufus/FluxNodeInstall/issues/62) in [TechDufus/FluxNodeInstall](https://github.com/TechDufus/FluxNodeInstall)
+10. 🎉 Merged PR [#61](https://github.com/TechDufus/dotfiles/pull/61) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
 <!--END_SECTION:activity-->
   </p>
 </details>
