@@ -31,16 +31,16 @@
     <p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#83](https://github.com/TechDufus/dotfiles/pull/83) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-2. 💪 Opened PR [#83](https://github.com/TechDufus/dotfiles/pull/83) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-3. 🎉 Merged PR [#82](https://github.com/TechDufus/dotfiles/pull/82) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-4. 💪 Opened PR [#82](https://github.com/TechDufus/dotfiles/pull/82) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-5. 🗣 Commented on [#77](https://github.com/TechDufus/FluxNodeInstall/pull/77#issuecomment-1889500686) in [TechDufus/FluxNodeInstall](https://github.com/TechDufus/FluxNodeInstall)
-6. 🎉 Merged PR [#81](https://github.com/TechDufus/dotfiles/pull/81) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-7. 💪 Opened PR [#81](https://github.com/TechDufus/dotfiles/pull/81) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-8. 🎉 Merged PR [#80](https://github.com/TechDufus/dotfiles/pull/80) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-9. 💪 Opened PR [#80](https://github.com/TechDufus/dotfiles/pull/80) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-10. 🎉 Merged PR [#82](https://github.com/TechDufus/FluxNodeInstall/pull/82) in [TechDufus/FluxNodeInstall](https://github.com/TechDufus/FluxNodeInstall)
+1. 🎉 Merged PR [#85](https://github.com/TechDufus/dotfiles/pull/85) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+2. 💪 Opened PR [#85](https://github.com/TechDufus/dotfiles/pull/85) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+3. 🎉 Merged PR [#84](https://github.com/TechDufus/dotfiles/pull/84) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+4. 💪 Opened PR [#84](https://github.com/TechDufus/dotfiles/pull/84) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+5. 🎉 Merged PR [#83](https://github.com/TechDufus/dotfiles/pull/83) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+6. 💪 Opened PR [#83](https://github.com/TechDufus/dotfiles/pull/83) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+7. 🎉 Merged PR [#82](https://github.com/TechDufus/dotfiles/pull/82) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+8. 💪 Opened PR [#82](https://github.com/TechDufus/dotfiles/pull/82) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+9. 🗣 Commented on [#77](https://github.com/TechDufus/FluxNodeInstall/pull/77#issuecomment-1889500686) in [TechDufus/FluxNodeInstall](https://github.com/TechDufus/FluxNodeInstall)
+10. 🎉 Merged PR [#81](https://github.com/TechDufus/dotfiles/pull/81) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
 <!--END_SECTION:activity-->
   </p>
 </details>
