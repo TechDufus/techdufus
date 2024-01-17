@@ -17,8 +17,12 @@
   <a href="https://techdufus.com/feed.xml"><img align="center" height="40" src="https://img.icons8.com/dusk/64/000000/rss.png"/></a>
 </p>
 <p align="center">
-  <img width="600" src="https://raw.githubusercontent.com/techdufus/techdufus/master/assets/github-snake.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg">
+    <img width="600" alt="github-snake" src="./assets/github-snake.svg">
+  </picture>
 </p>
+
 
 #### What am I up to?
 - 🎥 I Live-Stream Tech and Open Source projects that I work on over at [Twitch](https://www.twitch.tv/TechDufus/about/)!
