@@ -13,7 +13,9 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: assets/github-snake.svg?palette=github-dark
+          outputs: |
+            assets/github-snake.svg
+            assets/github-snake-dark.svg?palette=github-dark
       # Commit the changes
       - name: Commit files
         run: |
