@@ -36,16 +36,16 @@
     <p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4294](https://github.com/blitz-js/blitz/issues/4294#issuecomment-1924211177) in [blitz-js/blitz](https://github.com/blitz-js/blitz)
-2. 🔒 Closed issue [#4294](https://github.com/blitz-js/blitz/issues/4294) in [blitz-js/blitz](https://github.com/blitz-js/blitz)
-3. ❗ Opened issue [#4294](https://github.com/blitz-js/blitz/issues/4294) in [blitz-js/blitz](https://github.com/blitz-js/blitz)
-4. 🎉 Merged PR [#94](https://github.com/TechDufus/dotfiles/pull/94) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-5. 💪 Opened PR [#94](https://github.com/TechDufus/dotfiles/pull/94) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-6. 🎉 Merged PR [#93](https://github.com/TechDufus/dotfiles/pull/93) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-7. 💪 Opened PR [#93](https://github.com/TechDufus/dotfiles/pull/93) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-8. 🎉 Merged PR [#92](https://github.com/TechDufus/dotfiles/pull/92) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-9. 💪 Opened PR [#92](https://github.com/TechDufus/dotfiles/pull/92) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-10. 🗣 Commented on [#22](https://github.com/omerxx/tmux-sessionx/issues/22#issuecomment-1903234413) in [omerxx/tmux-sessionx](https://github.com/omerxx/tmux-sessionx)
+1. 🎉 Merged PR [#95](https://github.com/TechDufus/dotfiles/pull/95) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+2. 💪 Opened PR [#95](https://github.com/TechDufus/dotfiles/pull/95) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+3. 🗣 Commented on [#4294](https://github.com/blitz-js/blitz/issues/4294#issuecomment-1924211177) in [blitz-js/blitz](https://github.com/blitz-js/blitz)
+4. 🔒 Closed issue [#4294](https://github.com/blitz-js/blitz/issues/4294) in [blitz-js/blitz](https://github.com/blitz-js/blitz)
+5. ❗ Opened issue [#4294](https://github.com/blitz-js/blitz/issues/4294) in [blitz-js/blitz](https://github.com/blitz-js/blitz)
+6. 🎉 Merged PR [#94](https://github.com/TechDufus/dotfiles/pull/94) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+7. 💪 Opened PR [#94](https://github.com/TechDufus/dotfiles/pull/94) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+8. 🎉 Merged PR [#93](https://github.com/TechDufus/dotfiles/pull/93) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+9. 💪 Opened PR [#93](https://github.com/TechDufus/dotfiles/pull/93) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+10. 🎉 Merged PR [#92](https://github.com/TechDufus/dotfiles/pull/92) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
 <!--END_SECTION:activity-->
   </p>
 </details>
