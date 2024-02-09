@@ -36,16 +36,16 @@
     <p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#97](https://github.com/TechDufus/dotfiles/pull/97) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-2. 💪 Opened PR [#97](https://github.com/TechDufus/dotfiles/pull/97) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-3. 🎉 Merged PR [#96](https://github.com/TechDufus/dotfiles/pull/96) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-4. 💪 Opened PR [#96](https://github.com/TechDufus/dotfiles/pull/96) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-5. 🗣 Commented on [#3](https://github.com/TechDufus/home.io/pull/3#issuecomment-1928629575) in [TechDufus/home.io](https://github.com/TechDufus/home.io)
-6. 🎉 Merged PR [#95](https://github.com/TechDufus/dotfiles/pull/95) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-7. 💪 Opened PR [#95](https://github.com/TechDufus/dotfiles/pull/95) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-8. 🗣 Commented on [#4294](https://github.com/blitz-js/blitz/issues/4294#issuecomment-1924211177) in [blitz-js/blitz](https://github.com/blitz-js/blitz)
-9. 🔒 Closed issue [#4294](https://github.com/blitz-js/blitz/issues/4294) in [blitz-js/blitz](https://github.com/blitz-js/blitz)
-10. ❗ Opened issue [#4294](https://github.com/blitz-js/blitz/issues/4294) in [blitz-js/blitz](https://github.com/blitz-js/blitz)
+1. ❗ Opened issue [#68](https://github.com/kubewarden/go-policy-template/issues/68) in [kubewarden/go-policy-template](https://github.com/kubewarden/go-policy-template)
+2. 🎉 Merged PR [#97](https://github.com/TechDufus/dotfiles/pull/97) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+3. 💪 Opened PR [#97](https://github.com/TechDufus/dotfiles/pull/97) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+4. 🎉 Merged PR [#96](https://github.com/TechDufus/dotfiles/pull/96) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+5. 💪 Opened PR [#96](https://github.com/TechDufus/dotfiles/pull/96) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+6. 🗣 Commented on [#3](https://github.com/TechDufus/home.io/pull/3#issuecomment-1928629575) in [TechDufus/home.io](https://github.com/TechDufus/home.io)
+7. 🎉 Merged PR [#95](https://github.com/TechDufus/dotfiles/pull/95) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+8. 💪 Opened PR [#95](https://github.com/TechDufus/dotfiles/pull/95) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+9. 🗣 Commented on [#4294](https://github.com/blitz-js/blitz/issues/4294#issuecomment-1924211177) in [blitz-js/blitz](https://github.com/blitz-js/blitz)
+10. 🔒 Closed issue [#4294](https://github.com/blitz-js/blitz/issues/4294) in [blitz-js/blitz](https://github.com/blitz-js/blitz)
 <!--END_SECTION:activity-->
   </p>
 </details>
