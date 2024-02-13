@@ -36,16 +36,16 @@
     <p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#103](https://github.com/TechDufus/dotfiles/issues/103#issuecomment-1942421745) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-2. 🗣 Commented on [#105](https://github.com/TechDufus/dotfiles/issues/105#issuecomment-1942250691) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-3. 🗣 Commented on [#103](https://github.com/TechDufus/dotfiles/issues/103#issuecomment-1941933994) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-4. 💪 Opened PR [#104](https://github.com/TechDufus/dotfiles/pull/104) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-5. 🗣 Commented on [#103](https://github.com/TechDufus/dotfiles/issues/103#issuecomment-1941875260) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-6. ❗ Opened issue [#102](https://github.com/TechDufus/dotfiles/issues/102) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-7. 🎉 Merged PR [#101](https://github.com/TechDufus/dotfiles/pull/101) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-8. 💪 Opened PR [#101](https://github.com/TechDufus/dotfiles/pull/101) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-9. 🎉 Merged PR [#100](https://github.com/TechDufus/dotfiles/pull/100) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-10. 💪 Opened PR [#100](https://github.com/TechDufus/dotfiles/pull/100) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+1. 🔒 Closed issue [#103](https://github.com/TechDufus/dotfiles/issues/103) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+2. 🎉 Merged PR [#104](https://github.com/TechDufus/dotfiles/pull/104) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+3. 🗣 Commented on [#68](https://github.com/kubewarden/go-policy-template/issues/68#issuecomment-1942588391) in [kubewarden/go-policy-template](https://github.com/kubewarden/go-policy-template)
+4. 🗣 Commented on [#103](https://github.com/TechDufus/dotfiles/issues/103#issuecomment-1942421745) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+5. 🗣 Commented on [#105](https://github.com/TechDufus/dotfiles/issues/105#issuecomment-1942250691) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+6. 🗣 Commented on [#103](https://github.com/TechDufus/dotfiles/issues/103#issuecomment-1941933994) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+7. 💪 Opened PR [#104](https://github.com/TechDufus/dotfiles/pull/104) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+8. 🗣 Commented on [#103](https://github.com/TechDufus/dotfiles/issues/103#issuecomment-1941875260) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+9. ❗ Opened issue [#102](https://github.com/TechDufus/dotfiles/issues/102) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+10. 🎉 Merged PR [#101](https://github.com/TechDufus/dotfiles/pull/101) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
 <!--END_SECTION:activity-->
   </p>
 </details>
