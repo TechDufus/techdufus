@@ -36,16 +36,16 @@
     <p>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#108](https://github.com/TechDufus/dotfiles/issues/108) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-2. ❗ Opened issue [#107](https://github.com/TechDufus/dotfiles/issues/107) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-3. 🗣 Commented on [#68](https://github.com/kubewarden/go-policy-template/issues/68#issuecomment-1944336648) in [kubewarden/go-policy-template](https://github.com/kubewarden/go-policy-template)
-4. 🎉 Merged PR [#106](https://github.com/TechDufus/dotfiles/pull/106) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-5. 💪 Opened PR [#106](https://github.com/TechDufus/dotfiles/pull/106) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-6. 🗣 Commented on [#103](https://github.com/TechDufus/dotfiles/issues/103#issuecomment-1943831506) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-7. 🔒 Closed issue [#103](https://github.com/TechDufus/dotfiles/issues/103) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-8. 🎉 Merged PR [#104](https://github.com/TechDufus/dotfiles/pull/104) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-9. 🗣 Commented on [#68](https://github.com/kubewarden/go-policy-template/issues/68#issuecomment-1942588391) in [kubewarden/go-policy-template](https://github.com/kubewarden/go-policy-template)
-10. 🗣 Commented on [#103](https://github.com/TechDufus/dotfiles/issues/103#issuecomment-1942421745) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+1. ❗ Opened issue [#17](https://github.com/kubewarden/container-resources-policy/issues/17) in [kubewarden/container-resources-policy](https://github.com/kubewarden/container-resources-policy)
+2. ❗ Opened issue [#108](https://github.com/TechDufus/dotfiles/issues/108) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+3. ❗ Opened issue [#107](https://github.com/TechDufus/dotfiles/issues/107) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+4. 🗣 Commented on [#68](https://github.com/kubewarden/go-policy-template/issues/68#issuecomment-1944336648) in [kubewarden/go-policy-template](https://github.com/kubewarden/go-policy-template)
+5. 🎉 Merged PR [#106](https://github.com/TechDufus/dotfiles/pull/106) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+6. 💪 Opened PR [#106](https://github.com/TechDufus/dotfiles/pull/106) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+7. 🗣 Commented on [#103](https://github.com/TechDufus/dotfiles/issues/103#issuecomment-1943831506) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+8. 🔒 Closed issue [#103](https://github.com/TechDufus/dotfiles/issues/103) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+9. 🎉 Merged PR [#104](https://github.com/TechDufus/dotfiles/pull/104) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+10. 🗣 Commented on [#68](https://github.com/kubewarden/go-policy-template/issues/68#issuecomment-1942588391) in [kubewarden/go-policy-template](https://github.com/kubewarden/go-policy-template)
 <!--END_SECTION:activity-->
   </p>
 </details>
