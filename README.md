@@ -36,16 +36,16 @@
     <p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/TechDufus/home.io/pull/5) in [TechDufus/home.io](https://github.com/TechDufus/home.io)
-2. 🎉 Merged PR [#4](https://github.com/TechDufus/home.io/pull/4) in [TechDufus/home.io](https://github.com/TechDufus/home.io)
-3. 🗣 Commented on [#4](https://github.com/TechDufus/home.io/pull/4#issuecomment-1970358956) in [TechDufus/home.io](https://github.com/TechDufus/home.io)
-4. 🎉 Merged PR [#110](https://github.com/TechDufus/dotfiles/pull/110) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-5. 💪 Opened PR [#110](https://github.com/TechDufus/dotfiles/pull/110) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-6. 💪 Opened PR [#18](https://github.com/kubewarden/container-resources-policy/pull/18) in [kubewarden/container-resources-policy](https://github.com/kubewarden/container-resources-policy)
-7. 🗣 Commented on [#17](https://github.com/kubewarden/container-resources-policy/issues/17#issuecomment-1966981012) in [kubewarden/container-resources-policy](https://github.com/kubewarden/container-resources-policy)
-8. 🗣 Commented on [#17](https://github.com/kubewarden/container-resources-policy/issues/17#issuecomment-1966865100) in [kubewarden/container-resources-policy](https://github.com/kubewarden/container-resources-policy)
-9. 🗣 Commented on [#274](https://github.com/zbirenbaum/copilot.lua/pull/274#issuecomment-1966804050) in [zbirenbaum/copilot.lua](https://github.com/zbirenbaum/copilot.lua)
-10. 🎉 Merged PR [#109](https://github.com/TechDufus/dotfiles/pull/109) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+1. ❗ Opened issue [#83](https://github.com/TechDufus/FluxNodeInstall/issues/83) in [TechDufus/FluxNodeInstall](https://github.com/TechDufus/FluxNodeInstall)
+2. 🎉 Merged PR [#5](https://github.com/TechDufus/home.io/pull/5) in [TechDufus/home.io](https://github.com/TechDufus/home.io)
+3. 🎉 Merged PR [#4](https://github.com/TechDufus/home.io/pull/4) in [TechDufus/home.io](https://github.com/TechDufus/home.io)
+4. 🗣 Commented on [#4](https://github.com/TechDufus/home.io/pull/4#issuecomment-1970358956) in [TechDufus/home.io](https://github.com/TechDufus/home.io)
+5. 🎉 Merged PR [#110](https://github.com/TechDufus/dotfiles/pull/110) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+6. 💪 Opened PR [#110](https://github.com/TechDufus/dotfiles/pull/110) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+7. 💪 Opened PR [#18](https://github.com/kubewarden/container-resources-policy/pull/18) in [kubewarden/container-resources-policy](https://github.com/kubewarden/container-resources-policy)
+8. 🗣 Commented on [#17](https://github.com/kubewarden/container-resources-policy/issues/17#issuecomment-1966981012) in [kubewarden/container-resources-policy](https://github.com/kubewarden/container-resources-policy)
+9. 🗣 Commented on [#17](https://github.com/kubewarden/container-resources-policy/issues/17#issuecomment-1966865100) in [kubewarden/container-resources-policy](https://github.com/kubewarden/container-resources-policy)
+10. 🗣 Commented on [#274](https://github.com/zbirenbaum/copilot.lua/pull/274#issuecomment-1966804050) in [zbirenbaum/copilot.lua](https://github.com/zbirenbaum/copilot.lua)
 <!--END_SECTION:activity-->
   </p>
 </details>
