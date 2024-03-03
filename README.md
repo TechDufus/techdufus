@@ -36,16 +36,16 @@
     <p>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#84](https://github.com/TechDufus/FluxNodeInstall/issues/84) in [TechDufus/FluxNodeInstall](https://github.com/TechDufus/FluxNodeInstall)
-2. ❗ Opened issue [#83](https://github.com/TechDufus/FluxNodeInstall/issues/83) in [TechDufus/FluxNodeInstall](https://github.com/TechDufus/FluxNodeInstall)
-3. 🎉 Merged PR [#5](https://github.com/TechDufus/home.io/pull/5) in [TechDufus/home.io](https://github.com/TechDufus/home.io)
-4. 🎉 Merged PR [#4](https://github.com/TechDufus/home.io/pull/4) in [TechDufus/home.io](https://github.com/TechDufus/home.io)
-5. 🗣 Commented on [#4](https://github.com/TechDufus/home.io/pull/4#issuecomment-1970358956) in [TechDufus/home.io](https://github.com/TechDufus/home.io)
-6. 🎉 Merged PR [#110](https://github.com/TechDufus/dotfiles/pull/110) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-7. 💪 Opened PR [#110](https://github.com/TechDufus/dotfiles/pull/110) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-8. 💪 Opened PR [#18](https://github.com/kubewarden/container-resources-policy/pull/18) in [kubewarden/container-resources-policy](https://github.com/kubewarden/container-resources-policy)
-9. 🗣 Commented on [#17](https://github.com/kubewarden/container-resources-policy/issues/17#issuecomment-1966981012) in [kubewarden/container-resources-policy](https://github.com/kubewarden/container-resources-policy)
-10. 🗣 Commented on [#17](https://github.com/kubewarden/container-resources-policy/issues/17#issuecomment-1966865100) in [kubewarden/container-resources-policy](https://github.com/kubewarden/container-resources-policy)
+1. 🎉 Merged PR [#86](https://github.com/TechDufus/FluxNodeInstall/pull/86) in [TechDufus/FluxNodeInstall](https://github.com/TechDufus/FluxNodeInstall)
+2. 🗣 Commented on [#86](https://github.com/TechDufus/FluxNodeInstall/pull/86#issuecomment-1975011348) in [TechDufus/FluxNodeInstall](https://github.com/TechDufus/FluxNodeInstall)
+3. 💪 Opened PR [#86](https://github.com/TechDufus/FluxNodeInstall/pull/86) in [TechDufus/FluxNodeInstall](https://github.com/TechDufus/FluxNodeInstall)
+4. 🔒 Closed issue [#67](https://github.com/TechDufus/FluxNodeInstall/issues/67) in [TechDufus/FluxNodeInstall](https://github.com/TechDufus/FluxNodeInstall)
+5. 🎉 Merged PR [#80](https://github.com/TechDufus/FluxNodeInstall/pull/80) in [TechDufus/FluxNodeInstall](https://github.com/TechDufus/FluxNodeInstall)
+6. 🎉 Merged PR [#78](https://github.com/TechDufus/FluxNodeInstall/pull/78) in [TechDufus/FluxNodeInstall](https://github.com/TechDufus/FluxNodeInstall)
+7. 💪 Opened PR [#85](https://github.com/TechDufus/FluxNodeInstall/pull/85) in [TechDufus/FluxNodeInstall](https://github.com/TechDufus/FluxNodeInstall)
+8. ❗ Opened issue [#84](https://github.com/TechDufus/FluxNodeInstall/issues/84) in [TechDufus/FluxNodeInstall](https://github.com/TechDufus/FluxNodeInstall)
+9. ❗ Opened issue [#83](https://github.com/TechDufus/FluxNodeInstall/issues/83) in [TechDufus/FluxNodeInstall](https://github.com/TechDufus/FluxNodeInstall)
+10. 🎉 Merged PR [#5](https://github.com/TechDufus/home.io/pull/5) in [TechDufus/home.io](https://github.com/TechDufus/home.io)
 <!--END_SECTION:activity-->
   </p>
 </details>
