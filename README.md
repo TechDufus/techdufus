@@ -36,16 +36,16 @@
     <p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/TechDufus/fluxctl/pull/2) in [TechDufus/fluxctl](https://github.com/TechDufus/fluxctl)
-2. 🚀 Published release [v0.0.2](https://github.com/TechDufus/fluxctl/releases/tag/v0.0.2) in [TechDufus/fluxctl](https://github.com/TechDufus/fluxctl)
-3. 💪 Opened PR [#2](https://github.com/TechDufus/fluxctl/pull/2) in [TechDufus/fluxctl](https://github.com/TechDufus/fluxctl)
-4. 🎉 Merged PR [#1](https://github.com/TechDufus/fluxctl/pull/1) in [TechDufus/fluxctl](https://github.com/TechDufus/fluxctl)
-5. 🚀 Published release [v0.0.1](https://github.com/TechDufus/fluxctl/releases/tag/v0.0.1) in [TechDufus/fluxctl](https://github.com/TechDufus/fluxctl)
-6. 💪 Opened PR [#1](https://github.com/TechDufus/fluxctl/pull/1) in [TechDufus/fluxctl](https://github.com/TechDufus/fluxctl)
-7. ❗ Opened issue [#669](https://github.com/kubewarden/kubewarden-controller/issues/669) in [kubewarden/kubewarden-controller](https://github.com/kubewarden/kubewarden-controller)
-8. 🎉 Merged PR [#85](https://github.com/TechDufus/FluxNodeInstall/pull/85) in [TechDufus/FluxNodeInstall](https://github.com/TechDufus/FluxNodeInstall)
-9. 🔒 Closed issue [#84](https://github.com/TechDufus/FluxNodeInstall/issues/84) in [TechDufus/FluxNodeInstall](https://github.com/TechDufus/FluxNodeInstall)
-10. 🎉 Merged PR [#86](https://github.com/TechDufus/FluxNodeInstall/pull/86) in [TechDufus/FluxNodeInstall](https://github.com/TechDufus/FluxNodeInstall)
+1. 🗣 Commented on [#18](https://github.com/kubewarden/container-resources-policy/pull/18#issuecomment-1983577437) in [kubewarden/container-resources-policy](https://github.com/kubewarden/container-resources-policy)
+2. 🎉 Merged PR [#2](https://github.com/TechDufus/fluxctl/pull/2) in [TechDufus/fluxctl](https://github.com/TechDufus/fluxctl)
+3. 🚀 Published release [v0.0.2](https://github.com/TechDufus/fluxctl/releases/tag/v0.0.2) in [TechDufus/fluxctl](https://github.com/TechDufus/fluxctl)
+4. 💪 Opened PR [#2](https://github.com/TechDufus/fluxctl/pull/2) in [TechDufus/fluxctl](https://github.com/TechDufus/fluxctl)
+5. 🎉 Merged PR [#1](https://github.com/TechDufus/fluxctl/pull/1) in [TechDufus/fluxctl](https://github.com/TechDufus/fluxctl)
+6. 🚀 Published release [v0.0.1](https://github.com/TechDufus/fluxctl/releases/tag/v0.0.1) in [TechDufus/fluxctl](https://github.com/TechDufus/fluxctl)
+7. 💪 Opened PR [#1](https://github.com/TechDufus/fluxctl/pull/1) in [TechDufus/fluxctl](https://github.com/TechDufus/fluxctl)
+8. ❗ Opened issue [#669](https://github.com/kubewarden/kubewarden-controller/issues/669) in [kubewarden/kubewarden-controller](https://github.com/kubewarden/kubewarden-controller)
+9. 🎉 Merged PR [#85](https://github.com/TechDufus/FluxNodeInstall/pull/85) in [TechDufus/FluxNodeInstall](https://github.com/TechDufus/FluxNodeInstall)
+10. 🔒 Closed issue [#84](https://github.com/TechDufus/FluxNodeInstall/issues/84) in [TechDufus/FluxNodeInstall](https://github.com/TechDufus/FluxNodeInstall)
 <!--END_SECTION:activity-->
   </p>
 </details>
