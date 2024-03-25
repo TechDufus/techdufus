@@ -36,16 +36,16 @@
     <p>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#26](https://github.com/kubewarden/container-resources-policy/issues/26) in [kubewarden/container-resources-policy](https://github.com/kubewarden/container-resources-policy)
-2. 💪 Opened PR [#8](https://github.com/kubewarden/unique-ingress-policy/pull/8) in [kubewarden/unique-ingress-policy](https://github.com/kubewarden/unique-ingress-policy)
-3. 🗣 Commented on [#18](https://github.com/kubewarden/container-resources-policy/pull/18#issuecomment-1994991892) in [kubewarden/container-resources-policy](https://github.com/kubewarden/container-resources-policy)
-4. 🎉 Merged PR [#154](https://github.com/RunOnFlux/fluxnode-multitool/pull/154) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
-5. 🗣 Commented on [#18](https://github.com/kubewarden/container-resources-policy/pull/18#issuecomment-1983577437) in [kubewarden/container-resources-policy](https://github.com/kubewarden/container-resources-policy)
-6. 🎉 Merged PR [#2](https://github.com/TechDufus/fluxctl/pull/2) in [TechDufus/fluxctl](https://github.com/TechDufus/fluxctl)
-7. 🚀 Published release [v0.0.2](https://github.com/TechDufus/fluxctl/releases/tag/v0.0.2) in [TechDufus/fluxctl](https://github.com/TechDufus/fluxctl)
-8. 💪 Opened PR [#2](https://github.com/TechDufus/fluxctl/pull/2) in [TechDufus/fluxctl](https://github.com/TechDufus/fluxctl)
-9. 🎉 Merged PR [#1](https://github.com/TechDufus/fluxctl/pull/1) in [TechDufus/fluxctl](https://github.com/TechDufus/fluxctl)
-10. 🚀 Published release [v0.0.1](https://github.com/TechDufus/fluxctl/releases/tag/v0.0.1) in [TechDufus/fluxctl](https://github.com/TechDufus/fluxctl)
+1. 🗣 Commented on [#233](https://github.com/kubewarden/audit-scanner/issues/233#issuecomment-2018479987) in [kubewarden/audit-scanner](https://github.com/kubewarden/audit-scanner)
+2. ❗ Opened issue [#26](https://github.com/kubewarden/container-resources-policy/issues/26) in [kubewarden/container-resources-policy](https://github.com/kubewarden/container-resources-policy)
+3. 💪 Opened PR [#8](https://github.com/kubewarden/unique-ingress-policy/pull/8) in [kubewarden/unique-ingress-policy](https://github.com/kubewarden/unique-ingress-policy)
+4. 🗣 Commented on [#18](https://github.com/kubewarden/container-resources-policy/pull/18#issuecomment-1994991892) in [kubewarden/container-resources-policy](https://github.com/kubewarden/container-resources-policy)
+5. 🎉 Merged PR [#154](https://github.com/RunOnFlux/fluxnode-multitool/pull/154) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
+6. 🗣 Commented on [#18](https://github.com/kubewarden/container-resources-policy/pull/18#issuecomment-1983577437) in [kubewarden/container-resources-policy](https://github.com/kubewarden/container-resources-policy)
+7. 🎉 Merged PR [#2](https://github.com/TechDufus/fluxctl/pull/2) in [TechDufus/fluxctl](https://github.com/TechDufus/fluxctl)
+8. 🚀 Published release [v0.0.2](https://github.com/TechDufus/fluxctl/releases/tag/v0.0.2) in [TechDufus/fluxctl](https://github.com/TechDufus/fluxctl)
+9. 💪 Opened PR [#2](https://github.com/TechDufus/fluxctl/pull/2) in [TechDufus/fluxctl](https://github.com/TechDufus/fluxctl)
+10. 🎉 Merged PR [#1](https://github.com/TechDufus/fluxctl/pull/1) in [TechDufus/fluxctl](https://github.com/TechDufus/fluxctl)
 <!--END_SECTION:activity-->
   </p>
 </details>
