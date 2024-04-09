@@ -36,16 +36,16 @@
     <p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#28](https://github.com/kubewarden/container-resources-policy/pull/28#issuecomment-2043610276) in [kubewarden/container-resources-policy](https://github.com/kubewarden/container-resources-policy)
-2. ❗ Opened issue [#87](https://github.com/TechDufus/FluxNodeInstall/issues/87) in [TechDufus/FluxNodeInstall](https://github.com/TechDufus/FluxNodeInstall)
-3. ❗ Opened issue [#27](https://github.com/kubewarden/container-resources-policy/issues/27) in [kubewarden/container-resources-policy](https://github.com/kubewarden/container-resources-policy)
-4. 🗣 Commented on [#26](https://github.com/kubewarden/container-resources-policy/issues/26#issuecomment-2026056042) in [kubewarden/container-resources-policy](https://github.com/kubewarden/container-resources-policy)
-5. 🔒 Closed issue [#26](https://github.com/kubewarden/container-resources-policy/issues/26) in [kubewarden/container-resources-policy](https://github.com/kubewarden/container-resources-policy)
-6. 🎉 Merged PR [#111](https://github.com/TechDufus/dotfiles/pull/111) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-7. 💪 Opened PR [#111](https://github.com/TechDufus/dotfiles/pull/111) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-8. 🗣 Commented on [#233](https://github.com/kubewarden/audit-scanner/issues/233#issuecomment-2018479987) in [kubewarden/audit-scanner](https://github.com/kubewarden/audit-scanner)
-9. ❗ Opened issue [#26](https://github.com/kubewarden/container-resources-policy/issues/26) in [kubewarden/container-resources-policy](https://github.com/kubewarden/container-resources-policy)
-10. 💪 Opened PR [#8](https://github.com/kubewarden/unique-ingress-policy/pull/8) in [kubewarden/unique-ingress-policy](https://github.com/kubewarden/unique-ingress-policy)
+1. 🗣 Commented on [#28](https://github.com/kubewarden/container-resources-policy/pull/28#issuecomment-2045223077) in [kubewarden/container-resources-policy](https://github.com/kubewarden/container-resources-policy)
+2. 🗣 Commented on [#28](https://github.com/kubewarden/container-resources-policy/pull/28#issuecomment-2043610276) in [kubewarden/container-resources-policy](https://github.com/kubewarden/container-resources-policy)
+3. ❗ Opened issue [#87](https://github.com/TechDufus/FluxNodeInstall/issues/87) in [TechDufus/FluxNodeInstall](https://github.com/TechDufus/FluxNodeInstall)
+4. ❗ Opened issue [#27](https://github.com/kubewarden/container-resources-policy/issues/27) in [kubewarden/container-resources-policy](https://github.com/kubewarden/container-resources-policy)
+5. 🗣 Commented on [#26](https://github.com/kubewarden/container-resources-policy/issues/26#issuecomment-2026056042) in [kubewarden/container-resources-policy](https://github.com/kubewarden/container-resources-policy)
+6. 🔒 Closed issue [#26](https://github.com/kubewarden/container-resources-policy/issues/26) in [kubewarden/container-resources-policy](https://github.com/kubewarden/container-resources-policy)
+7. 🎉 Merged PR [#111](https://github.com/TechDufus/dotfiles/pull/111) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+8. 💪 Opened PR [#111](https://github.com/TechDufus/dotfiles/pull/111) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+9. 🗣 Commented on [#233](https://github.com/kubewarden/audit-scanner/issues/233#issuecomment-2018479987) in [kubewarden/audit-scanner](https://github.com/kubewarden/audit-scanner)
+10. ❗ Opened issue [#26](https://github.com/kubewarden/container-resources-policy/issues/26) in [kubewarden/container-resources-policy](https://github.com/kubewarden/container-resources-policy)
 <!--END_SECTION:activity-->
   </p>
 </details>
