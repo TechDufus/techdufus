@@ -1,4 +1,8 @@
-## Hi, I'm The TechDufus! 👋
+  <p align="center">
+    <a>
+      <img align="center" src="https://github.com/TechDufus/techdufus/assets/46715299/65eb5cd9-fae0-4f63-95e2-427c0b1415ec"/>
+    </a>
+  </p>
 <p align="center">
   Visitors<br>
   <img src="https://profile-counter.glitch.me/techdufus/count.svg" />
@@ -81,8 +85,6 @@
 
 <!-- <img align="center" alt="techdufus's Github Stats" src="https://github-readme-stats.vercel.app/api?username=techdufus&show_icons=true&count_private=true&theme=dark&include_all_commits=true&line_height=21&cache_seconds=1800"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=techdufus&theme=dark" alt="GitHub Streak" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=techdufus&theme=dark" style="max-width:100%;"> -->
-
-[![image](https://user-images.githubusercontent.com/46715299/183515709-7060c11f-528a-4f6a-939f-f460dd6ee28e.png)](https://twitch.tv/techdufus)
 
 <!-- SPONSORS-LIST:START -->
 <!-- SPONSORS-LIST:END -->
