@@ -1,5 +1,5 @@
   <p align="center">
-    <a>
+    <a href="https://linktr.ee/techdufus">
       <img align="center" src="https://github.com/TechDufus/techdufus/assets/46715299/65eb5cd9-fae0-4f63-95e2-427c0b1415ec"/>
     </a>
   </p>
