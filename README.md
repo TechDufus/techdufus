@@ -3,10 +3,6 @@
       <img align="center" src="https://github.com/TechDufus/techdufus/assets/46715299/65eb5cd9-fae0-4f63-95e2-427c0b1415ec"/>
     </a>
   </p>
-<p align="center">
-  Visitors<br>
-  <img src="https://profile-counter.glitch.me/techdufus/count.svg" />
-</p>
 
 <h3 align="center"> I'm a nerd, and I love all things Tech!</h3>
 <p align="center">
