@@ -36,10 +36,10 @@
     <p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#112](https://github.com/TechDufus/dotfiles/pull/112) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-2. 💪 Opened PR [#112](https://github.com/TechDufus/dotfiles/pull/112) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-3. 🗣 Commented on [#28](https://github.com/kubewarden/container-resources-policy/pull/28#issuecomment-2043610276) in [kubewarden/container-resources-policy](https://github.com/kubewarden/container-resources-policy)
-4. ❗ Opened issue [#87](https://github.com/TechDufus/FluxNodeInstall/issues/87) in [TechDufus/FluxNodeInstall](https://github.com/TechDufus/FluxNodeInstall)
+1. 🎉 Merged PR [#113](https://github.com/TechDufus/dotfiles/pull/113) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+2. 💪 Opened PR [#113](https://github.com/TechDufus/dotfiles/pull/113) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+3. 🎉 Merged PR [#112](https://github.com/TechDufus/dotfiles/pull/112) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+4. 💪 Opened PR [#112](https://github.com/TechDufus/dotfiles/pull/112) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
 5. ❗ Opened issue [#27](https://github.com/kubewarden/container-resources-policy/issues/27) in [kubewarden/container-resources-policy](https://github.com/kubewarden/container-resources-policy)
 6. 🗣 Commented on [#26](https://github.com/kubewarden/container-resources-policy/issues/26#issuecomment-2026056042) in [kubewarden/container-resources-policy](https://github.com/kubewarden/container-resources-policy)
 7. 🔒 Closed issue [#26](https://github.com/kubewarden/container-resources-policy/issues/26) in [kubewarden/container-resources-policy](https://github.com/kubewarden/container-resources-policy)
