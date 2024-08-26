@@ -36,16 +36,16 @@
     <p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#120](https://github.com/TechDufus/dotfiles/pull/120) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-2. 💪 Opened PR [#120](https://github.com/TechDufus/dotfiles/pull/120) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-3. 🎉 Merged PR [#119](https://github.com/TechDufus/dotfiles/pull/119) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-4. 💪 Opened PR [#119](https://github.com/TechDufus/dotfiles/pull/119) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-5. 🎉 Merged PR [#118](https://github.com/TechDufus/dotfiles/pull/118) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-6. 💪 Opened PR [#118](https://github.com/TechDufus/dotfiles/pull/118) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-7. 🗣 Commented on [#23](https://github.com/AKSarav/Kube-Node-Usage/issues/23#issuecomment-2284832843) in [AKSarav/Kube-Node-Usage](https://github.com/AKSarav/Kube-Node-Usage)
-8. 🎉 Merged PR [#117](https://github.com/TechDufus/dotfiles/pull/117) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-9. 💪 Opened PR [#117](https://github.com/TechDufus/dotfiles/pull/117) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-10. ❗ Opened issue [#23](https://github.com/AKSarav/Kube-Node-Usage/issues/23) in [AKSarav/Kube-Node-Usage](https://github.com/AKSarav/Kube-Node-Usage)
+1. 🗣 Commented on [#244](https://github.com/yetone/avante.nvim/issues/244#issuecomment-2310711268) in [yetone/avante.nvim](https://github.com/yetone/avante.nvim)
+2. 🔒 Closed issue [#244](https://github.com/yetone/avante.nvim/issues/244) in [yetone/avante.nvim](https://github.com/yetone/avante.nvim)
+3. ❗ Opened issue [#244](https://github.com/yetone/avante.nvim/issues/244) in [yetone/avante.nvim](https://github.com/yetone/avante.nvim)
+4. 🎉 Merged PR [#120](https://github.com/TechDufus/dotfiles/pull/120) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+5. 💪 Opened PR [#120](https://github.com/TechDufus/dotfiles/pull/120) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+6. 🎉 Merged PR [#119](https://github.com/TechDufus/dotfiles/pull/119) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+7. 💪 Opened PR [#119](https://github.com/TechDufus/dotfiles/pull/119) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+8. 🎉 Merged PR [#118](https://github.com/TechDufus/dotfiles/pull/118) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+9. 💪 Opened PR [#118](https://github.com/TechDufus/dotfiles/pull/118) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+10. 🗣 Commented on [#23](https://github.com/AKSarav/Kube-Node-Usage/issues/23#issuecomment-2284832843) in [AKSarav/Kube-Node-Usage](https://github.com/AKSarav/Kube-Node-Usage)
 <!--END_SECTION:activity-->
   </p>
 </details>
