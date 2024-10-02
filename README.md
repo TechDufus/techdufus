@@ -36,16 +36,16 @@
     <p>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2](https://github.com/jesseleite/GridLayout.spoon/issues/2) in [jesseleite/GridLayout.spoon](https://github.com/jesseleite/GridLayout.spoon)
-2. ❗ Opened issue [#1](https://github.com/jesseleite/GridLayout.spoon/issues/1) in [jesseleite/GridLayout.spoon](https://github.com/jesseleite/GridLayout.spoon)
-3. 🗣 Commented on [#244](https://github.com/yetone/avante.nvim/issues/244#issuecomment-2310711268) in [yetone/avante.nvim](https://github.com/yetone/avante.nvim)
-4. 🔒 Closed issue [#244](https://github.com/yetone/avante.nvim/issues/244) in [yetone/avante.nvim](https://github.com/yetone/avante.nvim)
-5. ❗ Opened issue [#244](https://github.com/yetone/avante.nvim/issues/244) in [yetone/avante.nvim](https://github.com/yetone/avante.nvim)
-6. 🎉 Merged PR [#120](https://github.com/TechDufus/dotfiles/pull/120) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-7. 💪 Opened PR [#120](https://github.com/TechDufus/dotfiles/pull/120) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-8. 🎉 Merged PR [#119](https://github.com/TechDufus/dotfiles/pull/119) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-9. 💪 Opened PR [#119](https://github.com/TechDufus/dotfiles/pull/119) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-10. 🎉 Merged PR [#118](https://github.com/TechDufus/dotfiles/pull/118) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+1. 💪 Opened PR [#121](https://github.com/TechDufus/dotfiles/pull/121) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+2. ❗ Opened issue [#2](https://github.com/jesseleite/GridLayout.spoon/issues/2) in [jesseleite/GridLayout.spoon](https://github.com/jesseleite/GridLayout.spoon)
+3. ❗ Opened issue [#1](https://github.com/jesseleite/GridLayout.spoon/issues/1) in [jesseleite/GridLayout.spoon](https://github.com/jesseleite/GridLayout.spoon)
+4. 🗣 Commented on [#244](https://github.com/yetone/avante.nvim/issues/244#issuecomment-2310711268) in [yetone/avante.nvim](https://github.com/yetone/avante.nvim)
+5. 🔒 Closed issue [#244](https://github.com/yetone/avante.nvim/issues/244) in [yetone/avante.nvim](https://github.com/yetone/avante.nvim)
+6. ❗ Opened issue [#244](https://github.com/yetone/avante.nvim/issues/244) in [yetone/avante.nvim](https://github.com/yetone/avante.nvim)
+7. 🎉 Merged PR [#120](https://github.com/TechDufus/dotfiles/pull/120) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+8. 💪 Opened PR [#120](https://github.com/TechDufus/dotfiles/pull/120) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+9. 🎉 Merged PR [#119](https://github.com/TechDufus/dotfiles/pull/119) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+10. 💪 Opened PR [#119](https://github.com/TechDufus/dotfiles/pull/119) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
 <!--END_SECTION:activity-->
   </p>
 </details>
