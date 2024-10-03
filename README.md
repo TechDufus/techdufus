@@ -36,16 +36,16 @@
     <p>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#4](https://github.com/jesseleite/GridLayout.spoon/issues/4) in [jesseleite/GridLayout.spoon](https://github.com/jesseleite/GridLayout.spoon)
-2. ❗ Opened issue [#3](https://github.com/jesseleite/GridLayout.spoon/issues/3) in [jesseleite/GridLayout.spoon](https://github.com/jesseleite/GridLayout.spoon)
-3. ❗ Opened issue [#122](https://github.com/TechDufus/dotfiles/issues/122) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-4. 💪 Opened PR [#121](https://github.com/TechDufus/dotfiles/pull/121) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-5. ❗ Opened issue [#2](https://github.com/jesseleite/GridLayout.spoon/issues/2) in [jesseleite/GridLayout.spoon](https://github.com/jesseleite/GridLayout.spoon)
-6. ❗ Opened issue [#1](https://github.com/jesseleite/GridLayout.spoon/issues/1) in [jesseleite/GridLayout.spoon](https://github.com/jesseleite/GridLayout.spoon)
-7. 🗣 Commented on [#244](https://github.com/yetone/avante.nvim/issues/244#issuecomment-2310711268) in [yetone/avante.nvim](https://github.com/yetone/avante.nvim)
-8. 🔒 Closed issue [#244](https://github.com/yetone/avante.nvim/issues/244) in [yetone/avante.nvim](https://github.com/yetone/avante.nvim)
-9. ❗ Opened issue [#244](https://github.com/yetone/avante.nvim/issues/244) in [yetone/avante.nvim](https://github.com/yetone/avante.nvim)
-10. 🎉 Merged PR [#120](https://github.com/TechDufus/dotfiles/pull/120) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+1. 🗣 Commented on [#123](https://github.com/TechDufus/dotfiles/issues/123#issuecomment-2392328708) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+2. ❗ Opened issue [#123](https://github.com/TechDufus/dotfiles/issues/123) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+3. ❗ Opened issue [#4](https://github.com/jesseleite/GridLayout.spoon/issues/4) in [jesseleite/GridLayout.spoon](https://github.com/jesseleite/GridLayout.spoon)
+4. ❗ Opened issue [#3](https://github.com/jesseleite/GridLayout.spoon/issues/3) in [jesseleite/GridLayout.spoon](https://github.com/jesseleite/GridLayout.spoon)
+5. ❗ Opened issue [#122](https://github.com/TechDufus/dotfiles/issues/122) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+6. 💪 Opened PR [#121](https://github.com/TechDufus/dotfiles/pull/121) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+7. ❗ Opened issue [#2](https://github.com/jesseleite/GridLayout.spoon/issues/2) in [jesseleite/GridLayout.spoon](https://github.com/jesseleite/GridLayout.spoon)
+8. ❗ Opened issue [#1](https://github.com/jesseleite/GridLayout.spoon/issues/1) in [jesseleite/GridLayout.spoon](https://github.com/jesseleite/GridLayout.spoon)
+9. 🗣 Commented on [#244](https://github.com/yetone/avante.nvim/issues/244#issuecomment-2310711268) in [yetone/avante.nvim](https://github.com/yetone/avante.nvim)
+10. 🔒 Closed issue [#244](https://github.com/yetone/avante.nvim/issues/244) in [yetone/avante.nvim](https://github.com/yetone/avante.nvim)
 <!--END_SECTION:activity-->
   </p>
 </details>
