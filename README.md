@@ -36,16 +36,16 @@
     <p>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#5](https://github.com/jesseleite/GridLayout.spoon/issues/5) in [jesseleite/GridLayout.spoon](https://github.com/jesseleite/GridLayout.spoon)
-2. 🗣 Commented on [#123](https://github.com/TechDufus/dotfiles/issues/123#issuecomment-2392328708) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-3. ❗ Opened issue [#123](https://github.com/TechDufus/dotfiles/issues/123) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-4. ❗ Opened issue [#4](https://github.com/jesseleite/GridLayout.spoon/issues/4) in [jesseleite/GridLayout.spoon](https://github.com/jesseleite/GridLayout.spoon)
-5. ❗ Opened issue [#3](https://github.com/jesseleite/GridLayout.spoon/issues/3) in [jesseleite/GridLayout.spoon](https://github.com/jesseleite/GridLayout.spoon)
-6. ❗ Opened issue [#122](https://github.com/TechDufus/dotfiles/issues/122) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-7. 💪 Opened PR [#121](https://github.com/TechDufus/dotfiles/pull/121) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-8. ❗ Opened issue [#2](https://github.com/jesseleite/GridLayout.spoon/issues/2) in [jesseleite/GridLayout.spoon](https://github.com/jesseleite/GridLayout.spoon)
-9. ❗ Opened issue [#1](https://github.com/jesseleite/GridLayout.spoon/issues/1) in [jesseleite/GridLayout.spoon](https://github.com/jesseleite/GridLayout.spoon)
-10. 🗣 Commented on [#244](https://github.com/yetone/avante.nvim/issues/244#issuecomment-2310711268) in [yetone/avante.nvim](https://github.com/yetone/avante.nvim)
+1. ❗ Opened issue [#6](https://github.com/jesseleite/GridLayout.spoon/issues/6) in [jesseleite/GridLayout.spoon](https://github.com/jesseleite/GridLayout.spoon)
+2. ❗ Opened issue [#5](https://github.com/jesseleite/GridLayout.spoon/issues/5) in [jesseleite/GridLayout.spoon](https://github.com/jesseleite/GridLayout.spoon)
+3. 🗣 Commented on [#123](https://github.com/TechDufus/dotfiles/issues/123#issuecomment-2392328708) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+4. ❗ Opened issue [#123](https://github.com/TechDufus/dotfiles/issues/123) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+5. ❗ Opened issue [#4](https://github.com/jesseleite/GridLayout.spoon/issues/4) in [jesseleite/GridLayout.spoon](https://github.com/jesseleite/GridLayout.spoon)
+6. ❗ Opened issue [#3](https://github.com/jesseleite/GridLayout.spoon/issues/3) in [jesseleite/GridLayout.spoon](https://github.com/jesseleite/GridLayout.spoon)
+7. ❗ Opened issue [#122](https://github.com/TechDufus/dotfiles/issues/122) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+8. 💪 Opened PR [#121](https://github.com/TechDufus/dotfiles/pull/121) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+9. ❗ Opened issue [#2](https://github.com/jesseleite/GridLayout.spoon/issues/2) in [jesseleite/GridLayout.spoon](https://github.com/jesseleite/GridLayout.spoon)
+10. ❗ Opened issue [#1](https://github.com/jesseleite/GridLayout.spoon/issues/1) in [jesseleite/GridLayout.spoon](https://github.com/jesseleite/GridLayout.spoon)
 <!--END_SECTION:activity-->
   </p>
 </details>
