@@ -36,16 +36,16 @@
     <p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/jesseleite/GridLayout.spoon/issues/4#issuecomment-2433056131) in [jesseleite/GridLayout.spoon](https://github.com/jesseleite/GridLayout.spoon)
-2. 🗣 Commented on [#6](https://github.com/jesseleite/GridLayout.spoon/issues/6#issuecomment-2416861453) in [jesseleite/GridLayout.spoon](https://github.com/jesseleite/GridLayout.spoon)
-3. 🗣 Commented on [#6](https://github.com/jesseleite/GridLayout.spoon/issues/6#issuecomment-2405703234) in [jesseleite/GridLayout.spoon](https://github.com/jesseleite/GridLayout.spoon)
-4. 🔒 Closed issue [#123](https://github.com/TechDufus/dotfiles/issues/123) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-5. 🔒 Closed issue [#123](https://github.com/TechDufus/dotfiles/issues/123) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-6. 🔒 Closed issue [#122](https://github.com/TechDufus/dotfiles/issues/122) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-7. 🎉 Merged PR [#121](https://github.com/TechDufus/dotfiles/pull/121) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-8. 🗣 Commented on [#6](https://github.com/jesseleite/GridLayout.spoon/issues/6#issuecomment-2405123534) in [jesseleite/GridLayout.spoon](https://github.com/jesseleite/GridLayout.spoon)
-9. ❗ Opened issue [#6](https://github.com/jesseleite/GridLayout.spoon/issues/6) in [jesseleite/GridLayout.spoon](https://github.com/jesseleite/GridLayout.spoon)
-10. ❗ Opened issue [#5](https://github.com/jesseleite/GridLayout.spoon/issues/5) in [jesseleite/GridLayout.spoon](https://github.com/jesseleite/GridLayout.spoon)
+1. 🗣 Commented on [#3](https://github.com/jesseleite/GridLayout.spoon/issues/3#issuecomment-2435663707) in [jesseleite/GridLayout.spoon](https://github.com/jesseleite/GridLayout.spoon)
+2. 🗣 Commented on [#3](https://github.com/jesseleite/GridLayout.spoon/issues/3#issuecomment-2435635823) in [jesseleite/GridLayout.spoon](https://github.com/jesseleite/GridLayout.spoon)
+3. 🗣 Commented on [#4](https://github.com/jesseleite/GridLayout.spoon/issues/4#issuecomment-2433056131) in [jesseleite/GridLayout.spoon](https://github.com/jesseleite/GridLayout.spoon)
+4. 🗣 Commented on [#6](https://github.com/jesseleite/GridLayout.spoon/issues/6#issuecomment-2416861453) in [jesseleite/GridLayout.spoon](https://github.com/jesseleite/GridLayout.spoon)
+5. 🗣 Commented on [#6](https://github.com/jesseleite/GridLayout.spoon/issues/6#issuecomment-2405703234) in [jesseleite/GridLayout.spoon](https://github.com/jesseleite/GridLayout.spoon)
+6. 🔒 Closed issue [#123](https://github.com/TechDufus/dotfiles/issues/123) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+7. 🔒 Closed issue [#123](https://github.com/TechDufus/dotfiles/issues/123) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+8. 🔒 Closed issue [#122](https://github.com/TechDufus/dotfiles/issues/122) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+9. 🎉 Merged PR [#121](https://github.com/TechDufus/dotfiles/pull/121) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+10. 🗣 Commented on [#6](https://github.com/jesseleite/GridLayout.spoon/issues/6#issuecomment-2405123534) in [jesseleite/GridLayout.spoon](https://github.com/jesseleite/GridLayout.spoon)
 <!--END_SECTION:activity-->
   </p>
 </details>
