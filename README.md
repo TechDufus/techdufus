@@ -36,15 +36,15 @@
     <p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#126](https://github.com/TechDufus/dotfiles/pull/126) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-2. 💪 Opened PR [#1](https://github.com/TechDufus/webflyx/pull/1) in [TechDufus/webflyx](https://github.com/TechDufus/webflyx)
-3. 🔒 Closed issue [#124](https://github.com/TechDufus/dotfiles/issues/124) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-4. 🎉 Merged PR [#125](https://github.com/TechDufus/dotfiles/pull/125) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-5. 🗣 Commented on [#17](https://github.com/neuvector/scan-action/issues/17#issuecomment-2455019092) in [neuvector/scan-action](https://github.com/neuvector/scan-action)
-6. 🔒 Closed issue [#17](https://github.com/neuvector/scan-action/issues/17) in [neuvector/scan-action](https://github.com/neuvector/scan-action)
-7. ❗ Opened issue [#17](https://github.com/neuvector/scan-action/issues/17) in [neuvector/scan-action](https://github.com/neuvector/scan-action)
-8. 🗣 Commented on [#3](https://github.com/jesseleite/GridLayout.spoon/issues/3#issuecomment-2435635823) in [jesseleite/GridLayout.spoon](https://github.com/jesseleite/GridLayout.spoon)
-9. 🗣 Commented on [#4](https://github.com/jesseleite/GridLayout.spoon/issues/4#issuecomment-2433056131) in [jesseleite/GridLayout.spoon](https://github.com/jesseleite/GridLayout.spoon)
+1. 🎉 Merged PR [#64](https://github.com/TehcCringe/TehcCringe/pull/64) in [TehcCringe/TehcCringe](https://github.com/TehcCringe/TehcCringe)
+2. 💪 Opened PR [#64](https://github.com/TehcCringe/TehcCringe/pull/64) in [TehcCringe/TehcCringe](https://github.com/TehcCringe/TehcCringe)
+3. 🎉 Merged PR [#126](https://github.com/TechDufus/dotfiles/pull/126) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+4. 💪 Opened PR [#1](https://github.com/TechDufus/webflyx/pull/1) in [TechDufus/webflyx](https://github.com/TechDufus/webflyx)
+5. 🔒 Closed issue [#124](https://github.com/TechDufus/dotfiles/issues/124) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+6. 🎉 Merged PR [#125](https://github.com/TechDufus/dotfiles/pull/125) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+7. 🗣 Commented on [#17](https://github.com/neuvector/scan-action/issues/17#issuecomment-2455019092) in [neuvector/scan-action](https://github.com/neuvector/scan-action)
+8. 🔒 Closed issue [#17](https://github.com/neuvector/scan-action/issues/17) in [neuvector/scan-action](https://github.com/neuvector/scan-action)
+9. ❗ Opened issue [#17](https://github.com/neuvector/scan-action/issues/17) in [neuvector/scan-action](https://github.com/neuvector/scan-action)
 10. 🗣 Commented on [#6](https://github.com/jesseleite/GridLayout.spoon/issues/6#issuecomment-2416861453) in [jesseleite/GridLayout.spoon](https://github.com/jesseleite/GridLayout.spoon)
 <!--END_SECTION:activity-->
   </p>
