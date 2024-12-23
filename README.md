@@ -36,12 +36,12 @@
     <p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#64](https://github.com/TehcCringe/TehcCringe/pull/64) in [TehcCringe/TehcCringe](https://github.com/TehcCringe/TehcCringe)
-2. 💪 Opened PR [#64](https://github.com/TehcCringe/TehcCringe/pull/64) in [TehcCringe/TehcCringe](https://github.com/TehcCringe/TehcCringe)
-3. 🎉 Merged PR [#126](https://github.com/TechDufus/dotfiles/pull/126) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-4. 💪 Opened PR [#1](https://github.com/TechDufus/webflyx/pull/1) in [TechDufus/webflyx](https://github.com/TechDufus/webflyx)
-5. 🔒 Closed issue [#124](https://github.com/TechDufus/dotfiles/issues/124) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-6. 🎉 Merged PR [#125](https://github.com/TechDufus/dotfiles/pull/125) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+1. 🗣 Commented on [#189](https://github.com/1Password/terraform-provider-onepassword/issues/189#issuecomment-2559929737) in [1Password/terraform-provider-onepassword](https://github.com/1Password/terraform-provider-onepassword)
+2. 🎉 Merged PR [#64](https://github.com/TehcCringe/TehcCringe/pull/64) in [TehcCringe/TehcCringe](https://github.com/TehcCringe/TehcCringe)
+3. 💪 Opened PR [#64](https://github.com/TehcCringe/TehcCringe/pull/64) in [TehcCringe/TehcCringe](https://github.com/TehcCringe/TehcCringe)
+4. 🎉 Merged PR [#126](https://github.com/TechDufus/dotfiles/pull/126) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+5. 💪 Opened PR [#1](https://github.com/TechDufus/webflyx/pull/1) in [TechDufus/webflyx](https://github.com/TechDufus/webflyx)
+6. 🔒 Closed issue [#124](https://github.com/TechDufus/dotfiles/issues/124) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
 7. 🗣 Commented on [#17](https://github.com/neuvector/scan-action/issues/17#issuecomment-2455019092) in [neuvector/scan-action](https://github.com/neuvector/scan-action)
 8. 🔒 Closed issue [#17](https://github.com/neuvector/scan-action/issues/17) in [neuvector/scan-action](https://github.com/neuvector/scan-action)
 9. ❗ Opened issue [#17](https://github.com/neuvector/scan-action/issues/17) in [neuvector/scan-action](https://github.com/neuvector/scan-action)
