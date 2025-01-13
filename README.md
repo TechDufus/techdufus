@@ -36,13 +36,13 @@
     <p>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#19](https://github.com/neuvector/scan-action/issues/19) in [neuvector/scan-action](https://github.com/neuvector/scan-action)
-2. 🗣 Commented on [#189](https://github.com/1Password/terraform-provider-onepassword/issues/189#issuecomment-2559929737) in [1Password/terraform-provider-onepassword](https://github.com/1Password/terraform-provider-onepassword)
-3. 🎉 Merged PR [#64](https://github.com/TehcCringe/TehcCringe/pull/64) in [TehcCringe/TehcCringe](https://github.com/TehcCringe/TehcCringe)
-4. 💪 Opened PR [#64](https://github.com/TehcCringe/TehcCringe/pull/64) in [TehcCringe/TehcCringe](https://github.com/TehcCringe/TehcCringe)
-5. 🎉 Merged PR [#126](https://github.com/TechDufus/dotfiles/pull/126) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-6. 💪 Opened PR [#1](https://github.com/TechDufus/webflyx/pull/1) in [TechDufus/webflyx](https://github.com/TechDufus/webflyx)
-7. 🗣 Commented on [#17](https://github.com/neuvector/scan-action/issues/17#issuecomment-2455019092) in [neuvector/scan-action](https://github.com/neuvector/scan-action)
+1. 🗣 Commented on [#3521](https://github.com/ghostty-org/ghostty/issues/3521#issuecomment-2587374166) in [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty)
+2. ❗ Opened issue [#19](https://github.com/neuvector/scan-action/issues/19) in [neuvector/scan-action](https://github.com/neuvector/scan-action)
+3. 🗣 Commented on [#189](https://github.com/1Password/terraform-provider-onepassword/issues/189#issuecomment-2559929737) in [1Password/terraform-provider-onepassword](https://github.com/1Password/terraform-provider-onepassword)
+4. 🎉 Merged PR [#64](https://github.com/TehcCringe/TehcCringe/pull/64) in [TehcCringe/TehcCringe](https://github.com/TehcCringe/TehcCringe)
+5. 💪 Opened PR [#64](https://github.com/TehcCringe/TehcCringe/pull/64) in [TehcCringe/TehcCringe](https://github.com/TehcCringe/TehcCringe)
+6. 🎉 Merged PR [#126](https://github.com/TechDufus/dotfiles/pull/126) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+7. 💪 Opened PR [#1](https://github.com/TechDufus/webflyx/pull/1) in [TechDufus/webflyx](https://github.com/TechDufus/webflyx)
 8. 🔒 Closed issue [#17](https://github.com/neuvector/scan-action/issues/17) in [neuvector/scan-action](https://github.com/neuvector/scan-action)
 9. ❗ Opened issue [#17](https://github.com/neuvector/scan-action/issues/17) in [neuvector/scan-action](https://github.com/neuvector/scan-action)
 10. 🗣 Commented on [#6](https://github.com/jesseleite/GridLayout.spoon/issues/6#issuecomment-2416861453) in [jesseleite/GridLayout.spoon](https://github.com/jesseleite/GridLayout.spoon)
