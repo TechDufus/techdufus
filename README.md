@@ -36,7 +36,7 @@
     <p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3521](https://github.com/ghostty-org/ghostty/issues/3521#issuecomment-2587374166) in [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty)
+1. 🚀 Published release [v1.0.0](https://github.com/TechDufus/test-tagging/releases/tag/v1.0.0) in [TechDufus/test-tagging](https://github.com/TechDufus/test-tagging)
 2. ❗ Opened issue [#19](https://github.com/neuvector/scan-action/issues/19) in [neuvector/scan-action](https://github.com/neuvector/scan-action)
 3. 🗣 Commented on [#189](https://github.com/1Password/terraform-provider-onepassword/issues/189#issuecomment-2559929737) in [1Password/terraform-provider-onepassword](https://github.com/1Password/terraform-provider-onepassword)
 4. 🎉 Merged PR [#64](https://github.com/TehcCringe/TehcCringe/pull/64) in [TehcCringe/TehcCringe](https://github.com/TehcCringe/TehcCringe)
