@@ -1,8 +1,8 @@
 name: 🤳 PSGallery Downloads Badge Update
-#Run every hour.
+# Run daily at midnight
 on:
   schedule:
-  - cron: '0 * * * *'
+  - cron: '0 0 * * *'
   workflow_dispatch:
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
@@ -16,11 +16,11 @@ jobs:
     steps:
     # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
     - uses: actions/checkout@v2
-      env: 
+      env:
         GH_USER: ${{ secrets.GH_USER }}
         GH_EMAIL: ${{ secrets.GH_EMAIL }}
 
     - name: Get current PSGallery downloads
       shell: pwsh
       run: ./.github/scripts/Update-ProfilePSGalleryBadgeDownloads.ps1
-      
+
