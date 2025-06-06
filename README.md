@@ -4,10 +4,16 @@
     </a>
   </p>
 
-<h3 align="center"> I'm a nerd, and I love all things Tech!</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=28&duration=1500&pause=600&color=00D4AA&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=120&lines=Hey+there!+I'm+Dufus!+%F0%9F%91%8B;DevSecOps+Engineer+%7C+CISSP;DNS+is+always+the+culprit+%F0%9F%94%8D;I+use+Neovim%E1%B5%87%E1%B5%97%CA%B7+%F0%9F%9A%80" alt="Typing SVG" />
+</h1>
+
+<h3 align="center">🛡️ Building secure, scalable infrastructure | 🎥 Streaming tech on Twitch | 🌱 Always learning</h3>
 <p align="center">
   <a href="https://www.powershellgallery.com/profiles/matthewjdegarmo"><img align="center" src="https://img.shields.io/badge/Total%20PSGallery%20Downloads-~53,261-green"/></a>
   <a href="https://discord.gg/5M4hjfyRBj"><img align="center" src="https://img.shields.io/discord/905178979844116520.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2"/></a>
+  <img align="center" src="https://img.shields.io/badge/CISSP-Certified-blue?style=flat&logo=isc2&logoColor=white"/>
+  <img align="center" src="https://img.shields.io/badge/CompTIA-Security%2B-red?style=flat&logo=comptia&logoColor=white"/>
 </p>
 <p align="center">
   <a href="https://www.twitch.tv/TechDufus/about/"><img align="center" height="40" src="https://img.icons8.com/color/144/000000/twitch.png"/></a>
@@ -24,11 +30,36 @@
 </p>
 
 
-#### What am I up to?
-- 🎥 I Live-Stream Tech and Open Source projects that I work on over at [Twitch](https://www.twitch.tv/TechDufus/about/)!
-- 🔭 Currently a Sr. DevSecOps Engineer with [Raft](https://teamraft.com/).
-- ⌨️ CEO of [Neovimᵇᵗʷ](https://neovimbtw.com)
-- 🌱 Continuing to learn more about [PowerShell](https://github.com/powershell/powershell), [Terraform](https://www.terraform.io/), [Git](https://git-scm.com/), [NeoVim](https://neovim.io/), [GoLang](https://go.dev/), [GitHub](https://github.com), [Kubernetes](https://kubernetes.io/), [Helm](https://helm.sh/), [Ansible](https://ansible.com), and anything that will help me contribute to the community.
+## 🚀 What I'm Building
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎯 Current Focus
+- 🛡️ **DevSecOps Engineering** at [Raft](https://teamraft.com/)
+- 🎥 **Live Streaming** tech content on [Twitch](https://www.twitch.tv/TechDufus/about/)
+- ⌨️ **CEO** of [Neovimᵇᵗʷ](https://neovimbtw.com) (because vim > emacs)
+- 📝 **Technical Writing** and knowledge sharing
+
+</td>
+<td width="50%">
+
+### 🛠️ Tech Arsenal
+```yaml
+Cloud: [Kubernetes, Docker, Helm]
+IaC: [Terraform, Ansible]
+Languages: [Go, PowerShell, Python]
+Security: [CISSP, Security+, DevSecOps]
+Obsessions: [Neovim, Terminal, Automation]
+```
+
+</td>
+</tr>
+</table>
+
+### 🌱 Always Learning
+Currently diving deeper into: **GoLang** | **Cloud Architecture** | **Infrastructure as Code** | **Kubernetes Security** | **Open Source Contribution**
 ---
 
 <details>
