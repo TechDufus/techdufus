@@ -86,6 +86,8 @@ Currently diving deeper into: **GoLang** | **Cloud Architecture** | **Infrastruc
     <p>
 
  <!-- BLOG-POST-LIST:START -->
+- [Working with Private Container Registries: Nexus and Kubernetes](https://TechDufus.com/tech/2025/06/06/working-with-private-container-registries-nexus-and-kubernetes.html)
+- [Troubleshooting RKE2 Kubernetes Master Node Failures in Production](https://TechDufus.com/tech/2025/06/06/troubleshooting-rke2-kubernetes-master-node-failures-in-production.html)
 - [I Make Excuses - Eating Well](https://TechDufus.com/personal/2023/09/13/i-make-excuses.html)
 - [Introduction to GoLang Structs](https://TechDufus.com/go/2022/12/07/intrnduction-to-go-structs.html)
 - [What is GoLang?](https://TechDufus.com/go/2022/12/06/what-is-golang.html)
@@ -94,8 +96,6 @@ Currently diving deeper into: **GoLang** | **Cloud Architecture** | **Infrastruc
 - [Playing With Dates in PowerShell](https://TechDufus.com/powershell/2021/12/01/playing-with-dates-in-powershell.html)
 - [Introducing the BlogQueue GitHub Action](https://TechDufus.com/powershell/2021/11/23/introducing-the-blogqueue-github-action.html)
 - [Remove Overlapping IP Address Ranges from a List of CIDR IP Addresses](https://TechDufus.com/powershell/2021/06/14/remove-overlapping-ip-ranges-from-list-of-cidr-addresses.html)
-- [Testing Terraform IaC with Pester - Unit Tests](https://TechDufus.com/powershell/2021/05/31/testing-teraform-iac-with-pester-unit-tests.html)
-- [How to Import a Locally Defined Function into a Remote PowerShell Session](https://TechDufus.com/powershell/2021/03/31/how-to-import-a-locally-defined-function-into-a-remote-powershell-session.html)
 <!-- BLOG-POST-LIST:END -->
   </p>
 </details>
