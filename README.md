@@ -5,7 +5,7 @@
   </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=28&duration=1500&pause=600&color=00D4AA&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=120&lines=Hey+there!+I'm+Dufus!+%F0%9F%91%8B;DevSecOps+Engineer+%7C+CISSP;DNS+is+always+the+culprit+%F0%9F%94%8D;I+use+Neovim%E1%B5%87%E1%B5%97%CA%B7+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=28&duration=1500&pause=600&color=00D4AA&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=140&lines=Hey+there!+I'm+Dufus!+%F0%9F%91%8B;DevSecOps+Engineer+%7C+CISSP;DNS+is+always+the+culprit+%F0%9F%94%8D;I+use+Neovim%E1%B5%87%E1%B5%97%CA%B7+%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">🛡️ Building secure, scalable infrastructure | 🎥 Streaming tech on Twitch | 🌱 Always learning</h3>
