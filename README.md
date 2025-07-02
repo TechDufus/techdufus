@@ -67,16 +67,16 @@ Currently diving deeper into: **GoLang** | **Cloud Architecture** | **Infrastruc
     <p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#21](https://github.com/TechDufus/techdufus.github.io/pull/21) in [TechDufus/techdufus.github.io](https://github.com/TechDufus/techdufus.github.io)
-2. 💪 Opened PR [#21](https://github.com/TechDufus/techdufus.github.io/pull/21) in [TechDufus/techdufus.github.io](https://github.com/TechDufus/techdufus.github.io)
-3. 🗣 Commented on [#25](https://github.com/TechDufus/dotfiles/issues/25#issuecomment-2957476739) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-4. 🔒 Closed issue [#25](https://github.com/TechDufus/dotfiles/issues/25) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-5. 🗣 Commented on [#127](https://github.com/TechDufus/dotfiles/issues/127#issuecomment-2957474027) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-6. 💪 Opened PR [#128](https://github.com/TechDufus/dotfiles/pull/128) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-7. 🗣 Commented on [#127](https://github.com/TechDufus/dotfiles/issues/127#issuecomment-2957084131) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-8. 🎉 Merged PR [#17](https://github.com/TechDufus/techdufus.github.io/pull/17) in [TechDufus/techdufus.github.io](https://github.com/TechDufus/techdufus.github.io)
-9. 💪 Opened PR [#17](https://github.com/TechDufus/techdufus.github.io/pull/17) in [TechDufus/techdufus.github.io](https://github.com/TechDufus/techdufus.github.io)
-10. 🎉 Merged PR [#2](https://github.com/TechDufus/techdufus/pull/2) in [TechDufus/techdufus](https://github.com/TechDufus/techdufus)
+1. 🎉 Merged PR [#7](https://github.com/TechDufus/home.io/pull/7) in [TechDufus/home.io](https://github.com/TechDufus/home.io)
+2. 💪 Opened PR [#7](https://github.com/TechDufus/home.io/pull/7) in [TechDufus/home.io](https://github.com/TechDufus/home.io)
+3. 🎉 Merged PR [#21](https://github.com/TechDufus/techdufus.github.io/pull/21) in [TechDufus/techdufus.github.io](https://github.com/TechDufus/techdufus.github.io)
+4. 💪 Opened PR [#21](https://github.com/TechDufus/techdufus.github.io/pull/21) in [TechDufus/techdufus.github.io](https://github.com/TechDufus/techdufus.github.io)
+5. 🗣 Commented on [#25](https://github.com/TechDufus/dotfiles/issues/25#issuecomment-2957476739) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+6. 🔒 Closed issue [#25](https://github.com/TechDufus/dotfiles/issues/25) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+7. 🗣 Commented on [#127](https://github.com/TechDufus/dotfiles/issues/127#issuecomment-2957474027) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+8. 💪 Opened PR [#128](https://github.com/TechDufus/dotfiles/pull/128) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+9. 🗣 Commented on [#127](https://github.com/TechDufus/dotfiles/issues/127#issuecomment-2957084131) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+10. 🎉 Merged PR [#17](https://github.com/TechDufus/techdufus.github.io/pull/17) in [TechDufus/techdufus.github.io](https://github.com/TechDufus/techdufus.github.io)
 <!--END_SECTION:activity-->
   </p>
 </details>
