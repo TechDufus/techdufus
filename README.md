@@ -86,6 +86,7 @@ Currently diving deeper into: **GoLang** | **Cloud Architecture** | **Infrastruc
     <p>
 
  <!-- BLOG-POST-LIST:START -->
+- [Building a Talos Kubernetes Homelab with Terraform on Proxmox](https://TechDufus.com/tech/2025/06/30/building-a-talos-kubernetes-homelab-on-proxmox-with-terraform.html)
 - [Working with Private Container Registries: Nexus and Kubernetes](https://TechDufus.com/tech/2025/06/06/working-with-private-container-registries-nexus-and-kubernetes.html)
 - [Troubleshooting RKE2 Kubernetes Master Node Failures in Production](https://TechDufus.com/tech/2025/06/06/troubleshooting-rke2-kubernetes-master-node-failures-in-production.html)
 - [I Make Excuses - Eating Well](https://TechDufus.com/personal/2023/09/13/i-make-excuses.html)
@@ -95,7 +96,6 @@ Currently diving deeper into: **GoLang** | **Cloud Architecture** | **Infrastruc
 - [Using $PSStyle to Spice up your Output](https://TechDufus.com/tech/2022/04/22/using-psstyle-to-spice-up-your-output.html)
 - [Playing With Dates in PowerShell](https://TechDufus.com/tech/2021/12/01/playing-with-dates-in-powershell.html)
 - [Introducing the BlogQueue GitHub Action](https://TechDufus.com/tech/2021/11/23/introducing-the-blogqueue-github-action.html)
-- [Remove Overlapping IP Address Ranges from a List of CIDR IP Addresses](https://TechDufus.com/powershell/2021/06/14/remove-overlapping-ip-ranges-from-list-of-cidr-addresses.html)
 <!-- BLOG-POST-LIST:END -->
   </p>
 </details>
