@@ -67,16 +67,16 @@ Currently diving deeper into: **GoLang** | **Cloud Architecture** | **Infrastruc
     <p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/jesseleite/GridLayout.spoon/issues/1#issuecomment-3062630036) in [jesseleite/GridLayout.spoon](https://github.com/jesseleite/GridLayout.spoon)
-2. 🎉 Merged PR [#138](https://github.com/TechDufus/dotfiles/pull/138) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-3. 💪 Opened PR [#138](https://github.com/TechDufus/dotfiles/pull/138) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-4. 🎉 Merged PR [#137](https://github.com/TechDufus/dotfiles/pull/137) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-5. 💪 Opened PR [#137](https://github.com/TechDufus/dotfiles/pull/137) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-6. 💪 Opened PR [#133](https://github.com/TechDufus/dotfiles/pull/133) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-7. 🔒 Closed issue [#129](https://github.com/TechDufus/dotfiles/issues/129) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-8. 🔒 Closed issue [#127](https://github.com/TechDufus/dotfiles/issues/127) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-9. 🎉 Merged PR [#128](https://github.com/TechDufus/dotfiles/pull/128) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-10. 🔒 Closed issue [#131](https://github.com/TechDufus/dotfiles/issues/131) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+1. 💪 Opened PR [#139](https://github.com/TechDufus/dotfiles/pull/139) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+2. 🗣 Commented on [#1](https://github.com/jesseleite/GridLayout.spoon/issues/1#issuecomment-3062630036) in [jesseleite/GridLayout.spoon](https://github.com/jesseleite/GridLayout.spoon)
+3. 🎉 Merged PR [#138](https://github.com/TechDufus/dotfiles/pull/138) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+4. 💪 Opened PR [#138](https://github.com/TechDufus/dotfiles/pull/138) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+5. 🎉 Merged PR [#137](https://github.com/TechDufus/dotfiles/pull/137) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+6. 💪 Opened PR [#137](https://github.com/TechDufus/dotfiles/pull/137) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+7. 💪 Opened PR [#133](https://github.com/TechDufus/dotfiles/pull/133) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+8. 🔒 Closed issue [#129](https://github.com/TechDufus/dotfiles/issues/129) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+9. 🔒 Closed issue [#127](https://github.com/TechDufus/dotfiles/issues/127) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+10. 🎉 Merged PR [#128](https://github.com/TechDufus/dotfiles/pull/128) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
 <!--END_SECTION:activity-->
   </p>
 </details>
