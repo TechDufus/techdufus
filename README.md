@@ -10,7 +10,7 @@
 
 <h3 align="center">🛡️ Building secure, scalable infrastructure | 🎥 Streaming tech on Twitch | 🌱 Always learning</h3>
 <p align="center">
-  <a href="https://www.powershellgallery.com/profiles/matthewjdegarmo"><img align="center" src="https://img.shields.io/badge/Total%20PSGallery%20Downloads-~53,275-green"/></a>
+  <a href="https://www.powershellgallery.com/profiles/matthewjdegarmo"><img align="center" src="https://img.shields.io/badge/Total%20PSGallery%20Downloads-~53,276-green"/></a>
   <a href="https://discord.gg/5M4hjfyRBj"><img align="center" src="https://img.shields.io/discord/905178979844116520.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2"/></a>
   <img align="center" src="https://img.shields.io/badge/CISSP-Certified-blue?style=flat&logo=isc2&logoColor=white"/>
   <img align="center" src="https://img.shields.io/badge/CompTIA-Security%2B-red?style=flat&logo=comptia&logoColor=white"/>
