@@ -67,7 +67,7 @@ Currently diving deeper into: **GoLang** | **Cloud Architecture** | **Infrastruc
     <p>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#317](https://github.com/github/spec-kit/issues/317) in [github/spec-kit](https://github.com/github/spec-kit)
+1. 💪 Opened PR [#140](undefined) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
 2. 💪 Opened PR [#8](https://github.com/TechDufus/home.io/pull/8) in [TechDufus/home.io](https://github.com/TechDufus/home.io)
 3. 🔒 Closed issue [#108](https://github.com/TechDufus/dotfiles/issues/108) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
 4. 🎉 Merged PR [#139](https://github.com/TechDufus/dotfiles/pull/139) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
