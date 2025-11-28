@@ -67,16 +67,16 @@ Currently diving deeper into: **GoLang** | **Cloud Architecture** | **Infrastruc
     <p>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#6](undefined) in [TechDufus/home.io](https://github.com/TechDufus/home.io)
-2. 🗣 Commented on [#6](https://github.com/TechDufus/home.io/pull/6#issuecomment-3563351585) in [TechDufus/home.io](https://github.com/TechDufus/home.io)
-3. ❌ Closed PR [#8](undefined) in [TechDufus/home.io](https://github.com/TechDufus/home.io)
-4. 🗣 Commented on [#8](https://github.com/TechDufus/home.io/pull/8#issuecomment-3563351466) in [TechDufus/home.io](https://github.com/TechDufus/home.io)
-5. 🔒 Closed issue [#10](https://github.com/TechDufus/home.io/issues/10) in [TechDufus/home.io](https://github.com/TechDufus/home.io)
-6. 💪 Opened PR [#11](undefined) in [TechDufus/home.io](https://github.com/TechDufus/home.io)
-7.  Assigned issue [#10](https://github.com/TechDufus/home.io/issues/10) in [TechDufus/home.io](https://github.com/TechDufus/home.io)
-8.  Labeled issue [#10](https://github.com/TechDufus/home.io/issues/10) in [TechDufus/home.io](https://github.com/TechDufus/home.io)
-9. ❗ Opened issue [#10](https://github.com/TechDufus/home.io/issues/10) in [TechDufus/home.io](https://github.com/TechDufus/home.io)
-10. 🎉 Merged PR [#137](https://github.com/TechDufus/dotfiles/pull/137) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+1. 💪 Opened PR [#141](undefined) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+2. ❌ Closed PR [#6](undefined) in [TechDufus/home.io](https://github.com/TechDufus/home.io)
+3. 🗣 Commented on [#6](https://github.com/TechDufus/home.io/pull/6#issuecomment-3563351585) in [TechDufus/home.io](https://github.com/TechDufus/home.io)
+4. ❌ Closed PR [#8](undefined) in [TechDufus/home.io](https://github.com/TechDufus/home.io)
+5. 🗣 Commented on [#8](https://github.com/TechDufus/home.io/pull/8#issuecomment-3563351466) in [TechDufus/home.io](https://github.com/TechDufus/home.io)
+6. 🔒 Closed issue [#10](https://github.com/TechDufus/home.io/issues/10) in [TechDufus/home.io](https://github.com/TechDufus/home.io)
+7. 💪 Opened PR [#11](undefined) in [TechDufus/home.io](https://github.com/TechDufus/home.io)
+8.  Assigned issue [#10](https://github.com/TechDufus/home.io/issues/10) in [TechDufus/home.io](https://github.com/TechDufus/home.io)
+9.  Labeled issue [#10](https://github.com/TechDufus/home.io/issues/10) in [TechDufus/home.io](https://github.com/TechDufus/home.io)
+10. ❗ Opened issue [#10](https://github.com/TechDufus/home.io/issues/10) in [TechDufus/home.io](https://github.com/TechDufus/home.io)
 <!--END_SECTION:activity-->
   </p>
 </details>
