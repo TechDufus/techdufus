@@ -67,13 +67,13 @@ Currently diving deeper into: **GoLang** | **Cloud Architecture** | **Infrastruc
     <p>
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#142](undefined) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-2. 💪 Opened PR [#142](undefined) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-3. ❌ Merged PR [#141](undefined) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-4. 💪 Opened PR [#141](undefined) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-5. ❌ Closed PR [#6](undefined) in [TechDufus/home.io](https://github.com/TechDufus/home.io)
-6. 🗣 Commented on [#6](https://github.com/TechDufus/home.io/pull/6#issuecomment-3563351585) in [TechDufus/home.io](https://github.com/TechDufus/home.io)
-7. ❌ Closed PR [#8](undefined) in [TechDufus/home.io](https://github.com/TechDufus/home.io)
+1. 💪 Opened PR [#143](undefined) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+2. ❌ Merged PR [#142](undefined) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+3. 💪 Opened PR [#142](undefined) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+4. ❌ Merged PR [#141](undefined) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+5. 💪 Opened PR [#141](undefined) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+6. ❌ Closed PR [#6](undefined) in [TechDufus/home.io](https://github.com/TechDufus/home.io)
+7. 🗣 Commented on [#6](https://github.com/TechDufus/home.io/pull/6#issuecomment-3563351585) in [TechDufus/home.io](https://github.com/TechDufus/home.io)
 8. 🗣 Commented on [#8](https://github.com/TechDufus/home.io/pull/8#issuecomment-3563351466) in [TechDufus/home.io](https://github.com/TechDufus/home.io)
 9. 🔒 Closed issue [#10](https://github.com/TechDufus/home.io/issues/10) in [TechDufus/home.io](https://github.com/TechDufus/home.io)
 10. ❌ Merged PR [#11](undefined) in [TechDufus/home.io](https://github.com/TechDufus/home.io)
