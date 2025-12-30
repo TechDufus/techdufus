@@ -67,11 +67,11 @@ Currently diving deeper into: **GoLang** | **Cloud Architecture** | **Infrastruc
     <p>
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#112](undefined) in [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)
-2. 💪 Opened PR [#112](undefined) in [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)
-3. 💪 Opened PR [#143](undefined) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-4. ❌ Merged PR [#142](undefined) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-5. 💪 Opened PR [#142](undefined) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+1. ❌ Merged PR [#63](undefined) in [TechDufus/openkanban](https://github.com/TechDufus/openkanban)
+2. 💪 Opened PR [#63](undefined) in [TechDufus/openkanban](https://github.com/TechDufus/openkanban)
+3. ❌ Merged PR [#112](undefined) in [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)
+4. 💪 Opened PR [#112](undefined) in [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)
+5. 💪 Opened PR [#143](undefined) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
 6. ❌ Merged PR [#141](undefined) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
 7. 💪 Opened PR [#141](undefined) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
 8. 🗣 Commented on [#8](https://github.com/TechDufus/home.io/pull/8#issuecomment-3563351466) in [TechDufus/home.io](https://github.com/TechDufus/home.io)
