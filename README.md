@@ -67,15 +67,15 @@ Currently diving deeper into: **GoLang** | **Cloud Architecture** | **Infrastruc
     <p>
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#63](undefined) in [TechDufus/openkanban](https://github.com/TechDufus/openkanban)
-2. 💪 Opened PR [#63](undefined) in [TechDufus/openkanban](https://github.com/TechDufus/openkanban)
-3. ❌ Merged PR [#112](undefined) in [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)
-4. 💪 Opened PR [#112](undefined) in [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)
-5. 💪 Opened PR [#143](undefined) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-6. ❌ Merged PR [#141](undefined) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-7. 💪 Opened PR [#141](undefined) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-8. 🗣 Commented on [#8](https://github.com/TechDufus/home.io/pull/8#issuecomment-3563351466) in [TechDufus/home.io](https://github.com/TechDufus/home.io)
-9. 🔒 Closed issue [#10](https://github.com/TechDufus/home.io/issues/10) in [TechDufus/home.io](https://github.com/TechDufus/home.io)
+1. ❌ Merged PR [#65](undefined) in [TechDufus/openkanban](https://github.com/TechDufus/openkanban)
+2. 💪 Opened PR [#65](undefined) in [TechDufus/openkanban](https://github.com/TechDufus/openkanban)
+3. ❌ Merged PR [#64](undefined) in [TechDufus/openkanban](https://github.com/TechDufus/openkanban)
+4. 💪 Opened PR [#64](undefined) in [TechDufus/openkanban](https://github.com/TechDufus/openkanban)
+5. ❌ Merged PR [#63](undefined) in [TechDufus/openkanban](https://github.com/TechDufus/openkanban)
+6. 💪 Opened PR [#63](undefined) in [TechDufus/openkanban](https://github.com/TechDufus/openkanban)
+7. ❌ Merged PR [#112](undefined) in [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)
+8. 💪 Opened PR [#112](undefined) in [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)
+9. 💪 Opened PR [#143](undefined) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
 10. ❌ Merged PR [#11](undefined) in [TechDufus/home.io](https://github.com/TechDufus/home.io)
 <!--END_SECTION:activity-->
   </p>
