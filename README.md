@@ -67,16 +67,16 @@ Currently diving deeper into: **GoLang** | **Cloud Architecture** | **Infrastruc
     <p>
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#65](undefined) in [TechDufus/openkanban](https://github.com/TechDufus/openkanban)
-2. 💪 Opened PR [#65](undefined) in [TechDufus/openkanban](https://github.com/TechDufus/openkanban)
-3. ❌ Merged PR [#64](undefined) in [TechDufus/openkanban](https://github.com/TechDufus/openkanban)
-4. 💪 Opened PR [#64](undefined) in [TechDufus/openkanban](https://github.com/TechDufus/openkanban)
-5. ❌ Merged PR [#63](undefined) in [TechDufus/openkanban](https://github.com/TechDufus/openkanban)
-6. 💪 Opened PR [#63](undefined) in [TechDufus/openkanban](https://github.com/TechDufus/openkanban)
-7. ❌ Merged PR [#112](undefined) in [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)
-8. 💪 Opened PR [#112](undefined) in [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)
-9. 💪 Opened PR [#143](undefined) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-10. ❌ Merged PR [#11](undefined) in [TechDufus/home.io](https://github.com/TechDufus/home.io)
+1. ❌ Closed PR [#60](undefined) in [TechDufus/openkanban](https://github.com/TechDufus/openkanban)
+2. 🗣 Commented on [#60](https://github.com/TechDufus/openkanban/pull/60#issuecomment-3702307454) in [TechDufus/openkanban](https://github.com/TechDufus/openkanban)
+3. ❌ Merged PR [#66](undefined) in [TechDufus/openkanban](https://github.com/TechDufus/openkanban)
+4. 💪 Opened PR [#66](undefined) in [TechDufus/openkanban](https://github.com/TechDufus/openkanban)
+5. ❌ Merged PR [#65](undefined) in [TechDufus/openkanban](https://github.com/TechDufus/openkanban)
+6. 💪 Opened PR [#65](undefined) in [TechDufus/openkanban](https://github.com/TechDufus/openkanban)
+7. ❌ Merged PR [#64](undefined) in [TechDufus/openkanban](https://github.com/TechDufus/openkanban)
+8. 💪 Opened PR [#64](undefined) in [TechDufus/openkanban](https://github.com/TechDufus/openkanban)
+9. ❌ Merged PR [#63](undefined) in [TechDufus/openkanban](https://github.com/TechDufus/openkanban)
+10. 💪 Opened PR [#63](undefined) in [TechDufus/openkanban](https://github.com/TechDufus/openkanban)
 <!--END_SECTION:activity-->
   </p>
 </details>
