@@ -67,16 +67,16 @@ Currently diving deeper into: **GoLang** | **Cloud Architecture** | **Infrastruc
     <p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#87](https://github.com/TechDufus/openkanban/pull/87) in [TechDufus/openkanban](https://github.com/TechDufus/openkanban)
-2. 🎉 Merged PR [#86](https://github.com/TechDufus/openkanban/pull/86) in [TechDufus/openkanban](https://github.com/TechDufus/openkanban)
-3. 💪 Opened PR [#87](https://github.com/TechDufus/openkanban/pull/87) in [TechDufus/openkanban](https://github.com/TechDufus/openkanban)
-4. 💪 Opened PR [#86](https://github.com/TechDufus/openkanban/pull/86) in [TechDufus/openkanban](https://github.com/TechDufus/openkanban)
-5. 🎉 Merged PR [#85](https://github.com/TechDufus/openkanban/pull/85) in [TechDufus/openkanban](https://github.com/TechDufus/openkanban)
-6. 💪 Opened PR [#85](https://github.com/TechDufus/openkanban/pull/85) in [TechDufus/openkanban](https://github.com/TechDufus/openkanban)
-7. 🎉 Merged PR [#84](https://github.com/TechDufus/openkanban/pull/84) in [TechDufus/openkanban](https://github.com/TechDufus/openkanban)
-8. 💪 Opened PR [#84](https://github.com/TechDufus/openkanban/pull/84) in [TechDufus/openkanban](https://github.com/TechDufus/openkanban)
-9. 🎉 Merged PR [#83](https://github.com/TechDufus/openkanban/pull/83) in [TechDufus/openkanban](https://github.com/TechDufus/openkanban)
-10. 💪 Opened PR [#83](https://github.com/TechDufus/openkanban/pull/83) in [TechDufus/openkanban](https://github.com/TechDufus/openkanban)
+1. 🎉 Merged PR [#88](https://github.com/TechDufus/openkanban/pull/88) in [TechDufus/openkanban](https://github.com/TechDufus/openkanban)
+2. 💪 Opened PR [#88](https://github.com/TechDufus/openkanban/pull/88) in [TechDufus/openkanban](https://github.com/TechDufus/openkanban)
+3. 🎉 Merged PR [#87](https://github.com/TechDufus/openkanban/pull/87) in [TechDufus/openkanban](https://github.com/TechDufus/openkanban)
+4. 🎉 Merged PR [#86](https://github.com/TechDufus/openkanban/pull/86) in [TechDufus/openkanban](https://github.com/TechDufus/openkanban)
+5. 💪 Opened PR [#87](https://github.com/TechDufus/openkanban/pull/87) in [TechDufus/openkanban](https://github.com/TechDufus/openkanban)
+6. 💪 Opened PR [#86](https://github.com/TechDufus/openkanban/pull/86) in [TechDufus/openkanban](https://github.com/TechDufus/openkanban)
+7. 🎉 Merged PR [#85](https://github.com/TechDufus/openkanban/pull/85) in [TechDufus/openkanban](https://github.com/TechDufus/openkanban)
+8. 💪 Opened PR [#85](https://github.com/TechDufus/openkanban/pull/85) in [TechDufus/openkanban](https://github.com/TechDufus/openkanban)
+9. 🎉 Merged PR [#84](https://github.com/TechDufus/openkanban/pull/84) in [TechDufus/openkanban](https://github.com/TechDufus/openkanban)
+10. 💪 Opened PR [#84](https://github.com/TechDufus/openkanban/pull/84) in [TechDufus/openkanban](https://github.com/TechDufus/openkanban)
 <!--END_SECTION:activity-->
   </p>
 </details>
