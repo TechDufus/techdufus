@@ -67,16 +67,16 @@ Currently diving deeper into: **GoLang** | **Cloud Architecture** | **Infrastruc
     <p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/TechDufus/oh-my-claude/pull/4) in [TechDufus/oh-my-claude](https://github.com/TechDufus/oh-my-claude)
-2. 💪 Opened PR [#4](https://github.com/TechDufus/oh-my-claude/pull/4) in [TechDufus/oh-my-claude](https://github.com/TechDufus/oh-my-claude)
-3. 🎉 Merged PR [#3](https://github.com/TechDufus/oh-my-claude/pull/3) in [TechDufus/oh-my-claude](https://github.com/TechDufus/oh-my-claude)
-4. 💪 Opened PR [#3](https://github.com/TechDufus/oh-my-claude/pull/3) in [TechDufus/oh-my-claude](https://github.com/TechDufus/oh-my-claude)
-5. 🎉 Merged PR [#100](https://github.com/TechDufus/openkanban/pull/100) in [TechDufus/openkanban](https://github.com/TechDufus/openkanban)
-6. ℹ️ Reopened PR [#100](https://github.com/TechDufus/openkanban/pull/100) in [TechDufus/openkanban](https://github.com/TechDufus/openkanban)
-7. ❌ Closed PR [#100](https://github.com/TechDufus/openkanban/pull/100) in [TechDufus/openkanban](https://github.com/TechDufus/openkanban)
+1. 🔒 Closed issue [#5](https://github.com/TechDufus/oh-my-claude/issues/5) in [TechDufus/oh-my-claude](https://github.com/TechDufus/oh-my-claude)
+2. 🗣 Commented on [#5](https://github.com/TechDufus/oh-my-claude/issues/5#issuecomment-3780526985) in [TechDufus/oh-my-claude](https://github.com/TechDufus/oh-my-claude)
+3. 🎉 Merged PR [#4](https://github.com/TechDufus/oh-my-claude/pull/4) in [TechDufus/oh-my-claude](https://github.com/TechDufus/oh-my-claude)
+4. 💪 Opened PR [#4](https://github.com/TechDufus/oh-my-claude/pull/4) in [TechDufus/oh-my-claude](https://github.com/TechDufus/oh-my-claude)
+5. 🎉 Merged PR [#3](https://github.com/TechDufus/oh-my-claude/pull/3) in [TechDufus/oh-my-claude](https://github.com/TechDufus/oh-my-claude)
+6. 💪 Opened PR [#3](https://github.com/TechDufus/oh-my-claude/pull/3) in [TechDufus/oh-my-claude](https://github.com/TechDufus/oh-my-claude)
+7. 🎉 Merged PR [#100](https://github.com/TechDufus/openkanban/pull/100) in [TechDufus/openkanban](https://github.com/TechDufus/openkanban)
 8. ℹ️ Reopened PR [#100](https://github.com/TechDufus/openkanban/pull/100) in [TechDufus/openkanban](https://github.com/TechDufus/openkanban)
 9. ❌ Closed PR [#100](https://github.com/TechDufus/openkanban/pull/100) in [TechDufus/openkanban](https://github.com/TechDufus/openkanban)
-10. 💪 Opened PR [#100](https://github.com/TechDufus/openkanban/pull/100) in [TechDufus/openkanban](https://github.com/TechDufus/openkanban)
+10. ℹ️ Reopened PR [#100](https://github.com/TechDufus/openkanban/pull/100) in [TechDufus/openkanban](https://github.com/TechDufus/openkanban)
 <!--END_SECTION:activity-->
   </p>
 </details>
