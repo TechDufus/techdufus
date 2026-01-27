@@ -1,69 +1,47 @@
-  <p align="center">
-    <a href="https://linktr.ee/techdufus">
-      <img align="center" src="https://github.com/TechDufus/techdufus/assets/46715299/65eb5cd9-fae0-4f63-95e2-427c0b1415ec"/>
-    </a>
-  </p>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=28&duration=1500&pause=600&color=00D4AA&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=140&lines=Hey+there!+I'm+Dufus!+%F0%9F%91%8B;DevSecOps+Engineer+%7C+CISSP;DNS+is+always+the+culprit+%F0%9F%94%8D;I+use+Neovim%E1%B5%87%E1%B5%97%CA%B7+%F0%9F%9A%80" alt="Typing SVG" />
-</h1>
-
-<h3 align="center">🛡️ Building secure, scalable infrastructure | 🎥 Streaming tech on Twitch | 🌱 Always learning</h3>
 <p align="center">
-  <a href="https://www.powershellgallery.com/profiles/matthewjdegarmo"><img align="center" src="https://img.shields.io/badge/Total%20PSGallery%20Downloads-~53,289-green"/></a>
-  <a href="https://discord.gg/5M4hjfyRBj"><img align="center" src="https://img.shields.io/discord/905178979844116520.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2"/></a>
+  <a href="https://linktr.ee/techdufus">
+    <img align="center" src="https://github.com/TechDufus/techdufus/assets/46715299/65eb5cd9-fae0-4f63-95e2-427c0b1415ec"/>
+  </a>
+</p>
+
+<h2 align="center">DevSecOps / Platform / Full Stack / Vibe Engineer</h2>
+<p align="center">Building tools for the AI-native development workflow.</p>
+
+<p align="center">
   <img align="center" src="https://img.shields.io/badge/CISSP-Certified-blue?style=flat&logo=isc2&logoColor=white"/>
   <img align="center" src="https://img.shields.io/badge/CompTIA-Security%2B-red?style=flat&logo=comptia&logoColor=white"/>
 </p>
+
 <p align="center">
-  <a href="https://www.twitch.tv/TechDufus/about/"><img align="center" height="40" src="https://img.icons8.com/color/144/000000/twitch.png"/></a>
-  <a href="https://twitter.com/techdufus"><img align="center" height="40" src="https://img.icons8.com/fluent/144/000000/twitter.png"/></a>
-  <a href="https://techdufus.com"><img align="center" height="40" src="https://img.icons8.com/nolan/64/domain.png"/></a>
-  <a href="https://www.reddit.com/user/techdufus"><img align="center" height="40" src="https://img.icons8.com/doodle/48/000000/reddit--v1.png"/></a>
-  <a href="https://techdufus.com/feed.xml"><img align="center" height="40" src="https://img.icons8.com/dusk/64/000000/rss.png"/></a>
-</p>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg">
-    <img width="600" alt="github-snake" src="./assets/github-snake.svg">
-  </picture>
+  <a href="https://x.com/techdufus"><img align="center" src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white"/></a>
+  <a href="https://techdufus.com"><img align="center" src="https://img.shields.io/badge/Blog-000000?style=flat&logo=rss&logoColor=white"/></a>
+  <a href="https://linktr.ee/techdufus"><img align="center" src="https://img.shields.io/badge/Linktree-000000?style=flat&logo=linktree&logoColor=white"/></a>
+  <a href="https://github.com/sponsors/techdufus"><img align="center" src="https://img.shields.io/badge/Sponsor-000000?style=flat&logo=githubsponsors&logoColor=white"/></a>
 </p>
 
-
-## 🚀 What I'm Building
-
-<table>
-<tr>
-<td width="50%">
-
-### 🎯 Current Focus
-- 🛡️ **DevSecOps Engineering** at [Raft](https://teamraft.com/)
-- 🎥 **Live Streaming** tech content on [Twitch](https://www.twitch.tv/TechDufus/about/)
-- ⌨️ **CEO** of [Neovimᵇᵗʷ](https://neovimbtw.com) (because vim > emacs)
-- 📝 **Technical Writing** and knowledge sharing
-
-</td>
-<td width="50%">
-
-### 🛠️ Tech Arsenal
-```yaml
-Cloud: [Kubernetes, Docker, Helm]
-IaC: [Terraform, Ansible]
-Languages: [Go, PowerShell, Python]
-Security: [CISSP, Security+, DevSecOps]
-Obsessions: [Neovim, Terminal, Automation]
-```
-
-</td>
-</tr>
-</table>
-
-### 🌱 Always Learning
-Currently diving deeper into: **GoLang** | **Cloud Architecture** | **Infrastructure as Code** | **Kubernetes Security** | **Open Source Contribution**
----
+<p align="center">
+  <a href="https://github.com/techdufus/oh-my-claude">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=techdufus&repo=oh-my-claude&theme=github_dark&cache_seconds=86400">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=techdufus&repo=oh-my-claude&theme=default&cache_seconds=86400"/>
+    </picture>
+  </a>
+  <a href="https://github.com/techdufus/openkanban">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=techdufus&repo=openkanban&theme=github_dark&cache_seconds=86400">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=techdufus&repo=openkanban&theme=default&cache_seconds=86400"/>
+    </picture>
+  </a>
+  <a href="https://github.com/techdufus/dotfiles">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=techdufus&repo=dotfiles&theme=github_dark&cache_seconds=86400">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=techdufus&repo=dotfiles&theme=default&cache_seconds=86400"/>
+    </picture>
+  </a>
+</p>
 
 <details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <summary><b>Recent GitHub Activity</b></summary>
     <p>
 
 <!--START_SECTION:activity-->
@@ -82,7 +60,7 @@ Currently diving deeper into: **GoLang** | **Cloud Architecture** | **Infrastruc
 </details>
 
  <details>
-  <summary><b>👀 Latest Blog Posts</b></summary>
+  <summary><b>Latest Blog Posts</b></summary>
     <p>
 
  <!-- BLOG-POST-LIST:START -->
@@ -101,17 +79,10 @@ Currently diving deeper into: **GoLang** | **Cloud Architecture** | **Infrastruc
 </details>
 
 <details>
-  <summary><b>👨‍💻 Stats</b></summary>
+  <summary><b>Stats</b></summary>
   <p align="center">
     <a>
-      <img align="center" src="https://gist.githubusercontent.com/TechDufus/1eaef21799d1d62623cbfb229769d1c0/raw/fd08c846893bfdd8fcf037804861da41b9c97773/github-metrics.svg"/>
+      <img align="center" src="https://gist.githubusercontent.com/TechDufus/1eaef21799d1d62623cbfb229769d1c0/raw/github-metrics.svg"/>
     </a>
   </p>
 </details>
-
-
-<!-- <img align="center" alt="techdufus's Github Stats" src="https://github-readme-stats.vercel.app/api?username=techdufus&show_icons=true&count_private=true&theme=dark&include_all_commits=true&line_height=21&cache_seconds=1800"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=techdufus&theme=dark" alt="GitHub Streak" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=techdufus&theme=dark" style="max-width:100%;"> -->
-
-<!-- SPONSORS-LIST:START -->
-<!-- SPONSORS-LIST:END -->
