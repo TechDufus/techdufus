@@ -45,16 +45,16 @@
     <p>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#167](https://github.com/Yeachan-Heo/oh-my-claudecode/issues/167) in [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)
-2. 💪 Opened PR [#102](https://github.com/TechDufus/openkanban/pull/102) in [TechDufus/openkanban](https://github.com/TechDufus/openkanban)
-3. 🎉 Merged PR [#6](https://github.com/TechDufus/oh-my-claude/pull/6) in [TechDufus/oh-my-claude](https://github.com/TechDufus/oh-my-claude)
-4. 🎉 Merged PR [#7](https://github.com/TechDufus/oh-my-claude/pull/7) in [TechDufus/oh-my-claude](https://github.com/TechDufus/oh-my-claude)
-5. 💪 Opened PR [#7](https://github.com/TechDufus/oh-my-claude/pull/7) in [TechDufus/oh-my-claude](https://github.com/TechDufus/oh-my-claude)
-6. 🎉 Merged PR [#101](https://github.com/TechDufus/openkanban/pull/101) in [TechDufus/openkanban](https://github.com/TechDufus/openkanban)
-7. 💪 Opened PR [#101](https://github.com/TechDufus/openkanban/pull/101) in [TechDufus/openkanban](https://github.com/TechDufus/openkanban)
-8. 💪 Opened PR [#6](https://github.com/TechDufus/oh-my-claude/pull/6) in [TechDufus/oh-my-claude](https://github.com/TechDufus/oh-my-claude)
-9. 🔒 Closed issue [#5](https://github.com/TechDufus/oh-my-claude/issues/5) in [TechDufus/oh-my-claude](https://github.com/TechDufus/oh-my-claude)
-10. 🗣 Commented on [#5](https://github.com/TechDufus/oh-my-claude/issues/5#issuecomment-3780526985) in [TechDufus/oh-my-claude](https://github.com/TechDufus/oh-my-claude)
+1. 💪 Opened PR [#145](https://github.com/TechDufus/dotfiles/pull/145) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+2. ❗ Opened issue [#167](https://github.com/Yeachan-Heo/oh-my-claudecode/issues/167) in [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)
+3. 💪 Opened PR [#102](https://github.com/TechDufus/openkanban/pull/102) in [TechDufus/openkanban](https://github.com/TechDufus/openkanban)
+4. 🎉 Merged PR [#6](https://github.com/TechDufus/oh-my-claude/pull/6) in [TechDufus/oh-my-claude](https://github.com/TechDufus/oh-my-claude)
+5. 🎉 Merged PR [#7](https://github.com/TechDufus/oh-my-claude/pull/7) in [TechDufus/oh-my-claude](https://github.com/TechDufus/oh-my-claude)
+6. 💪 Opened PR [#7](https://github.com/TechDufus/oh-my-claude/pull/7) in [TechDufus/oh-my-claude](https://github.com/TechDufus/oh-my-claude)
+7. 🎉 Merged PR [#101](https://github.com/TechDufus/openkanban/pull/101) in [TechDufus/openkanban](https://github.com/TechDufus/openkanban)
+8. 💪 Opened PR [#101](https://github.com/TechDufus/openkanban/pull/101) in [TechDufus/openkanban](https://github.com/TechDufus/openkanban)
+9. 💪 Opened PR [#6](https://github.com/TechDufus/oh-my-claude/pull/6) in [TechDufus/oh-my-claude](https://github.com/TechDufus/oh-my-claude)
+10. 🔒 Closed issue [#5](https://github.com/TechDufus/oh-my-claude/issues/5) in [TechDufus/oh-my-claude](https://github.com/TechDufus/oh-my-claude)
 <!--END_SECTION:activity-->
   </p>
 </details>
