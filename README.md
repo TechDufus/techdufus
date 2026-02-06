@@ -64,6 +64,7 @@
     <p>
 
  <!-- BLOG-POST-LIST:START -->
+- [oh-my-claude: Batteries-Included Enhancements for Claude Code](https://TechDufus.com/tech/2026/02/04/oh-my-claude-batteries-included-enhancements-for-claude-code.html)
 - [Building a Talos Kubernetes Homelab with Terraform on Proxmox](https://TechDufus.com/tech/2025/06/30/building-a-talos-kubernetes-homelab-on-proxmox-with-terraform.html)
 - [Working with Private Container Registries: Nexus and Kubernetes](https://TechDufus.com/tech/2025/06/06/working-with-private-container-registries-nexus-and-kubernetes.html)
 - [Troubleshooting RKE2 Kubernetes Master Node Failures in Production](https://TechDufus.com/tech/2025/06/06/troubleshooting-rke2-kubernetes-master-node-failures-in-production.html)
@@ -73,7 +74,6 @@
 - [Creating a Progress Indicator for your PowerShell Processes](https://TechDufus.com/tech/2022/04/26/creating-a-progress-indicator-for-your-powershell-processes.html)
 - [Using $PSStyle to Spice up your Output](https://TechDufus.com/tech/2022/04/22/using-psstyle-to-spice-up-your-output.html)
 - [Playing With Dates in PowerShell](https://TechDufus.com/tech/2021/12/01/playing-with-dates-in-powershell.html)
-- [Introducing the BlogQueue GitHub Action](https://TechDufus.com/tech/2021/11/23/introducing-the-blogqueue-github-action.html)
 <!-- BLOG-POST-LIST:END -->
   </p>
 </details>
