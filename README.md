@@ -64,6 +64,7 @@
     <p>
 
  <!-- BLOG-POST-LIST:START -->
+- [Headless Obsidian Sync on Linux &lpar;No GUI Required&rpar;](https://TechDufus.com/tech/2026/02/13/headless-obsidian-sync-on-linux.html)
 - [oh-my-claude: Batteries-Included Enhancements for Claude Code](https://TechDufus.com/tech/2026/02/04/oh-my-claude-batteries-included-enhancements-for-claude-code.html)
 - [Building a Talos Kubernetes Homelab with Terraform on Proxmox](https://TechDufus.com/tech/2025/06/30/building-a-talos-kubernetes-homelab-on-proxmox-with-terraform.html)
 - [Working with Private Container Registries: Nexus and Kubernetes](https://TechDufus.com/tech/2025/06/06/working-with-private-container-registries-nexus-and-kubernetes.html)
@@ -73,7 +74,6 @@
 - [What is GoLang?](https://TechDufus.com/tech/2022/12/06/what-is-golang.html)
 - [Creating a Progress Indicator for your PowerShell Processes](https://TechDufus.com/tech/2022/04/26/creating-a-progress-indicator-for-your-powershell-processes.html)
 - [Using $PSStyle to Spice up your Output](https://TechDufus.com/tech/2022/04/22/using-psstyle-to-spice-up-your-output.html)
-- [Playing With Dates in PowerShell](https://TechDufus.com/tech/2021/12/01/playing-with-dates-in-powershell.html)
 <!-- BLOG-POST-LIST:END -->
   </p>
 </details>
