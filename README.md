@@ -64,6 +64,7 @@
     <p>
 
  <!-- BLOG-POST-LIST:START -->
+- [I Deleted My Cloudflare Tunnels: Tailscale Operator for Homelab K8s](https://TechDufus.com/kubernetes/2026/02/20/i-deleted-my-cloudflare-tunnels-tailscale-operator-homelab-k8s.html)
 - [AI Already Took My Job](https://TechDufus.com/devops/2026/02/18/ai-already-took-my-job.html)
 - [Headless Obsidian Sync on Linux &lpar;No GUI Required&rpar;](https://TechDufus.com/tech/2026/02/13/headless-obsidian-sync-on-linux.html)
 - [oh-my-claude: Batteries-Included Enhancements for Claude Code](https://TechDufus.com/tech/2026/02/04/oh-my-claude-batteries-included-enhancements-for-claude-code.html)
@@ -73,7 +74,6 @@
 - [I Make Excuses - Eating Well](https://TechDufus.com/personal/2023/09/13/i-make-excuses.html)
 - [Introduction to GoLang Structs](https://TechDufus.com/tech/2022/12/07/introduction-to-go-structs.html)
 - [What is GoLang?](https://TechDufus.com/tech/2022/12/06/what-is-golang.html)
-- [Creating a Progress Indicator for your PowerShell Processes](https://TechDufus.com/tech/2022/04/26/creating-a-progress-indicator-for-your-powershell-processes.html)
 <!-- BLOG-POST-LIST:END -->
   </p>
 </details>
