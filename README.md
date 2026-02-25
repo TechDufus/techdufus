@@ -64,16 +64,21 @@
     <p>
 
  <!-- BLOG-POST-LIST:START -->
-- [I Deleted My Cloudflare Tunnels: Tailscale Operator for Homelab K8s](https://TechDufus.com/kubernetes/2026/02/20/i-deleted-my-cloudflare-tunnels-tailscale-operator-homelab-k8s.html)
-- [AI Already Took My Job](https://TechDufus.com/devops/2026/02/18/ai-already-took-my-job.html)
-- [Headless Obsidian Sync on Linux &lpar;No GUI Required&rpar;](https://TechDufus.com/tech/2026/02/13/headless-obsidian-sync-on-linux.html)
-- [oh-my-claude: Batteries-Included Enhancements for Claude Code](https://TechDufus.com/tech/2026/02/04/oh-my-claude-batteries-included-enhancements-for-claude-code.html)
-- [Building a Talos Kubernetes Homelab with Terraform on Proxmox](https://TechDufus.com/tech/2025/06/30/building-a-talos-kubernetes-homelab-on-proxmox-with-terraform.html)
-- [Working with Private Container Registries: Nexus and Kubernetes](https://TechDufus.com/tech/2025/06/06/working-with-private-container-registries-nexus-and-kubernetes.html)
-- [Troubleshooting RKE2 Kubernetes Master Node Failures in Production](https://TechDufus.com/tech/2025/06/06/troubleshooting-rke2-kubernetes-master-node-failures-in-production.html)
-- [I Make Excuses - Eating Well](https://TechDufus.com/personal/2023/09/13/i-make-excuses.html)
-- [Introduction to GoLang Structs](https://TechDufus.com/tech/2022/12/07/introduction-to-go-structs.html)
-- [What is GoLang?](https://TechDufus.com/tech/2022/12/06/what-is-golang.html)
+- [I Deleted My Cloudflare Tunnels: Tailscale Operator for Homelab K8s](https://techdufus.com/blog/i-deleted-my-cloudflare-tunnels-tailscale-operator-homelab-k8s/)
+- [AI Already Took My Job](https://techdufus.com/blog/ai-already-took-my-job/)
+- [Headless Obsidian Sync on Linux &lpar;No GUI Required&rpar;](https://techdufus.com/blog/headless-obsidian-sync-on-linux/)
+- [oh-my-claude: Batteries-Included Enhancements for Claude Code](https://techdufus.com/blog/oh-my-claude-batteries-included-enhancements-for-claude-code/)
+- [Building a Talos Kubernetes Homelab with Terraform on Proxmox](https://techdufus.com/blog/building-a-talos-kubernetes-homelab-on-proxmox-with-terraform/)
+- [Troubleshooting RKE2 Kubernetes Master Node Failures in Production](https://techdufus.com/blog/troubleshooting-rke2-kubernetes-master-node-failures-in-production/)
+- [Working with Private Container Registries: Nexus and Kubernetes](https://techdufus.com/blog/working-with-private-container-registries-nexus-and-kubernetes/)
+- [I Make Excuses - Eating Well](https://techdufus.com/blog/i-make-excuses/)
+- [Introduction to GoLang Structs](https://techdufus.com/blog/introduction-to-go-structs/)
+- [What is GoLang?](https://techdufus.com/blog/what-is-golang/)
+- [Creating a Progress Indicator for your PowerShell Processes](https://techdufus.com/blog/creating-a-progress-indicator-for-your-powershell-processes/)
+- [Using $PSStyle to Spice up your Output](https://techdufus.com/blog/using-psstyle-to-spice-up-your-output/)
+- [Playing With Dates in PowerShell](https://techdufus.com/blog/playing-with-dates-in-powershell/)
+- [Introducing the BlogQueue GitHub Action](https://techdufus.com/blog/introducing-the-blogqueue-github-action/)
+- [Remove Overlapping IP Address Ranges from a List of CIDR IP Addresses](https://techdufus.com/blog/remove-overlapping-ip-ranges-from-list-of-cidr-addresses/)
 <!-- BLOG-POST-LIST:END -->
   </p>
 </details>
