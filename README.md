@@ -64,6 +64,7 @@
     <p>
 
  <!-- BLOG-POST-LIST:START -->
+- [The AI Internet Outage We&#39;re Not Ready For](https://techdufus.com/blog/the-ai-internet-outage-were-not-ready-for/)
 - [I Deleted My Cloudflare Tunnels: Tailscale Operator for Homelab K8s](https://techdufus.com/blog/i-deleted-my-cloudflare-tunnels-tailscale-operator-homelab-k8s/)
 - [AI Already Took My Job](https://techdufus.com/blog/ai-already-took-my-job/)
 - [Headless Obsidian Sync on Linux &lpar;No GUI Required&rpar;](https://techdufus.com/blog/headless-obsidian-sync-on-linux/)
@@ -78,7 +79,6 @@
 - [Using $PSStyle to Spice up your Output](https://techdufus.com/blog/using-psstyle-to-spice-up-your-output/)
 - [Playing With Dates in PowerShell](https://techdufus.com/blog/playing-with-dates-in-powershell/)
 - [Introducing the BlogQueue GitHub Action](https://techdufus.com/blog/introducing-the-blogqueue-github-action/)
-- [Remove Overlapping IP Address Ranges from a List of CIDR IP Addresses](https://techdufus.com/blog/remove-overlapping-ip-ranges-from-list-of-cidr-addresses/)
 <!-- BLOG-POST-LIST:END -->
   </p>
 </details>
