@@ -45,15 +45,15 @@
     <p>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#13](https://github.com/TechDufus/oh-my-claude/pull/13) in [TechDufus/oh-my-claude](https://github.com/TechDufus/oh-my-claude)
-2. 🎉 Merged PR [#14](https://github.com/TechDufus/home.io/pull/14) in [TechDufus/home.io](https://github.com/TechDufus/home.io)
-3. 💪 Opened PR [#14](https://github.com/TechDufus/home.io/pull/14) in [TechDufus/home.io](https://github.com/TechDufus/home.io)
-4. 🎉 Merged PR [#13](https://github.com/TechDufus/home.io/pull/13) in [TechDufus/home.io](https://github.com/TechDufus/home.io)
-5. 💪 Opened PR [#13](https://github.com/TechDufus/home.io/pull/13) in [TechDufus/home.io](https://github.com/TechDufus/home.io)
-6. 🎉 Merged PR [#12](https://github.com/TechDufus/oh-my-claude/pull/12) in [TechDufus/oh-my-claude](https://github.com/TechDufus/oh-my-claude)
-7. 🔒 Closed issue [#11](https://github.com/TechDufus/oh-my-claude/issues/11) in [TechDufus/oh-my-claude](https://github.com/TechDufus/oh-my-claude)
-8. 💪 Opened PR [#12](https://github.com/TechDufus/oh-my-claude/pull/12) in [TechDufus/oh-my-claude](https://github.com/TechDufus/oh-my-claude)
-9. 🎉 Merged PR [#12](https://github.com/TechDufus/home.io/pull/12) in [TechDufus/home.io](https://github.com/TechDufus/home.io)
+1. 🎉 Merged PR [#13](https://github.com/TechDufus/oh-my-claude/pull/13) in [TechDufus/oh-my-claude](https://github.com/TechDufus/oh-my-claude)
+2. 💪 Opened PR [#13](https://github.com/TechDufus/oh-my-claude/pull/13) in [TechDufus/oh-my-claude](https://github.com/TechDufus/oh-my-claude)
+3. 🎉 Merged PR [#14](https://github.com/TechDufus/home.io/pull/14) in [TechDufus/home.io](https://github.com/TechDufus/home.io)
+4. 💪 Opened PR [#14](https://github.com/TechDufus/home.io/pull/14) in [TechDufus/home.io](https://github.com/TechDufus/home.io)
+5. 🎉 Merged PR [#13](https://github.com/TechDufus/home.io/pull/13) in [TechDufus/home.io](https://github.com/TechDufus/home.io)
+6. 💪 Opened PR [#13](https://github.com/TechDufus/home.io/pull/13) in [TechDufus/home.io](https://github.com/TechDufus/home.io)
+7. 🎉 Merged PR [#12](https://github.com/TechDufus/oh-my-claude/pull/12) in [TechDufus/oh-my-claude](https://github.com/TechDufus/oh-my-claude)
+8. 🔒 Closed issue [#11](https://github.com/TechDufus/oh-my-claude/issues/11) in [TechDufus/oh-my-claude](https://github.com/TechDufus/oh-my-claude)
+9. 💪 Opened PR [#12](https://github.com/TechDufus/oh-my-claude/pull/12) in [TechDufus/oh-my-claude](https://github.com/TechDufus/oh-my-claude)
 10. 💪 Opened PR [#12](https://github.com/TechDufus/home.io/pull/12) in [TechDufus/home.io](https://github.com/TechDufus/home.io)
 <!--END_SECTION:activity-->
   </p>
