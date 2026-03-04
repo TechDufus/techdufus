@@ -64,6 +64,7 @@
     <p>
 
  <!-- BLOG-POST-LIST:START -->
+- [Deploying Obsidian Sync for My AI Agents](https://techdufus.com/blog/deploying-obsidian-sync-for-my-ai-agents/)
 - [The AI Internet Outage We&#39;re Not Ready For](https://techdufus.com/blog/the-ai-internet-outage-were-not-ready-for/)
 - [I Deleted My Cloudflare Tunnels: Tailscale Operator for Homelab K8s](https://techdufus.com/blog/i-deleted-my-cloudflare-tunnels-tailscale-operator-homelab-k8s/)
 - [AI Already Took My Job](https://techdufus.com/blog/ai-already-took-my-job/)
@@ -78,7 +79,6 @@
 - [Creating a Progress Indicator for your PowerShell Processes](https://techdufus.com/blog/creating-a-progress-indicator-for-your-powershell-processes/)
 - [Using $PSStyle to Spice up your Output](https://techdufus.com/blog/using-psstyle-to-spice-up-your-output/)
 - [Playing With Dates in PowerShell](https://techdufus.com/blog/playing-with-dates-in-powershell/)
-- [Introducing the BlogQueue GitHub Action](https://techdufus.com/blog/introducing-the-blogqueue-github-action/)
 <!-- BLOG-POST-LIST:END -->
   </p>
 </details>
