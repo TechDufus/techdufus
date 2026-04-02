@@ -45,16 +45,16 @@
     <p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#151](https://github.com/TechDufus/dotfiles/issues/151#issuecomment-4150014164) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-2. 🎉 Merged PR [#7](https://github.com/jesseleite/GridLayout.spoon/pull/7) in [jesseleite/GridLayout.spoon](https://github.com/jesseleite/GridLayout.spoon)
-3. ❗ Opened issue [#151](https://github.com/TechDufus/dotfiles/issues/151) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-4. 🔒 Closed issue [#20](https://github.com/TechDufus/techdufus.github.io/issues/20) in [TechDufus/techdufus.github.io](https://github.com/TechDufus/techdufus.github.io)
-5. 🗣 Commented on [#20](https://github.com/TechDufus/techdufus.github.io/issues/20#issuecomment-4134704117) in [TechDufus/techdufus.github.io](https://github.com/TechDufus/techdufus.github.io)
-6. 🎉 Merged PR [#31](https://github.com/TechDufus/techdufus.github.io/pull/31) in [TechDufus/techdufus.github.io](https://github.com/TechDufus/techdufus.github.io)
-7. 💪 Opened PR [#31](https://github.com/TechDufus/techdufus.github.io/pull/31) in [TechDufus/techdufus.github.io](https://github.com/TechDufus/techdufus.github.io)
-8. 🗣 Commented on [#7](https://github.com/jesseleite/GridLayout.spoon/pull/7#issuecomment-4110666729) in [jesseleite/GridLayout.spoon](https://github.com/jesseleite/GridLayout.spoon)
-9. 🔒 Closed issue [#150](https://github.com/TechDufus/dotfiles/issues/150) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-10. 🗣 Commented on [#150](https://github.com/TechDufus/dotfiles/issues/150#issuecomment-4110482755) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+1. ❌ Closed PR [#2](https://github.com/TechDufus/GridLayout.spoon/pull/2) in [TechDufus/GridLayout.spoon](https://github.com/TechDufus/GridLayout.spoon)
+2. 🗣 Commented on [#2](https://github.com/TechDufus/GridLayout.spoon/pull/2#issuecomment-4171092148) in [TechDufus/GridLayout.spoon](https://github.com/TechDufus/GridLayout.spoon)
+3. 💪 Opened PR [#8](https://github.com/jesseleite/GridLayout.spoon/pull/8) in [jesseleite/GridLayout.spoon](https://github.com/jesseleite/GridLayout.spoon)
+4. ❌ Closed PR [#1](https://github.com/TechDufus/GridLayout.spoon/pull/1) in [TechDufus/GridLayout.spoon](https://github.com/TechDufus/GridLayout.spoon)
+5. 🗣 Commented on [#1](https://github.com/TechDufus/GridLayout.spoon/pull/1#issuecomment-4171078791) in [TechDufus/GridLayout.spoon](https://github.com/TechDufus/GridLayout.spoon)
+6. 💪 Opened PR [#2](https://github.com/TechDufus/GridLayout.spoon/pull/2) in [TechDufus/GridLayout.spoon](https://github.com/TechDufus/GridLayout.spoon)
+7. 💪 Opened PR [#1](https://github.com/TechDufus/GridLayout.spoon/pull/1) in [TechDufus/GridLayout.spoon](https://github.com/TechDufus/GridLayout.spoon)
+8. 🗣 Commented on [#151](https://github.com/TechDufus/dotfiles/issues/151#issuecomment-4150014164) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+9. 🎉 Merged PR [#7](https://github.com/jesseleite/GridLayout.spoon/pull/7) in [jesseleite/GridLayout.spoon](https://github.com/jesseleite/GridLayout.spoon)
+10. ❗ Opened issue [#151](https://github.com/TechDufus/dotfiles/issues/151) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
 <!--END_SECTION:activity-->
   </p>
 </details>
