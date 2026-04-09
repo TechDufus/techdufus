@@ -45,16 +45,16 @@
     <p>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2](https://github.com/TechDufus/GridLayout.spoon/pull/2) in [TechDufus/GridLayout.spoon](https://github.com/TechDufus/GridLayout.spoon)
-2. 🗣 Commented on [#2](https://github.com/TechDufus/GridLayout.spoon/pull/2#issuecomment-4171092148) in [TechDufus/GridLayout.spoon](https://github.com/TechDufus/GridLayout.spoon)
-3. 💪 Opened PR [#8](https://github.com/jesseleite/GridLayout.spoon/pull/8) in [jesseleite/GridLayout.spoon](https://github.com/jesseleite/GridLayout.spoon)
-4. ❌ Closed PR [#1](https://github.com/TechDufus/GridLayout.spoon/pull/1) in [TechDufus/GridLayout.spoon](https://github.com/TechDufus/GridLayout.spoon)
-5. 🗣 Commented on [#1](https://github.com/TechDufus/GridLayout.spoon/pull/1#issuecomment-4171078791) in [TechDufus/GridLayout.spoon](https://github.com/TechDufus/GridLayout.spoon)
-6. 💪 Opened PR [#2](https://github.com/TechDufus/GridLayout.spoon/pull/2) in [TechDufus/GridLayout.spoon](https://github.com/TechDufus/GridLayout.spoon)
-7. 💪 Opened PR [#1](https://github.com/TechDufus/GridLayout.spoon/pull/1) in [TechDufus/GridLayout.spoon](https://github.com/TechDufus/GridLayout.spoon)
-8. 🗣 Commented on [#151](https://github.com/TechDufus/dotfiles/issues/151#issuecomment-4150014164) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-9. 🎉 Merged PR [#7](https://github.com/jesseleite/GridLayout.spoon/pull/7) in [jesseleite/GridLayout.spoon](https://github.com/jesseleite/GridLayout.spoon)
-10. ❗ Opened issue [#151](https://github.com/TechDufus/dotfiles/issues/151) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+1. 🔒 Closed issue [#73](https://github.com/TechDufus/FluxNodeInstall/issues/73) in [TechDufus/FluxNodeInstall](https://github.com/TechDufus/FluxNodeInstall)
+2. ℹ️ Unassigned issue [#19](https://github.com/RunOnFlux/fluxnode-multitool/issues/19) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
+3. 🔒 Closed issue [#20](https://github.com/xdega/nerdbot/issues/20) in [xdega/nerdbot](https://github.com/xdega/nerdbot)
+4. 🔒 Closed issue [#4](https://github.com/xdega/nerdbot/issues/4) in [xdega/nerdbot](https://github.com/xdega/nerdbot)
+5. ❌ Closed PR [#2](https://github.com/TechDufus/GridLayout.spoon/pull/2) in [TechDufus/GridLayout.spoon](https://github.com/TechDufus/GridLayout.spoon)
+6. 🗣 Commented on [#2](https://github.com/TechDufus/GridLayout.spoon/pull/2#issuecomment-4171092148) in [TechDufus/GridLayout.spoon](https://github.com/TechDufus/GridLayout.spoon)
+7. 💪 Opened PR [#8](https://github.com/jesseleite/GridLayout.spoon/pull/8) in [jesseleite/GridLayout.spoon](https://github.com/jesseleite/GridLayout.spoon)
+8. ❌ Closed PR [#1](https://github.com/TechDufus/GridLayout.spoon/pull/1) in [TechDufus/GridLayout.spoon](https://github.com/TechDufus/GridLayout.spoon)
+9. 🗣 Commented on [#1](https://github.com/TechDufus/GridLayout.spoon/pull/1#issuecomment-4171078791) in [TechDufus/GridLayout.spoon](https://github.com/TechDufus/GridLayout.spoon)
+10. 💪 Opened PR [#2](https://github.com/TechDufus/GridLayout.spoon/pull/2) in [TechDufus/GridLayout.spoon](https://github.com/TechDufus/GridLayout.spoon)
 <!--END_SECTION:activity-->
   </p>
 </details>
