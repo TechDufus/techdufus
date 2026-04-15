@@ -45,16 +45,16 @@
     <p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/jesseleite/GridLayout.spoon/pull/8) in [jesseleite/GridLayout.spoon](https://github.com/jesseleite/GridLayout.spoon)
-2. 🔒 Closed issue [#73](https://github.com/TechDufus/FluxNodeInstall/issues/73) in [TechDufus/FluxNodeInstall](https://github.com/TechDufus/FluxNodeInstall)
-3. ℹ️ Unassigned issue [#19](https://github.com/RunOnFlux/fluxnode-multitool/issues/19) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
-4. 🔒 Closed issue [#20](https://github.com/xdega/nerdbot/issues/20) in [xdega/nerdbot](https://github.com/xdega/nerdbot)
-5. 🔒 Closed issue [#4](https://github.com/xdega/nerdbot/issues/4) in [xdega/nerdbot](https://github.com/xdega/nerdbot)
-6. ❌ Closed PR [#2](https://github.com/TechDufus/GridLayout.spoon/pull/2) in [TechDufus/GridLayout.spoon](https://github.com/TechDufus/GridLayout.spoon)
-7. 🗣 Commented on [#2](https://github.com/TechDufus/GridLayout.spoon/pull/2#issuecomment-4171092148) in [TechDufus/GridLayout.spoon](https://github.com/TechDufus/GridLayout.spoon)
-8. 💪 Opened PR [#8](https://github.com/jesseleite/GridLayout.spoon/pull/8) in [jesseleite/GridLayout.spoon](https://github.com/jesseleite/GridLayout.spoon)
-9. ❌ Closed PR [#1](https://github.com/TechDufus/GridLayout.spoon/pull/1) in [TechDufus/GridLayout.spoon](https://github.com/TechDufus/GridLayout.spoon)
-10. 🗣 Commented on [#1](https://github.com/TechDufus/GridLayout.spoon/pull/1#issuecomment-4171078791) in [TechDufus/GridLayout.spoon](https://github.com/TechDufus/GridLayout.spoon)
+1. 🎉 Merged PR [#19](https://github.com/TechDufus/oh-my-claude/pull/19) in [TechDufus/oh-my-claude](https://github.com/TechDufus/oh-my-claude)
+2. 💪 Opened PR [#19](https://github.com/TechDufus/oh-my-claude/pull/19) in [TechDufus/oh-my-claude](https://github.com/TechDufus/oh-my-claude)
+3. 🎉 Merged PR [#17](https://github.com/TechDufus/oh-my-claude/pull/17) in [TechDufus/oh-my-claude](https://github.com/TechDufus/oh-my-claude)
+4. 💪 Opened PR [#17](https://github.com/TechDufus/oh-my-claude/pull/17) in [TechDufus/oh-my-claude](https://github.com/TechDufus/oh-my-claude)
+5. 🎉 Merged PR [#16](https://github.com/TechDufus/oh-my-claude/pull/16) in [TechDufus/oh-my-claude](https://github.com/TechDufus/oh-my-claude)
+6. 💪 Opened PR [#16](https://github.com/TechDufus/oh-my-claude/pull/16) in [TechDufus/oh-my-claude](https://github.com/TechDufus/oh-my-claude)
+7. 🎉 Merged PR [#8](https://github.com/jesseleite/GridLayout.spoon/pull/8) in [jesseleite/GridLayout.spoon](https://github.com/jesseleite/GridLayout.spoon)
+8. 🔒 Closed issue [#73](https://github.com/TechDufus/FluxNodeInstall/issues/73) in [TechDufus/FluxNodeInstall](https://github.com/TechDufus/FluxNodeInstall)
+9. ℹ️ Unassigned issue [#19](https://github.com/RunOnFlux/fluxnode-multitool/issues/19) in [RunOnFlux/fluxnode-multitool](https://github.com/RunOnFlux/fluxnode-multitool)
+10. 🔒 Closed issue [#20](https://github.com/xdega/nerdbot/issues/20) in [xdega/nerdbot](https://github.com/xdega/nerdbot)
 <!--END_SECTION:activity-->
   </p>
 </details>
