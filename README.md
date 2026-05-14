@@ -46,7 +46,7 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#19956](https://github.com/NousResearch/hermes-agent/pull/19956#issuecomment-4388563520) in [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
-2. 🗣 Commented on [#768](https://github.com/Lissy93/dashy/issues/768#issuecomment-4348892118) in [Lissy93/dashy](https://github.com/Lissy93/dashy)
+2. 🗣 Commented on [#768](https://github.com/lissy93/dashy/issues/768#issuecomment-4348892118) in [lissy93/dashy](https://github.com/lissy93/dashy)
 3. 🎉 Merged PR [#19](https://github.com/TechDufus/oh-my-claude/pull/19) in [TechDufus/oh-my-claude](https://github.com/TechDufus/oh-my-claude)
 4. 💪 Opened PR [#19](https://github.com/TechDufus/oh-my-claude/pull/19) in [TechDufus/oh-my-claude](https://github.com/TechDufus/oh-my-claude)
 5. 🎉 Merged PR [#17](https://github.com/TechDufus/oh-my-claude/pull/17) in [TechDufus/oh-my-claude](https://github.com/TechDufus/oh-my-claude)
