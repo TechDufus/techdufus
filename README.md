@@ -45,16 +45,16 @@
     <p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#152](https://github.com/TechDufus/dotfiles/pull/152) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-2. 💪 Opened PR [#152](https://github.com/TechDufus/dotfiles/pull/152) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-3. 🎉 Merged PR [#10](https://github.com/TechDufus/oh-my-claude/pull/10) in [TechDufus/oh-my-claude](https://github.com/TechDufus/oh-my-claude)
-4. 🔒 Closed issue [#9](https://github.com/TechDufus/oh-my-claude/issues/9) in [TechDufus/oh-my-claude](https://github.com/TechDufus/oh-my-claude)
-5. 🔒 Closed issue [#8](https://github.com/TechDufus/oh-my-claude/issues/8) in [TechDufus/oh-my-claude](https://github.com/TechDufus/oh-my-claude)
-6. 🎉 Merged PR [#20](https://github.com/TechDufus/oh-my-claude/pull/20) in [TechDufus/oh-my-claude](https://github.com/TechDufus/oh-my-claude)
-7. 💪 Opened PR [#20](https://github.com/TechDufus/oh-my-claude/pull/20) in [TechDufus/oh-my-claude](https://github.com/TechDufus/oh-my-claude)
-8. 🗣 Commented on [#19956](https://github.com/NousResearch/hermes-agent/pull/19956#issuecomment-4388563520) in [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
-9. 🗣 Commented on [#768](https://github.com/lissy93/dashy/issues/768#issuecomment-4348892118) in [lissy93/dashy](https://github.com/lissy93/dashy)
-10. 🔒 Closed issue [#73](https://github.com/TechDufus/FluxNodeInstall/issues/73) in [TechDufus/FluxNodeInstall](https://github.com/TechDufus/FluxNodeInstall)
+1. 🗣 Commented on [#1403](https://github.com/can1357/oh-my-pi/issues/1403#issuecomment-4544317020) in [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
+2. ❗ Opened issue [#1403](https://github.com/can1357/oh-my-pi/issues/1403) in [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
+3. 🎉 Merged PR [#152](https://github.com/TechDufus/dotfiles/pull/152) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+4. 💪 Opened PR [#152](https://github.com/TechDufus/dotfiles/pull/152) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+5. 🎉 Merged PR [#10](https://github.com/TechDufus/oh-my-claude/pull/10) in [TechDufus/oh-my-claude](https://github.com/TechDufus/oh-my-claude)
+6. 🔒 Closed issue [#9](https://github.com/TechDufus/oh-my-claude/issues/9) in [TechDufus/oh-my-claude](https://github.com/TechDufus/oh-my-claude)
+7. 🔒 Closed issue [#8](https://github.com/TechDufus/oh-my-claude/issues/8) in [TechDufus/oh-my-claude](https://github.com/TechDufus/oh-my-claude)
+8. 🎉 Merged PR [#20](https://github.com/TechDufus/oh-my-claude/pull/20) in [TechDufus/oh-my-claude](https://github.com/TechDufus/oh-my-claude)
+9. 💪 Opened PR [#20](https://github.com/TechDufus/oh-my-claude/pull/20) in [TechDufus/oh-my-claude](https://github.com/TechDufus/oh-my-claude)
+10. 🗣 Commented on [#19956](https://github.com/NousResearch/hermes-agent/pull/19956#issuecomment-4388563520) in [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
 <!--END_SECTION:activity-->
   </p>
 </details>
