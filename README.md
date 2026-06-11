@@ -45,16 +45,16 @@
     <p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1403](https://github.com/can1357/oh-my-pi/issues/1403#issuecomment-4652224847) in [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
-2. 🗣 Commented on [#1403](https://github.com/can1357/oh-my-pi/issues/1403#issuecomment-4652216300) in [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
-3. 🗣 Commented on [#1455](https://github.com/can1357/oh-my-pi/pull/1455#issuecomment-4606354181) in [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
-4. 💪 Opened PR [#1455](https://github.com/can1357/oh-my-pi/pull/1455) in [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
-5. 🗣 Commented on [#1403](https://github.com/can1357/oh-my-pi/issues/1403#issuecomment-4544317020) in [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
-6. ❗ Opened issue [#1403](https://github.com/can1357/oh-my-pi/issues/1403) in [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
-7. 🎉 Merged PR [#152](https://github.com/TechDufus/dotfiles/pull/152) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-8. 💪 Opened PR [#152](https://github.com/TechDufus/dotfiles/pull/152) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-9. 🎉 Merged PR [#10](https://github.com/TechDufus/oh-my-claude/pull/10) in [TechDufus/oh-my-claude](https://github.com/TechDufus/oh-my-claude)
-10. 🔒 Closed issue [#9](https://github.com/TechDufus/oh-my-claude/issues/9) in [TechDufus/oh-my-claude](https://github.com/TechDufus/oh-my-claude)
+1. ❗ Opened issue [#153](https://github.com/TechDufus/dotfiles/issues/153) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+2. 🗣 Commented on [#1403](https://github.com/can1357/oh-my-pi/issues/1403#issuecomment-4652224847) in [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
+3. 🗣 Commented on [#1403](https://github.com/can1357/oh-my-pi/issues/1403#issuecomment-4652216300) in [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
+4. 🗣 Commented on [#1455](https://github.com/can1357/oh-my-pi/pull/1455#issuecomment-4606354181) in [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
+5. 💪 Opened PR [#1455](https://github.com/can1357/oh-my-pi/pull/1455) in [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
+6. 🗣 Commented on [#1403](https://github.com/can1357/oh-my-pi/issues/1403#issuecomment-4544317020) in [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
+7. ❗ Opened issue [#1403](https://github.com/can1357/oh-my-pi/issues/1403) in [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
+8. 🎉 Merged PR [#152](https://github.com/TechDufus/dotfiles/pull/152) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+9. 💪 Opened PR [#152](https://github.com/TechDufus/dotfiles/pull/152) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+10. 🎉 Merged PR [#10](https://github.com/TechDufus/oh-my-claude/pull/10) in [TechDufus/oh-my-claude](https://github.com/TechDufus/oh-my-claude)
 <!--END_SECTION:activity-->
   </p>
 </details>
