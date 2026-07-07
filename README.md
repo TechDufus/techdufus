@@ -45,16 +45,16 @@
     <p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/TechDufus/WorkspaceManager.spoon/pull/1) in [TechDufus/WorkspaceManager.spoon](https://github.com/TechDufus/WorkspaceManager.spoon)
-2. ❗ Opened issue [#155](https://github.com/TechDufus/dotfiles/issues/155) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-3. 💪 Opened PR [#1](https://github.com/TechDufus/WorkspaceManager.spoon/pull/1) in [TechDufus/WorkspaceManager.spoon](https://github.com/TechDufus/WorkspaceManager.spoon)
-4. 🗣 Commented on [#107](https://github.com/TechDufus/dotfiles/issues/107#issuecomment-4742202746) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-5. 🔒 Closed issue [#107](https://github.com/TechDufus/dotfiles/issues/107) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-6. 🔒 Closed issue [#153](https://github.com/TechDufus/dotfiles/issues/153) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-7. 💪 Opened PR [#154](https://github.com/TechDufus/dotfiles/pull/154) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-8. ❗ Opened issue [#153](https://github.com/TechDufus/dotfiles/issues/153) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-9. 🗣 Commented on [#1403](https://github.com/can1357/oh-my-pi/issues/1403#issuecomment-4652224847) in [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
-10. 🗣 Commented on [#1403](https://github.com/can1357/oh-my-pi/issues/1403#issuecomment-4652216300) in [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
+1. 🗣 Commented on [#4740](https://github.com/can1357/oh-my-pi/pull/4740#issuecomment-4896881216) in [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
+2. 💪 Opened PR [#4740](https://github.com/can1357/oh-my-pi/pull/4740) in [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
+3. 🎉 Merged PR [#1](https://github.com/TechDufus/WorkspaceManager.spoon/pull/1) in [TechDufus/WorkspaceManager.spoon](https://github.com/TechDufus/WorkspaceManager.spoon)
+4. ❗ Opened issue [#155](https://github.com/TechDufus/dotfiles/issues/155) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+5. 💪 Opened PR [#1](https://github.com/TechDufus/WorkspaceManager.spoon/pull/1) in [TechDufus/WorkspaceManager.spoon](https://github.com/TechDufus/WorkspaceManager.spoon)
+6. 🗣 Commented on [#107](https://github.com/TechDufus/dotfiles/issues/107#issuecomment-4742202746) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+7. 🔒 Closed issue [#107](https://github.com/TechDufus/dotfiles/issues/107) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+8. 🔒 Closed issue [#153](https://github.com/TechDufus/dotfiles/issues/153) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+9. 💪 Opened PR [#154](https://github.com/TechDufus/dotfiles/pull/154) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+10. ❗ Opened issue [#153](https://github.com/TechDufus/dotfiles/issues/153) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
 <!--END_SECTION:activity-->
   </p>
 </details>
