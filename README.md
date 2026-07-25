@@ -45,16 +45,16 @@
     <p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6443](https://github.com/can1357/oh-my-pi/pull/6443#issuecomment-5064401644) in [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
-2. 💪 Opened PR [#6443](https://github.com/can1357/oh-my-pi/pull/6443) in [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
-3. 🎉 Merged PR [#22](https://github.com/TechDufus/oh-my-claude/pull/22) in [TechDufus/oh-my-claude](https://github.com/TechDufus/oh-my-claude)
-4. 💪 Opened PR [#22](https://github.com/TechDufus/oh-my-claude/pull/22) in [TechDufus/oh-my-claude](https://github.com/TechDufus/oh-my-claude)
-5. 🗣 Commented on [#1455](https://github.com/can1357/oh-my-pi/pull/1455#issuecomment-4925688632) in [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
-6. 🗣 Commented on [#4740](https://github.com/can1357/oh-my-pi/pull/4740#issuecomment-4896881216) in [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
-7. 💪 Opened PR [#4740](https://github.com/can1357/oh-my-pi/pull/4740) in [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
-8. 🎉 Merged PR [#1](https://github.com/TechDufus/WorkspaceManager.spoon/pull/1) in [TechDufus/WorkspaceManager.spoon](https://github.com/TechDufus/WorkspaceManager.spoon)
-9. ❗ Opened issue [#155](https://github.com/TechDufus/dotfiles/issues/155) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-10. 💪 Opened PR [#1](https://github.com/TechDufus/WorkspaceManager.spoon/pull/1) in [TechDufus/WorkspaceManager.spoon](https://github.com/TechDufus/WorkspaceManager.spoon)
+1. 🗣 Commented on [#6474](https://github.com/can1357/oh-my-pi/pull/6474#issuecomment-5074229147) in [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
+2. 🗣 Commented on [#6474](https://github.com/can1357/oh-my-pi/pull/6474#issuecomment-5071200506) in [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
+3. 🗣 Commented on [#6474](https://github.com/can1357/oh-my-pi/pull/6474#issuecomment-5069771973) in [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
+4. 💪 Opened PR [#6474](https://github.com/can1357/oh-my-pi/pull/6474) in [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
+5. 🔒 Closed issue [#8](https://github.com/TechDufus/test-tagging/issues/8) in [TechDufus/test-tagging](https://github.com/TechDufus/test-tagging)
+6. 🔒 Closed issue [#9](https://github.com/TechDufus/test-tagging/issues/9) in [TechDufus/test-tagging](https://github.com/TechDufus/test-tagging)
+7. 🔒 Closed issue [#2](https://github.com/TechDufus/test-tagging/issues/2) in [TechDufus/test-tagging](https://github.com/TechDufus/test-tagging)
+8. 🔒 Closed issue [#4](https://github.com/TechDufus/test-tagging/issues/4) in [TechDufus/test-tagging](https://github.com/TechDufus/test-tagging)
+9. ❗ Opened issue [#9](https://github.com/TechDufus/test-tagging/issues/9) in [TechDufus/test-tagging](https://github.com/TechDufus/test-tagging)
+10. ❗ Opened issue [#8](https://github.com/TechDufus/test-tagging/issues/8) in [TechDufus/test-tagging](https://github.com/TechDufus/test-tagging)
 <!--END_SECTION:activity-->
   </p>
 </details>
