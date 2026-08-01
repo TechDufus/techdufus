@@ -45,16 +45,16 @@
     <p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#156](https://github.com/TechDufus/dotfiles/pull/156) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-2. 💪 Opened PR [#156](https://github.com/TechDufus/dotfiles/pull/156) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-3. 🗣 Commented on [#6474](https://github.com/can1357/oh-my-pi/pull/6474#issuecomment-5074229147) in [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
-4. 🗣 Commented on [#6474](https://github.com/can1357/oh-my-pi/pull/6474#issuecomment-5071200506) in [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
-5. 🗣 Commented on [#6474](https://github.com/can1357/oh-my-pi/pull/6474#issuecomment-5069771973) in [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
-6. 💪 Opened PR [#6474](https://github.com/can1357/oh-my-pi/pull/6474) in [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
-7. 🔒 Closed issue [#8](https://github.com/TechDufus/test-tagging/issues/8) in [TechDufus/test-tagging](https://github.com/TechDufus/test-tagging)
-8. 🔒 Closed issue [#9](https://github.com/TechDufus/test-tagging/issues/9) in [TechDufus/test-tagging](https://github.com/TechDufus/test-tagging)
-9. 🔒 Closed issue [#2](https://github.com/TechDufus/test-tagging/issues/2) in [TechDufus/test-tagging](https://github.com/TechDufus/test-tagging)
-10. 🔒 Closed issue [#4](https://github.com/TechDufus/test-tagging/issues/4) in [TechDufus/test-tagging](https://github.com/TechDufus/test-tagging)
+1. 💪 Opened PR [#7185](https://github.com/can1357/oh-my-pi/pull/7185) in [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
+2. 🗣 Commented on [#7106](https://github.com/can1357/oh-my-pi/issues/7106#issuecomment-5143622259) in [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
+3. 🎉 Merged PR [#156](https://github.com/TechDufus/dotfiles/pull/156) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+4. 💪 Opened PR [#156](https://github.com/TechDufus/dotfiles/pull/156) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+5. 🗣 Commented on [#6474](https://github.com/can1357/oh-my-pi/pull/6474#issuecomment-5074229147) in [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
+6. 🗣 Commented on [#6474](https://github.com/can1357/oh-my-pi/pull/6474#issuecomment-5071200506) in [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
+7. 🗣 Commented on [#6474](https://github.com/can1357/oh-my-pi/pull/6474#issuecomment-5069771973) in [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
+8. 💪 Opened PR [#6474](https://github.com/can1357/oh-my-pi/pull/6474) in [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
+9. 🔒 Closed issue [#8](https://github.com/TechDufus/test-tagging/issues/8) in [TechDufus/test-tagging](https://github.com/TechDufus/test-tagging)
+10. 🔒 Closed issue [#9](https://github.com/TechDufus/test-tagging/issues/9) in [TechDufus/test-tagging](https://github.com/TechDufus/test-tagging)
 <!--END_SECTION:activity-->
   </p>
 </details>
