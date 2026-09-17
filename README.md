@@ -45,10 +45,10 @@
     <p>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#17442](https://github.com/stablyai/orca/pull/17442) in [stablyai/orca](https://github.com/stablyai/orca)
-2. ❗ Opened issue [#17436](https://github.com/stablyai/orca/issues/17436) in [stablyai/orca](https://github.com/stablyai/orca)
-3. 🎉 Merged PR [#156](https://github.com/TechDufus/dotfiles/pull/156) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-4. 💪 Opened PR [#156](https://github.com/TechDufus/dotfiles/pull/156) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+1. 🎉 Merged PR [#41](https://github.com/TechDufus/techdufus.github.io/pull/41) in [TechDufus/techdufus.github.io](https://github.com/TechDufus/techdufus.github.io)
+2. 💪 Opened PR [#41](https://github.com/TechDufus/techdufus.github.io/pull/41) in [TechDufus/techdufus.github.io](https://github.com/TechDufus/techdufus.github.io)
+3. 💪 Opened PR [#17442](https://github.com/stablyai/orca/pull/17442) in [stablyai/orca](https://github.com/stablyai/orca)
+4. ❗ Opened issue [#17436](https://github.com/stablyai/orca/issues/17436) in [stablyai/orca](https://github.com/stablyai/orca)
 5. 🗣 Commented on [#6474](https://github.com/can1357/oh-my-pi/pull/6474#issuecomment-5074229147) in [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
 6. 🗣 Commented on [#6474](https://github.com/can1357/oh-my-pi/pull/6474#issuecomment-5071200506) in [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
 7. 🗣 Commented on [#6474](https://github.com/can1357/oh-my-pi/pull/6474#issuecomment-5069771973) in [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
