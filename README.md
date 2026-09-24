@@ -45,12 +45,12 @@
     <p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#41](https://github.com/TechDufus/techdufus.github.io/pull/41) in [TechDufus/techdufus.github.io](https://github.com/TechDufus/techdufus.github.io)
-2. 💪 Opened PR [#41](https://github.com/TechDufus/techdufus.github.io/pull/41) in [TechDufus/techdufus.github.io](https://github.com/TechDufus/techdufus.github.io)
-3. 💪 Opened PR [#17442](https://github.com/stablyai/orca/pull/17442) in [stablyai/orca](https://github.com/stablyai/orca)
-4. ❗ Opened issue [#17436](https://github.com/stablyai/orca/issues/17436) in [stablyai/orca](https://github.com/stablyai/orca)
-5. 🗣 Commented on [#6474](https://github.com/can1357/oh-my-pi/pull/6474#issuecomment-5074229147) in [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
-6. 🗣 Commented on [#6474](https://github.com/can1357/oh-my-pi/pull/6474#issuecomment-5071200506) in [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
+1. ℹ️ Labeled issue [#158](https://github.com/TechDufus/dotfiles/issues/158) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+2. ❗ Opened issue [#158](https://github.com/TechDufus/dotfiles/issues/158) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+3. 🎉 Merged PR [#41](https://github.com/TechDufus/techdufus.github.io/pull/41) in [TechDufus/techdufus.github.io](https://github.com/TechDufus/techdufus.github.io)
+4. 💪 Opened PR [#41](https://github.com/TechDufus/techdufus.github.io/pull/41) in [TechDufus/techdufus.github.io](https://github.com/TechDufus/techdufus.github.io)
+5. 💪 Opened PR [#17442](https://github.com/stablyai/orca/pull/17442) in [stablyai/orca](https://github.com/stablyai/orca)
+6. ❗ Opened issue [#17436](https://github.com/stablyai/orca/issues/17436) in [stablyai/orca](https://github.com/stablyai/orca)
 7. 🗣 Commented on [#6474](https://github.com/can1357/oh-my-pi/pull/6474#issuecomment-5069771973) in [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
 8. 💪 Opened PR [#6474](https://github.com/can1357/oh-my-pi/pull/6474) in [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
 9. 🔒 Closed issue [#8](https://github.com/TechDufus/test-tagging/issues/8) in [TechDufus/test-tagging](https://github.com/TechDufus/test-tagging)
