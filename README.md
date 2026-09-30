@@ -64,6 +64,8 @@
     <p>
 
  <!-- BLOG-POST-LIST:START -->
+- [I Rebuilt My Homelab for an AI Operator](https://techdufus.com/blog/i-rebuilt-my-homelab-for-an-ai-operator/)
+- [From Hardware RAID to ZFS on My R720xd](https://techdufus.com/blog/from-hardware-raid-to-zfs/)
 - [Deploying Obsidian Sync for My AI Agents](https://techdufus.com/blog/deploying-obsidian-sync-for-my-ai-agents/)
 - [The AI Internet Outage We&#39;re Not Ready For](https://techdufus.com/blog/the-ai-internet-outage-were-not-ready-for/)
 - [I Deleted My Cloudflare Tunnels: Tailscale Operator for Homelab K8s](https://techdufus.com/blog/i-deleted-my-cloudflare-tunnels-tailscale-operator-homelab-k8s/)
@@ -77,8 +79,6 @@
 - [Introduction to GoLang Structs](https://techdufus.com/blog/introduction-to-go-structs/)
 - [What is GoLang?](https://techdufus.com/blog/what-is-golang/)
 - [Creating a Progress Indicator for your PowerShell Processes](https://techdufus.com/blog/creating-a-progress-indicator-for-your-powershell-processes/)
-- [Using $PSStyle to Spice up your Output](https://techdufus.com/blog/using-psstyle-to-spice-up-your-output/)
-- [Playing With Dates in PowerShell](https://techdufus.com/blog/playing-with-dates-in-powershell/)
 <!-- BLOG-POST-LIST:END -->
   </p>
 </details>
