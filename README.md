@@ -45,16 +45,16 @@
     <p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#50](https://github.com/TechDufus/techdufus.github.io/pull/50) in [TechDufus/techdufus.github.io](https://github.com/TechDufus/techdufus.github.io)
-2. 💪 Opened PR [#50](https://github.com/TechDufus/techdufus.github.io/pull/50) in [TechDufus/techdufus.github.io](https://github.com/TechDufus/techdufus.github.io)
-3. 🎉 Merged PR [#49](https://github.com/TechDufus/techdufus.github.io/pull/49) in [TechDufus/techdufus.github.io](https://github.com/TechDufus/techdufus.github.io)
-4. 💪 Opened PR [#49](https://github.com/TechDufus/techdufus.github.io/pull/49) in [TechDufus/techdufus.github.io](https://github.com/TechDufus/techdufus.github.io)
-5. 🎉 Merged PR [#48](https://github.com/TechDufus/techdufus.github.io/pull/48) in [TechDufus/techdufus.github.io](https://github.com/TechDufus/techdufus.github.io)
-6. 💪 Opened PR [#48](https://github.com/TechDufus/techdufus.github.io/pull/48) in [TechDufus/techdufus.github.io](https://github.com/TechDufus/techdufus.github.io)
-7. 🎉 Merged PR [#47](https://github.com/TechDufus/techdufus.github.io/pull/47) in [TechDufus/techdufus.github.io](https://github.com/TechDufus/techdufus.github.io)
-8. 💪 Opened PR [#47](https://github.com/TechDufus/techdufus.github.io/pull/47) in [TechDufus/techdufus.github.io](https://github.com/TechDufus/techdufus.github.io)
-9. 🎉 Merged PR [#46](https://github.com/TechDufus/techdufus.github.io/pull/46) in [TechDufus/techdufus.github.io](https://github.com/TechDufus/techdufus.github.io)
-10. 💪 Opened PR [#46](https://github.com/TechDufus/techdufus.github.io/pull/46) in [TechDufus/techdufus.github.io](https://github.com/TechDufus/techdufus.github.io)
+1. 🎉 Merged PR [#51](https://github.com/TechDufus/techdufus.github.io/pull/51) in [TechDufus/techdufus.github.io](https://github.com/TechDufus/techdufus.github.io)
+2. 💪 Opened PR [#51](https://github.com/TechDufus/techdufus.github.io/pull/51) in [TechDufus/techdufus.github.io](https://github.com/TechDufus/techdufus.github.io)
+3. 🎉 Merged PR [#50](https://github.com/TechDufus/techdufus.github.io/pull/50) in [TechDufus/techdufus.github.io](https://github.com/TechDufus/techdufus.github.io)
+4. 💪 Opened PR [#50](https://github.com/TechDufus/techdufus.github.io/pull/50) in [TechDufus/techdufus.github.io](https://github.com/TechDufus/techdufus.github.io)
+5. 🎉 Merged PR [#49](https://github.com/TechDufus/techdufus.github.io/pull/49) in [TechDufus/techdufus.github.io](https://github.com/TechDufus/techdufus.github.io)
+6. 💪 Opened PR [#49](https://github.com/TechDufus/techdufus.github.io/pull/49) in [TechDufus/techdufus.github.io](https://github.com/TechDufus/techdufus.github.io)
+7. 🎉 Merged PR [#48](https://github.com/TechDufus/techdufus.github.io/pull/48) in [TechDufus/techdufus.github.io](https://github.com/TechDufus/techdufus.github.io)
+8. 💪 Opened PR [#48](https://github.com/TechDufus/techdufus.github.io/pull/48) in [TechDufus/techdufus.github.io](https://github.com/TechDufus/techdufus.github.io)
+9. 🎉 Merged PR [#47](https://github.com/TechDufus/techdufus.github.io/pull/47) in [TechDufus/techdufus.github.io](https://github.com/TechDufus/techdufus.github.io)
+10. 💪 Opened PR [#47](https://github.com/TechDufus/techdufus.github.io/pull/47) in [TechDufus/techdufus.github.io](https://github.com/TechDufus/techdufus.github.io)
 <!--END_SECTION:activity-->
   </p>
 </details>
