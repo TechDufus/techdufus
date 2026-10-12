@@ -64,6 +64,7 @@
     <p>
 
  <!-- BLOG-POST-LIST:START -->
+- [I Rebuilt My Dotfiles for the Agent That Writes Them](https://techdufus.com/blog/i-rebuilt-my-dotfiles-for-the-agent-that-writes-them/)
 - [I Rebuilt My Homelab for an AI Operator](https://techdufus.com/blog/i-rebuilt-my-homelab-for-an-ai-operator/)
 - [From Hardware RAID to ZFS on My R720xd](https://techdufus.com/blog/from-hardware-raid-to-zfs/)
 - [Deploying Obsidian Sync for My AI Agents](https://techdufus.com/blog/deploying-obsidian-sync-for-my-ai-agents/)
@@ -78,7 +79,6 @@
 - [I Make Excuses - Eating Well](https://techdufus.com/blog/i-make-excuses/)
 - [Introduction to GoLang Structs](https://techdufus.com/blog/introduction-to-go-structs/)
 - [What is GoLang?](https://techdufus.com/blog/what-is-golang/)
-- [Creating a Progress Indicator for your PowerShell Processes](https://techdufus.com/blog/creating-a-progress-indicator-for-your-powershell-processes/)
 <!-- BLOG-POST-LIST:END -->
   </p>
 </details>
