@@ -45,16 +45,16 @@
     <p>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#4](https://github.com/stencil-hq/vibemon/issues/4) in [stencil-hq/vibemon](https://github.com/stencil-hq/vibemon)
-2. 💪 Opened PR [#160](https://github.com/TechDufus/dotfiles/pull/160) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-3. 🎉 Merged PR [#52](https://github.com/TechDufus/techdufus.github.io/pull/52) in [TechDufus/techdufus.github.io](https://github.com/TechDufus/techdufus.github.io)
-4. 💪 Opened PR [#52](https://github.com/TechDufus/techdufus.github.io/pull/52) in [TechDufus/techdufus.github.io](https://github.com/TechDufus/techdufus.github.io)
-5. ❗ Opened issue [#159](https://github.com/TechDufus/dotfiles/issues/159) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-6. 🎉 Merged PR [#51](https://github.com/TechDufus/techdufus.github.io/pull/51) in [TechDufus/techdufus.github.io](https://github.com/TechDufus/techdufus.github.io)
-7. 💪 Opened PR [#51](https://github.com/TechDufus/techdufus.github.io/pull/51) in [TechDufus/techdufus.github.io](https://github.com/TechDufus/techdufus.github.io)
-8. 🎉 Merged PR [#50](https://github.com/TechDufus/techdufus.github.io/pull/50) in [TechDufus/techdufus.github.io](https://github.com/TechDufus/techdufus.github.io)
-9. 💪 Opened PR [#50](https://github.com/TechDufus/techdufus.github.io/pull/50) in [TechDufus/techdufus.github.io](https://github.com/TechDufus/techdufus.github.io)
-10. 🎉 Merged PR [#49](https://github.com/TechDufus/techdufus.github.io/pull/49) in [TechDufus/techdufus.github.io](https://github.com/TechDufus/techdufus.github.io)
+1. ❗ Opened issue [#6](https://github.com/stencil-hq/vibemon/issues/6) in [stencil-hq/vibemon](https://github.com/stencil-hq/vibemon)
+2. ❗ Opened issue [#4](https://github.com/stencil-hq/vibemon/issues/4) in [stencil-hq/vibemon](https://github.com/stencil-hq/vibemon)
+3. 💪 Opened PR [#160](https://github.com/TechDufus/dotfiles/pull/160) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+4. 🎉 Merged PR [#52](https://github.com/TechDufus/techdufus.github.io/pull/52) in [TechDufus/techdufus.github.io](https://github.com/TechDufus/techdufus.github.io)
+5. 💪 Opened PR [#52](https://github.com/TechDufus/techdufus.github.io/pull/52) in [TechDufus/techdufus.github.io](https://github.com/TechDufus/techdufus.github.io)
+6. ❗ Opened issue [#159](https://github.com/TechDufus/dotfiles/issues/159) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+7. 🎉 Merged PR [#51](https://github.com/TechDufus/techdufus.github.io/pull/51) in [TechDufus/techdufus.github.io](https://github.com/TechDufus/techdufus.github.io)
+8. 💪 Opened PR [#51](https://github.com/TechDufus/techdufus.github.io/pull/51) in [TechDufus/techdufus.github.io](https://github.com/TechDufus/techdufus.github.io)
+9. 🎉 Merged PR [#50](https://github.com/TechDufus/techdufus.github.io/pull/50) in [TechDufus/techdufus.github.io](https://github.com/TechDufus/techdufus.github.io)
+10. 💪 Opened PR [#50](https://github.com/TechDufus/techdufus.github.io/pull/50) in [TechDufus/techdufus.github.io](https://github.com/TechDufus/techdufus.github.io)
 <!--END_SECTION:activity-->
   </p>
 </details>
