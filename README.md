@@ -45,16 +45,16 @@
     <p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/TechDufus/omp-cloud/pull/2) in [TechDufus/omp-cloud](https://github.com/TechDufus/omp-cloud)
-2. 💪 Opened PR [#2](https://github.com/TechDufus/omp-cloud/pull/2) in [TechDufus/omp-cloud](https://github.com/TechDufus/omp-cloud)
-3. 🎉 Merged PR [#1](https://github.com/TechDufus/omp-cloud/pull/1) in [TechDufus/omp-cloud](https://github.com/TechDufus/omp-cloud)
-4. 💪 Opened PR [#1](https://github.com/TechDufus/omp-cloud/pull/1) in [TechDufus/omp-cloud](https://github.com/TechDufus/omp-cloud)
-5. 🎉 Merged PR [#161](https://github.com/TechDufus/dotfiles/pull/161) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-6. 💪 Opened PR [#161](https://github.com/TechDufus/dotfiles/pull/161) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-7. 🎉 Merged PR [#160](https://github.com/TechDufus/dotfiles/pull/160) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-8. ❗ Opened issue [#6](https://github.com/stencil-hq/vibemon/issues/6) in [stencil-hq/vibemon](https://github.com/stencil-hq/vibemon)
-9. ❗ Opened issue [#4](https://github.com/stencil-hq/vibemon/issues/4) in [stencil-hq/vibemon](https://github.com/stencil-hq/vibemon)
-10. 💪 Opened PR [#160](https://github.com/TechDufus/dotfiles/pull/160) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+1. 💪 Opened PR [#3](https://github.com/TechDufus/omp-cloud/pull/3) in [TechDufus/omp-cloud](https://github.com/TechDufus/omp-cloud)
+2. 💪 Opened PR [#6](https://github.com/TechDufus/omp-operator/pull/6) in [TechDufus/omp-operator](https://github.com/TechDufus/omp-operator)
+3. 🎉 Merged PR [#2](https://github.com/TechDufus/omp-cloud/pull/2) in [TechDufus/omp-cloud](https://github.com/TechDufus/omp-cloud)
+4. 💪 Opened PR [#2](https://github.com/TechDufus/omp-cloud/pull/2) in [TechDufus/omp-cloud](https://github.com/TechDufus/omp-cloud)
+5. 🎉 Merged PR [#1](https://github.com/TechDufus/omp-cloud/pull/1) in [TechDufus/omp-cloud](https://github.com/TechDufus/omp-cloud)
+6. 💪 Opened PR [#1](https://github.com/TechDufus/omp-cloud/pull/1) in [TechDufus/omp-cloud](https://github.com/TechDufus/omp-cloud)
+7. 🎉 Merged PR [#161](https://github.com/TechDufus/dotfiles/pull/161) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+8. 💪 Opened PR [#161](https://github.com/TechDufus/dotfiles/pull/161) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+9. 🎉 Merged PR [#160](https://github.com/TechDufus/dotfiles/pull/160) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
+10. ❗ Opened issue [#6](https://github.com/stencil-hq/vibemon/issues/6) in [stencil-hq/vibemon](https://github.com/stencil-hq/vibemon)
 <!--END_SECTION:activity-->
   </p>
 </details>
