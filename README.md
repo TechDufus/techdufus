@@ -45,16 +45,16 @@
     <p>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/TechDufus/omp-cloud/pull/3) in [TechDufus/omp-cloud](https://github.com/TechDufus/omp-cloud)
-2. 💪 Opened PR [#6](https://github.com/TechDufus/omp-operator/pull/6) in [TechDufus/omp-operator](https://github.com/TechDufus/omp-operator)
-3. 🎉 Merged PR [#2](https://github.com/TechDufus/omp-cloud/pull/2) in [TechDufus/omp-cloud](https://github.com/TechDufus/omp-cloud)
-4. 💪 Opened PR [#2](https://github.com/TechDufus/omp-cloud/pull/2) in [TechDufus/omp-cloud](https://github.com/TechDufus/omp-cloud)
-5. 🎉 Merged PR [#1](https://github.com/TechDufus/omp-cloud/pull/1) in [TechDufus/omp-cloud](https://github.com/TechDufus/omp-cloud)
-6. 💪 Opened PR [#1](https://github.com/TechDufus/omp-cloud/pull/1) in [TechDufus/omp-cloud](https://github.com/TechDufus/omp-cloud)
-7. 🎉 Merged PR [#161](https://github.com/TechDufus/dotfiles/pull/161) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-8. 💪 Opened PR [#161](https://github.com/TechDufus/dotfiles/pull/161) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-9. 🎉 Merged PR [#160](https://github.com/TechDufus/dotfiles/pull/160) in [TechDufus/dotfiles](https://github.com/TechDufus/dotfiles)
-10. ❗ Opened issue [#6](https://github.com/stencil-hq/vibemon/issues/6) in [stencil-hq/vibemon](https://github.com/stencil-hq/vibemon)
+1. ❗ Opened issue [#1450](https://github.com/quickshell-mirror/quickshell/issues/1450) in [quickshell-mirror/quickshell](https://github.com/quickshell-mirror/quickshell)
+2. 🗣 Commented on [#13](https://github.com/piyush97/omaswitch/issues/13#issuecomment-6672738879) in [piyush97/omaswitch](https://github.com/piyush97/omaswitch)
+3. 💪 Opened PR [#8](https://github.com/stencil-hq/vibemon/pull/8) in [stencil-hq/vibemon](https://github.com/stencil-hq/vibemon)
+4. ❗ Opened issue [#7](https://github.com/stencil-hq/vibemon/issues/7) in [stencil-hq/vibemon](https://github.com/stencil-hq/vibemon)
+5. 🗣 Commented on [#15057](https://github.com/omacom/omarchy/issues/15057#issuecomment-6665048092) in [omacom/omarchy](https://github.com/omacom/omarchy)
+6. ❌ Closed PR [#17442](https://github.com/stablyai/orca/pull/17442) in [stablyai/orca](https://github.com/stablyai/orca)
+7. 💪 Opened PR [#3](https://github.com/TechDufus/omp-cloud/pull/3) in [TechDufus/omp-cloud](https://github.com/TechDufus/omp-cloud)
+8. 💪 Opened PR [#6](https://github.com/TechDufus/omp-operator/pull/6) in [TechDufus/omp-operator](https://github.com/TechDufus/omp-operator)
+9. 🎉 Merged PR [#2](https://github.com/TechDufus/omp-cloud/pull/2) in [TechDufus/omp-cloud](https://github.com/TechDufus/omp-cloud)
+10. 💪 Opened PR [#2](https://github.com/TechDufus/omp-cloud/pull/2) in [TechDufus/omp-cloud](https://github.com/TechDufus/omp-cloud)
 <!--END_SECTION:activity-->
   </p>
 </details>
