@@ -45,16 +45,16 @@
     <p>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#4](https://github.com/petzkod5/JobsDone/issues/4) in [petzkod5/JobsDone](https://github.com/petzkod5/JobsDone)
-2. 🎉 Merged PR [#45](https://github.com/TechDufus/dash/pull/45) in [TechDufus/dash](https://github.com/TechDufus/dash)
-3. 💪 Opened PR [#45](https://github.com/TechDufus/dash/pull/45) in [TechDufus/dash](https://github.com/TechDufus/dash)
-4. 🎉 Merged PR [#44](https://github.com/TechDufus/dash/pull/44) in [TechDufus/dash](https://github.com/TechDufus/dash)
-5. 💪 Opened PR [#44](https://github.com/TechDufus/dash/pull/44) in [TechDufus/dash](https://github.com/TechDufus/dash)
-6. 🚀 Published release [v0.14.11: dash is public](https://github.com/TechDufus/dash/releases/tag/v0.14.11) in [TechDufus/dash](https://github.com/TechDufus/dash)
-7. 🎉 Merged PR [#43](https://github.com/TechDufus/dash/pull/43) in [TechDufus/dash](https://github.com/TechDufus/dash)
-8. 💪 Opened PR [#43](https://github.com/TechDufus/dash/pull/43) in [TechDufus/dash](https://github.com/TechDufus/dash)
-9. ❗ Opened issue [#1450](https://github.com/quickshell-mirror/quickshell/issues/1450) in [quickshell-mirror/quickshell](https://github.com/quickshell-mirror/quickshell)
-10. 🗣 Commented on [#13](https://github.com/piyush97/omaswitch/issues/13#issuecomment-6672738879) in [piyush97/omaswitch](https://github.com/piyush97/omaswitch)
+1. 🗣 Commented on [#9609](https://github.com/omacom/omarchy/issues/9609#issuecomment-6717193011) in [omacom/omarchy](https://github.com/omacom/omarchy)
+2. ❗ Opened issue [#4](https://github.com/petzkod5/JobsDone/issues/4) in [petzkod5/JobsDone](https://github.com/petzkod5/JobsDone)
+3. 🎉 Merged PR [#45](https://github.com/TechDufus/dash/pull/45) in [TechDufus/dash](https://github.com/TechDufus/dash)
+4. 💪 Opened PR [#45](https://github.com/TechDufus/dash/pull/45) in [TechDufus/dash](https://github.com/TechDufus/dash)
+5. 🎉 Merged PR [#44](https://github.com/TechDufus/dash/pull/44) in [TechDufus/dash](https://github.com/TechDufus/dash)
+6. 💪 Opened PR [#44](https://github.com/TechDufus/dash/pull/44) in [TechDufus/dash](https://github.com/TechDufus/dash)
+7. 🚀 Published release [v0.14.11: dash is public](https://github.com/TechDufus/dash/releases/tag/v0.14.11) in [TechDufus/dash](https://github.com/TechDufus/dash)
+8. 🎉 Merged PR [#43](https://github.com/TechDufus/dash/pull/43) in [TechDufus/dash](https://github.com/TechDufus/dash)
+9. 💪 Opened PR [#43](https://github.com/TechDufus/dash/pull/43) in [TechDufus/dash](https://github.com/TechDufus/dash)
+10. ❗ Opened issue [#1450](https://github.com/quickshell-mirror/quickshell/issues/1450) in [quickshell-mirror/quickshell](https://github.com/quickshell-mirror/quickshell)
 <!--END_SECTION:activity-->
   </p>
 </details>
