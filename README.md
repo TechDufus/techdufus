@@ -45,16 +45,16 @@
     <p>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.16.0: Hardware fleet](https://github.com/TechDufus/dash/releases/tag/v0.16.0) in [TechDufus/dash](https://github.com/TechDufus/dash)
-2. 🎉 Merged PR [#47](https://github.com/TechDufus/dash/pull/47) in [TechDufus/dash](https://github.com/TechDufus/dash)
-3. 💪 Opened PR [#47](https://github.com/TechDufus/dash/pull/47) in [TechDufus/dash](https://github.com/TechDufus/dash)
-4. 🚀 Published release [v0.15.0: Proxmox clusters](https://github.com/TechDufus/dash/releases/tag/v0.15.0) in [TechDufus/dash](https://github.com/TechDufus/dash)
-5. 🎉 Merged PR [#46](https://github.com/TechDufus/dash/pull/46) in [TechDufus/dash](https://github.com/TechDufus/dash)
-6. 💪 Opened PR [#46](https://github.com/TechDufus/dash/pull/46) in [TechDufus/dash](https://github.com/TechDufus/dash)
-7. 🗣 Commented on [#9609](https://github.com/omacom/omarchy/issues/9609#issuecomment-6717193011) in [omacom/omarchy](https://github.com/omacom/omarchy)
-8. ❗ Opened issue [#4](https://github.com/petzkod5/JobsDone/issues/4) in [petzkod5/JobsDone](https://github.com/petzkod5/JobsDone)
-9. 🎉 Merged PR [#45](https://github.com/TechDufus/dash/pull/45) in [TechDufus/dash](https://github.com/TechDufus/dash)
-10. 💪 Opened PR [#45](https://github.com/TechDufus/dash/pull/45) in [TechDufus/dash](https://github.com/TechDufus/dash)
+1. 🎉 Merged PR [#52](https://github.com/TechDufus/dash/pull/52) in [TechDufus/dash](https://github.com/TechDufus/dash)
+2. 💪 Opened PR [#52](https://github.com/TechDufus/dash/pull/52) in [TechDufus/dash](https://github.com/TechDufus/dash)
+3. 🎉 Merged PR [#51](https://github.com/TechDufus/dash/pull/51) in [TechDufus/dash](https://github.com/TechDufus/dash)
+4. 💪 Opened PR [#51](https://github.com/TechDufus/dash/pull/51) in [TechDufus/dash](https://github.com/TechDufus/dash)
+5. 🎉 Merged PR [#50](https://github.com/TechDufus/dash/pull/50) in [TechDufus/dash](https://github.com/TechDufus/dash)
+6. 💪 Opened PR [#50](https://github.com/TechDufus/dash/pull/50) in [TechDufus/dash](https://github.com/TechDufus/dash)
+7. 🎉 Merged PR [#49](https://github.com/TechDufus/dash/pull/49) in [TechDufus/dash](https://github.com/TechDufus/dash)
+8. 💪 Opened PR [#49](https://github.com/TechDufus/dash/pull/49) in [TechDufus/dash](https://github.com/TechDufus/dash)
+9. 🚀 Published release [v0.16.1: usage figures stay in their cards](https://github.com/TechDufus/dash/releases/tag/v0.16.1) in [TechDufus/dash](https://github.com/TechDufus/dash)
+10. 🎉 Merged PR [#48](https://github.com/TechDufus/dash/pull/48) in [TechDufus/dash](https://github.com/TechDufus/dash)
 <!--END_SECTION:activity-->
   </p>
 </details>
