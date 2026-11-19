@@ -45,16 +45,16 @@
     <p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#52](https://github.com/TechDufus/dash/pull/52) in [TechDufus/dash](https://github.com/TechDufus/dash)
-2. 💪 Opened PR [#52](https://github.com/TechDufus/dash/pull/52) in [TechDufus/dash](https://github.com/TechDufus/dash)
-3. 🎉 Merged PR [#51](https://github.com/TechDufus/dash/pull/51) in [TechDufus/dash](https://github.com/TechDufus/dash)
-4. 💪 Opened PR [#51](https://github.com/TechDufus/dash/pull/51) in [TechDufus/dash](https://github.com/TechDufus/dash)
-5. 🎉 Merged PR [#50](https://github.com/TechDufus/dash/pull/50) in [TechDufus/dash](https://github.com/TechDufus/dash)
-6. 💪 Opened PR [#50](https://github.com/TechDufus/dash/pull/50) in [TechDufus/dash](https://github.com/TechDufus/dash)
-7. 🎉 Merged PR [#49](https://github.com/TechDufus/dash/pull/49) in [TechDufus/dash](https://github.com/TechDufus/dash)
-8. 💪 Opened PR [#49](https://github.com/TechDufus/dash/pull/49) in [TechDufus/dash](https://github.com/TechDufus/dash)
-9. 🚀 Published release [v0.16.1: usage figures stay in their cards](https://github.com/TechDufus/dash/releases/tag/v0.16.1) in [TechDufus/dash](https://github.com/TechDufus/dash)
-10. 🎉 Merged PR [#48](https://github.com/TechDufus/dash/pull/48) in [TechDufus/dash](https://github.com/TechDufus/dash)
+1. 💪 Opened PR [#19726](https://github.com/can1357/oh-my-pi/pull/19726) in [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)
+2. 🎉 Merged PR [#52](https://github.com/TechDufus/dash/pull/52) in [TechDufus/dash](https://github.com/TechDufus/dash)
+3. 💪 Opened PR [#52](https://github.com/TechDufus/dash/pull/52) in [TechDufus/dash](https://github.com/TechDufus/dash)
+4. 🎉 Merged PR [#51](https://github.com/TechDufus/dash/pull/51) in [TechDufus/dash](https://github.com/TechDufus/dash)
+5. 💪 Opened PR [#51](https://github.com/TechDufus/dash/pull/51) in [TechDufus/dash](https://github.com/TechDufus/dash)
+6. 🎉 Merged PR [#50](https://github.com/TechDufus/dash/pull/50) in [TechDufus/dash](https://github.com/TechDufus/dash)
+7. 💪 Opened PR [#50](https://github.com/TechDufus/dash/pull/50) in [TechDufus/dash](https://github.com/TechDufus/dash)
+8. 🎉 Merged PR [#49](https://github.com/TechDufus/dash/pull/49) in [TechDufus/dash](https://github.com/TechDufus/dash)
+9. 💪 Opened PR [#49](https://github.com/TechDufus/dash/pull/49) in [TechDufus/dash](https://github.com/TechDufus/dash)
+10. 🚀 Published release [v0.16.1: usage figures stay in their cards](https://github.com/TechDufus/dash/releases/tag/v0.16.1) in [TechDufus/dash](https://github.com/TechDufus/dash)
 <!--END_SECTION:activity-->
   </p>
 </details>
